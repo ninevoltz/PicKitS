@@ -1,0 +1,2183 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+A	C:\My Projects\PKS\PKS-0202\P18F2550.INC	47;"	q	line:47
+ABDEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	770;"	q	line:770
+ABDOVF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	775;"	q	line:775
+ACCESS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	48;"	q	line:48
+ACKDT	C:\My Projects\PKS\PKS-0202\P18F2550.INC	838;"	q	line:838
+ACKEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	837;"	q	line:837
+ACKSTAT	C:\My Projects\PKS\PKS-0202\P18F2550.INC	839;"	q	line:839
+ACQT0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	802;"	q	line:802
+ACQT1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	803;"	q	line:803
+ACQT2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	804;"	q	line:804
+ACTVIE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	243;"	q	line:243
+ACTVIF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	233;"	q	line:233
+ADCON0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	145;"	q	line:145
+ADCON1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	144;"	q	line:144
+ADCON2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	143;"	q	line:143
+ADCS0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	799;"	q	line:799
+ADCS1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	800;"	q	line:800
+ADCS2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	801;"	q	line:801
+ADDEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	682;"	q	line:682
+ADDR0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	287;"	q	line:287
+ADDR1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	288;"	q	line:288
+ADDR2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	289;"	q	line:289
+ADDR3	C:\My Projects\PKS\PKS-0202\P18F2550.INC	290;"	q	line:290
+ADDR4	C:\My Projects\PKS\PKS-0202\P18F2550.INC	291;"	q	line:291
+ADDR5	C:\My Projects\PKS\PKS-0202\P18F2550.INC	292;"	q	line:292
+ADDR6	C:\My Projects\PKS\PKS-0202\P18F2550.INC	293;"	q	line:293
+ADEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	688;"	q	line:688
+ADFM	C:\My Projects\PKS\PKS-0202\P18F2550.INC	805;"	q	line:805
+ADIE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	606;"	q	line:606
+ADIF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	616;"	q	line:616
+ADIP	C:\My Projects\PKS\PKS-0202\P18F2550.INC	626;"	q	line:626
+ADON	C:\My Projects\PKS\PKS-0202\P18F2550.INC	818;"	q	line:818
+ADRES	C:\My Projects\PKS\PKS-0202\P18F2550.INC	146;"	q	line:146
+ADRESH	C:\My Projects\PKS\PKS-0202\P18F2550.INC	148;"	q	line:148
+ADRESL	C:\My Projects\PKS\PKS-0202\P18F2550.INC	147;"	q	line:147
+AN0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	443;"	q	line:443
+AN1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	444;"	q	line:444
+AN2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	445;"	q	line:445
+AN3	C:\My Projects\PKS\PKS-0202\P18F2550.INC	446;"	q	line:446
+AN4	C:\My Projects\PKS\PKS-0202\P18F2550.INC	448;"	q	line:448
+BANKED	C:\My Projects\PKS\PKS-0202\P18F2550.INC	49;"	q	line:49
+BAUDCON	C:\My Projects\PKS\PKS-0202\P18F2550.INC	134;"	q	line:134
+BCLIE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	633;"	q	line:633
+BCLIF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	646;"	q	line:646
+BCLIP	C:\My Projects\PKS\PKS-0202\P18F2550.INC	659;"	q	line:659
+BDT	C:\My Projects\PKS\PKS-0202\usb.h	179;"	t	line:179
+BF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	855;"	q	line:855
+BGST	C:\My Projects\PKS\PKS-0202\P18F2550.INC	940;"	q	line:940
+BGST	C:\My Projects\PKS\PKS-0202\P18F2550.INC	964;"	q	line:964
+BOOL	C:\My Projects\PKS\PKS-0202\typedefs.h	209;"	t	line:209
+BOOT_MARKER::0x5555	C:\My Projects\PKS\PKS-0202\project.h	84;"	d	line:84
+BOOT_MARKER_ADDR::0x7CFE	C:\My Projects\PKS\PKS-0202\project.h	85;"	d	line:85
+BOOT_MARKER_ENABLE	C:\My Projects\PKS\PKS-0202\project.h	60;"	d	line:60
+BOOT_PRESENT	C:\My Projects\PKS\PKS-0202\project.h	59;"	d	line:59
+BOR	C:\My Projects\PKS\PKS-0202\P18F2550.INC	914;"	q	line:914
+BRG16	C:\My Projects\PKS\PKS-0202\P18F2550.INC	772;"	q	line:772
+BRGH	C:\My Projects\PKS\PKS-0202\P18F2550.INC	694;"	q	line:694
+BSR	C:\My Projects\PKS\PKS-0202\P18F2550.INC	176;"	q	line:176
+BTOEE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	264;"	q	line:264
+BTOEF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	255;"	q	line:255
+BTSEE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	265;"	q	line:265
+BTSEF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	256;"	q	line:256
+BYTE	C:\My Projects\PKS\PKS-0202\typedefs.h	83;"	t	line:83
+C	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1001;"	q	line:1001
+C1INV	C:\My Projects\PKS\PKS-0202\P18F2550.INC	722;"	q	line:722
+C1OUT	C:\My Projects\PKS\PKS-0202\P18F2550.INC	724;"	q	line:724
+C2INV	C:\My Projects\PKS\PKS-0202\P18F2550.INC	723;"	q	line:723
+C2OUT	C:\My Projects\PKS\PKS-0202\P18F2550.INC	725;"	q	line:725
+CBUF	C:\My Projects\PKS\PKS-0202\cbuf.h	50;"	s	line:50
+CBUF1_LEN::255	C:\My Projects\PKS\PKS-0202\cbuf.h	68;"	d	line:68
+CBUF2_LEN::255	C:\My Projects\PKS\PKS-0202\cbuf.h	94;"	d	line:94
+CBUF3_LEN::255	C:\My Projects\PKS\PKS-0202\cbuf.h	121;"	d	line:121
+CCP1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	488;"	q	line:488
+CCP1AS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	130;"	q	line:130
+CCP1CON	C:\My Projects\PKS\PKS-0202\P18F2550.INC	139;"	q	line:139
+CCP1DEL	C:\My Projects\PKS\PKS-0202\P18F2550.INC	132;"	q	line:132
+CCP1IE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	602;"	q	line:602
+CCP1IF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	612;"	q	line:612
+CCP1IP	C:\My Projects\PKS\PKS-0202\P18F2550.INC	622;"	q	line:622
+CCP1M0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	790;"	q	line:790
+CCP1M1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	791;"	q	line:791
+CCP1M2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	792;"	q	line:792
+CCP1M3	C:\My Projects\PKS\PKS-0202\P18F2550.INC	793;"	q	line:793
+CCP2CON	C:\My Projects\PKS\PKS-0202\P18F2550.INC	135;"	q	line:135
+CCP2IE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	630;"	q	line:630
+CCP2IF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	643;"	q	line:643
+CCP2IP	C:\My Projects\PKS\PKS-0202\P18F2550.INC	656;"	q	line:656
+CCP2M0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	781;"	q	line:781
+CCP2M1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	782;"	q	line:782
+CCP2M2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	783;"	q	line:783
+CCP2M3	C:\My Projects\PKS\PKS-0202\P18F2550.INC	784;"	q	line:784
+CCPR1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	140;"	q	line:140
+CCPR1H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	142;"	q	line:142
+CCPR1L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	141;"	q	line:141
+CCPR2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	136;"	q	line:136
+CCPR2H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	138;"	q	line:138
+CCPR2L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	137;"	q	line:137
+CFGS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	674;"	q	line:674
+CHS0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	820;"	q	line:820
+CHS1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	821;"	q	line:821
+CHS2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	822;"	q	line:822
+CHS3	C:\My Projects\PKS\PKS-0202\P18F2550.INC	823;"	q	line:823
+CIS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	721;"	q	line:721
+CK	C:\My Projects\PKS\PKS-0202\P18F2550.INC	494;"	q	line:494
+CKE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	861;"	q	line:861
+CKP	C:\My Projects\PKS\PKS-0202\P18F2550.INC	848;"	q	line:848
+CM0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	718;"	q	line:718
+CM1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	719;"	q	line:719
+CM2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	720;"	q	line:720
+CMCON	C:\My Projects\PKS\PKS-0202\P18F2550.INC	128;"	q	line:128
+CMIE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	636;"	q	line:636
+CMIF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	649;"	q	line:649
+CMIP	C:\My Projects\PKS\PKS-0202\P18F2550.INC	662;"	q	line:662
+COMM_0_FLAG::comm_flags1_B.bit0	C:\My Projects\PKS\PKS-0202\comm_gen.h	178;"	d	line:178
+COMM_1_FLAG::comm_flags1_B.bit1	C:\My Projects\PKS\PKS-0202\comm_gen.h	179;"	d	line:179
+COMM_2_FLAG::comm_flags1_B.bit2	C:\My Projects\PKS\PKS-0202\comm_gen.h	180;"	d	line:180
+COMM_3_FLAG::comm_flags1_B.bit3	C:\My Projects\PKS\PKS-0202\comm_gen.h	181;"	d	line:181
+COMM_4_FLAG::comm_flags1_B.bit4	C:\My Projects\PKS\PKS-0202\comm_gen.h	183;"	d	line:183
+COMM_5_FLAG::comm_flags1_B.bit5	C:\My Projects\PKS\PKS-0202\comm_gen.h	184;"	d	line:184
+COMM_6_FLAG::comm_flags1_B.bit6	C:\My Projects\PKS\PKS-0202\comm_gen.h	185;"	d	line:185
+COMM_7_FLAG::comm_flags1_B.bit7	C:\My Projects\PKS\PKS-0202\comm_gen.h	186;"	d	line:186
+COMM_CB_EVENT_FLAG::exec_control_B[9].bit0	C:\My Projects\PKS\PKS-0202\comm_gen.h	124;"	d	line:124
+COMM_CB_EVENT_MACRO65K_FLAG::exec_control_B[10].bit1	C:\My Projects\PKS\PKS-0202\comm_gen.h	132;"	d	line:132
+COMM_CB_EVENT_MACRO_DONE_FLAG::exec_control_B[10].bit2	C:\My Projects\PKS\PKS-0202\comm_gen.h	133;"	d	line:133
+COMM_CB_EVENT_MACRO_LOOP_FLAG::exec_control_B[10].bit0	C:\My Projects\PKS\PKS-0202\comm_gen.h	131;"	d	line:131
+COMM_CB_EVENT_STATUS_ERR_FLAG::exec_control_B[10].bit5	C:\My Projects\PKS\PKS-0202\comm_gen.h	136;"	d	line:136
+COMM_CB_EVENT_TIMEOUT_AB0_FLAG::exec_control_B[10].bit3	C:\My Projects\PKS\PKS-0202\comm_gen.h	134;"	d	line:134
+COMM_CB_EVENT_TIMEOUT_AB1_FLAG::exec_control_B[10].bit4	C:\My Projects\PKS\PKS-0202\comm_gen.h	135;"	d	line:135
+COMM_CB_EVENT_TIME_FLAG::exec_control_B[9].bit1	C:\My Projects\PKS\PKS-0202\comm_gen.h	125;"	d	line:125
+COMM_CB_I2CM_AUX1_PORT_FLAG::exec_control_B[21].bit0	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	135;"	d	line:135
+COMM_CB_I2CM_AUX1_TRIS_FLAG::exec_control_B[21].bit2	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	137;"	d	line:137
+COMM_CB_I2CM_AUX2_PORT_FLAG::exec_control_B[21].bit1	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	136;"	d	line:136
+COMM_CB_I2CM_AUX2_TRIS_FLAG::exec_control_B[21].bit3	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	138;"	d	line:138
+COMM_CB_I2CM_BITRATE_REG::exec_control_B[23]._byte	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	140;"	d	line:140
+COMM_CB_I2CM_EVENT_ACK_RX_FLAG::exec_control_B[16].bit5	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	127;"	d	line:127
+COMM_CB_I2CM_EVENT_ACK_TX_FLAG::exec_control_B[16].bit3	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	125;"	d	line:125
+COMM_CB_I2CM_EVENT_BYTE_RX_FLAG::exec_control_B[17].bit0	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	131;"	d	line:131
+COMM_CB_I2CM_EVENT_BYTE_TX_FLAG::exec_control_B[16].bit7	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	129;"	d	line:129
+COMM_CB_I2CM_EVENT_RESTART_TX_FLAG::exec_control_B[16].bit2	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	124;"	d	line:124
+COMM_CB_I2CM_EVENT_START_TX_FLAG::exec_control_B[16].bit0	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	122;"	d	line:122
+COMM_CB_I2CM_EVENT_STATUS_ERR_FLAG::exec_control_B[17].bit2	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	133;"	d	line:133
+COMM_CB_I2CM_EVENT_STOP_TX_FLAG::exec_control_B[16].bit1	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	123;"	d	line:123
+COMM_CB_I2CM_EVENT_XACT_ERR_FLAG::exec_control_B[17].bit1	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	132;"	d	line:132
+COMM_CB_I2CS_DATA_0_DFLT_REG::exec_control_B[21]._b	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	118;"	d	line:118
+COMM_CB_I2CS_DATA_N_DFLT_REG::exec_control_B[20]._b	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	117;"	d	line:117
+COMM_CB_I2CS_EVENTEN_ACK_RX_FLAG::exec_control_B[17].bit3	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	107;"	d	line:107
+COMM_CB_I2CS_EVENTEN_ADDR_RX_FLAG::exec_control_B[17].bit0	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	104;"	d	line:104
+COMM_CB_I2CS_EVENTEN_DATA_RQ_FLAG::exec_control_B[18].bit2	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	115;"	d	line:115
+COMM_CB_I2CS_EVENTEN_DATA_RX_FLAG::exec_control_B[17].bit1	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	105;"	d	line:105
+COMM_CB_I2CS_EVENTEN_DATA_TX_FLAG::exec_control_B[17].bit2	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	106;"	d	line:106
+COMM_CB_I2CS_EVENTEN_NACK_RX_FLAG::exec_control_B[17].bit4	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	108;"	d	line:108
+COMM_CB_I2CS_EVENTEN_REGREAD_FLAG::exec_control_B[17].bit5	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	109;"	d	line:109
+COMM_CB_I2CS_EVENTEN_REGWRITE_FLAG::exec_control_B[17].bit6	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	110;"	d	line:110
+COMM_CB_I2CS_EVENTEN_START_FLAG::exec_control_B[18].bit0	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	113;"	d	line:113
+COMM_CB_I2CS_EVENTEN_STATUSERR_FLAG::exec_control_B[17].bit7	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	111;"	d	line:111
+COMM_CB_I2CS_EVENTEN_STOP_FLAG::exec_control_B[18].bit1	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	114;"	d	line:114
+COMM_CB_I2CS_MODE_REG::exec_control_B[16]._b	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	102;"	d	line:102
+COMM_CB_I2CS_SLAVE_ADDR_MASK_REG::exec_control_B[23]._b	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	120;"	d	line:120
+COMM_CB_I2CS_SLAVE_ADDR_REG::exec_control_B[22]._b	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	119;"	d	line:119
+COMM_CB_LIN_AUTOBAUD_FLAG::exec_control_B[16].bit7	C:\My Projects\PKS\PKS-0202\comm_lin.h	95;"	d	line:95
+COMM_CB_LIN_BRG_HI_REG::exec_control_B[23]._byte	C:\My Projects\PKS\PKS-0202\comm_lin.h	105;"	d	line:105
+COMM_CB_LIN_BRG_LO_REG::exec_control_B[22]._byte	C:\My Projects\PKS\PKS-0202\comm_lin.h	104;"	d	line:104
+COMM_CB_LIN_CS_FLAG::exec_control_B[16].bit3	C:\My Projects\PKS\PKS-0202\comm_lin.h	93;"	d	line:93
+COMM_CB_LIN_EVENT_EN_AUTOBAUD_FLAG::exec_control_B[17].bit4	C:\My Projects\PKS\PKS-0202\comm_lin.h	101;"	d	line:101
+COMM_CB_LIN_EVENT_EN_BREAK_RX_FLAG::exec_control_B[17].bit3	C:\My Projects\PKS\PKS-0202\comm_lin.h	100;"	d	line:100
+COMM_CB_LIN_EVENT_EN_BREAK_TX_FLAG::exec_control_B[17].bit2	C:\My Projects\PKS\PKS-0202\comm_lin.h	99;"	d	line:99
+COMM_CB_LIN_EVENT_EN_DATA_RX_FLAG::exec_control_B[17].bit0	C:\My Projects\PKS\PKS-0202\comm_lin.h	97;"	d	line:97
+COMM_CB_LIN_EVENT_EN_DATA_TX_FLAG::exec_control_B[17].bit1	C:\My Projects\PKS\PKS-0202\comm_lin.h	98;"	d	line:98
+COMM_CB_LIN_EVENT_EN_STAT_ERR_FLAG::exec_control_B[17].bit7	C:\My Projects\PKS\PKS-0202\comm_lin.h	102;"	d	line:102
+COMM_CB_LIN_RCV_ENABLE_FLAG::exec_control_B[16].bit6	C:\My Projects\PKS\PKS-0202\comm_lin.h	94;"	d	line:94
+COMM_CB_MACRO_ABORT_FLAG::exec_control_B[9].bit7	C:\My Projects\PKS\PKS-0202\comm_gen.h	129;"	d	line:129
+COMM_CB_MODE_REG::exec_control_B[8]._byte	C:\My Projects\PKS\PKS-0202\comm_gen.h	138;"	d	line:138
+COMM_CB_PULLUP_ENABLE_FLAG::exec_control_B[9].bit4	C:\My Projects\PKS\PKS-0202\comm_gen.h	126;"	d	line:126
+COMM_CB_SPI_BITRATE_PRESCALE_REG::exec_control_B[22]._byte	C:\My Projects\PKS\PKS-0202\comm_spi.h	130;"	d	line:130
+COMM_CB_SPI_BITRATE_SCALE_REG::exec_control_B[23]._byte	C:\My Projects\PKS\PKS-0202\comm_spi.h	131;"	d	line:131
+COMM_CB_SPI_CONFIG_CKE_FLAG::exec_control_B[17].bit1	C:\My Projects\PKS\PKS-0202\comm_spi.h	123;"	d	line:123
+COMM_CB_SPI_CONFIG_CKP_FLAG::exec_control_B[17].bit2	C:\My Projects\PKS\PKS-0202\comm_spi.h	124;"	d	line:124
+COMM_CB_SPI_CONFIG_CSPOL_FLAG::exec_control_B[17].bit7	C:\My Projects\PKS\PKS-0202\comm_spi.h	128;"	d	line:128
+COMM_CB_SPI_CONFIG_DAOD_FLAG::exec_control_B[17].bit3	C:\My Projects\PKS\PKS-0202\comm_spi.h	125;"	d	line:125
+COMM_CB_SPI_CONFIG_REG::exec_control_B[17]._byte	C:\My Projects\PKS\PKS-0202\comm_spi.h	121;"	d	line:121
+COMM_CB_SPI_CONFIG_SMP_FLAG::exec_control_B[17].bit0	C:\My Projects\PKS\PKS-0202\comm_spi.h	122;"	d	line:122
+COMM_CB_SPI_EVENT_BYTE_RX_FLAG::exec_control_B[16].bit0	C:\My Projects\PKS\PKS-0202\comm_spi.h	117;"	d	line:117
+COMM_CB_SPI_EVENT_BYTE_TX_FLAG::exec_control_B[16].bit1	C:\My Projects\PKS\PKS-0202\comm_spi.h	118;"	d	line:118
+COMM_CB_SPI_EVENT_STATUS_ERR_FLAG::exec_control_B[16].bit2	C:\My Projects\PKS\PKS-0202\comm_spi.h	119;"	d	line:119
+COMM_CB_USART_19_REG::exec_control_B[19]._byte	C:\My Projects\PKS\PKS-0202\comm_usart.h	115;"	d	line:115
+COMM_CB_USART_20_REG::exec_control_B[20]._byte	C:\My Projects\PKS\PKS-0202\comm_usart.h	116;"	d	line:116
+COMM_CB_USART_AUX1_PORT_FLAG::exec_control_B[21].bit0	C:\My Projects\PKS\PKS-0202\comm_usart.h	119;"	d	line:119
+COMM_CB_USART_AUX1_TRIS_FLAG::exec_control_B[21].bit2	C:\My Projects\PKS\PKS-0202\comm_usart.h	121;"	d	line:121
+COMM_CB_USART_AUX2_PORT_FLAG::exec_control_B[21].bit1	C:\My Projects\PKS\PKS-0202\comm_usart.h	120;"	d	line:120
+COMM_CB_USART_AUX2_TRIS_FLAG::exec_control_B[21].bit3	C:\My Projects\PKS\PKS-0202\comm_usart.h	122;"	d	line:122
+COMM_CB_USART_BRG_HI_REG::exec_control_B[23]._byte	C:\My Projects\PKS\PKS-0202\comm_usart.h	125;"	d	line:125
+COMM_CB_USART_BRG_LO_REG::exec_control_B[22]._byte	C:\My Projects\PKS\PKS-0202\comm_usart.h	124;"	d	line:124
+COMM_CB_USART_CONFIG_9BIT_FLAG::exec_control_B[17].bit1	C:\My Projects\PKS\PKS-0202\comm_usart.h	107;"	d	line:107
+COMM_CB_USART_CONFIG_CKP_FLAG::exec_control_B[17].bit0	C:\My Projects\PKS\PKS-0202\comm_usart.h	106;"	d	line:106
+COMM_CB_USART_CONFIG_RCV_DIS_FLAG::exec_control_B[17].bit2	C:\My Projects\PKS\PKS-0202\comm_usart.h	108;"	d	line:108
+COMM_CB_USART_CONFIG_REG::exec_control_B[17]._byte	C:\My Projects\PKS\PKS-0202\comm_usart.h	105;"	d	line:105
+COMM_CB_USART_EVENT_BREAK_TX_FLAG::exec_control_B[18].bit3	C:\My Projects\PKS\PKS-0202\comm_usart.h	113;"	d	line:113
+COMM_CB_USART_EVENT_BYTE_RX_FLAG::exec_control_B[18].bit0	C:\My Projects\PKS\PKS-0202\comm_usart.h	110;"	d	line:110
+COMM_CB_USART_EVENT_BYTE_TX_FLAG::exec_control_B[18].bit1	C:\My Projects\PKS\PKS-0202\comm_usart.h	111;"	d	line:111
+COMM_CB_USART_EVENT_STATUS_ERR_FLAG::exec_control_B[18].bit2	C:\My Projects\PKS\PKS-0202\comm_usart.h	112;"	d	line:112
+COMM_CB_USART_MODE_REG::exec_control_B[16]._byte	C:\My Projects\PKS\PKS-0202\comm_usart.h	103;"	d	line:103
+COMM_CB_VSRC_ENABLE_FLAG::exec_control_B[9].bit5	C:\My Projects\PKS\PKS-0202\comm_gen.h	127;"	d	line:127
+COMM_CB_VSRC_FAULTLEVEL_REG::exec_control_B[13]._b	C:\My Projects\PKS\PKS-0202\comm_gen.h	141;"	d	line:141
+COMM_CB_VSRC_SETPOINT_REG::exec_control_B[12]._b	C:\My Projects\PKS\PKS-0202\comm_gen.h	140;"	d	line:140
+COMM_CB_VSRC_VAR_FLAG::exec_control_B[9].bit6	C:\My Projects\PKS\PKS-0202\comm_gen.h	128;"	d	line:128
+COMM_GIEL1_FLAG::comm_flags2_B.bit5	C:\My Projects\PKS\PKS-0202\comm_gen.h	194;"	d	line:194
+COMM_GIEL2_FLAG::comm_flags2_B.bit6	C:\My Projects\PKS\PKS-0202\comm_gen.h	195;"	d	line:195
+COMM_GIEL3_FLAG::comm_flags2_B.bit7	C:\My Projects\PKS\PKS-0202\comm_gen.h	196;"	d	line:196
+COMM_I2CM_ADCON0_SCL::0x0B	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	174;"	d	line:174
+COMM_I2CM_ADCON0_SDA::0x07	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	173;"	d	line:173
+COMM_I2CM_ADCON2::0x3D	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	175;"	d	line:175
+COMM_I2CM_ADC_INTV_MSEC::100	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	179;"	d	line:179
+COMM_I2CM_ADC_INTV_TA::COMM_I2CM_ADC_INTV_MSEC*1000.0	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	180;"	d	line:180
+COMM_I2CM_ADC_SCL_TRIS::TRISAbits.TRISA2	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	55;"	d	line:55
+COMM_I2CM_ADC_SDA_TRIS::TRISAbits.TRISA1	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	54;"	d	line:54
+COMM_I2CM_ADC_TIMER::timer0_A1	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	178;"	d	line:178
+COMM_I2CM_SCK::LATBbits.LATB1	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	50;"	d	line:50
+COMM_I2CM_SCK_TRIS::TRISBbits.TRISB1	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	52;"	d	line:52
+COMM_I2CM_SDA::LATBbits.LATB0	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	51;"	d	line:51
+COMM_I2CM_SDA_TRIS::TRISBbits.TRISB0	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	53;"	d	line:53
+COMM_I2CM_SSPCON1_DFLT::0x28;	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	114;"	d	line:114
+COMM_I2CM_SSPCON1_IDLE::0x00;	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	115;"	d	line:115
+COMM_I2CS_ADDR::comm_varbs_B[2]._b	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	154;"	d	line:154
+COMM_I2CS_ADDR_FLAG::comm_varbs_B[0].bit0	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	142;"	d	line:142
+COMM_I2CS_CMND::comm_varbs_B[3]._b	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	155;"	d	line:155
+COMM_I2CS_DATA::comm_varbs_B[1]._b	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	153;"	d	line:153
+COMM_I2CS_DATA_READ_DEFAULT::0xFF	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	183;"	d	line:183
+COMM_I2CS_EVENT_PENDING_FLAG::comm_varbs_B[0].bit6	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	150;"	d	line:150
+COMM_I2CS_FLAGS2::comm_varbs_B[15]._b	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	170;"	d	line:170
+COMM_I2CS_FLAGS::comm_varbs_B[0]._b	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	140;"	d	line:140
+COMM_I2CS_PRO_REG::comm_varbs_B[10]._b	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	163;"	d	line:163
+COMM_I2CS_PRO_REG_BC::comm_varbs_B[11]._b	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	164;"	d	line:164
+COMM_I2CS_PRO_REG_BLKMODE_FLAG::comm_varbs_B[9].bit2	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	180;"	d	line:180
+COMM_I2CS_PRO_REG_FLAGS::comm_varbs_B[9]._b	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	162;"	d	line:162
+COMM_I2CS_PRO_REG_INDEX::comm_varbs_B[12]._b	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	165;"	d	line:165
+COMM_I2CS_PRO_REG_OK_FLAG::comm_varbs_B[0].bit5	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	149;"	d	line:149
+COMM_I2CS_PRO_REG_RDDIS_FLAG::comm_varbs_B[9].bit1	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	179;"	d	line:179
+COMM_I2CS_PRO_REG_SEQ_FLAG::comm_varbs_B[9].bit3	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	181;"	d	line:181
+COMM_I2CS_PRO_REG_WRDIS_FLAG::comm_varbs_B[9].bit0	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	178;"	d	line:178
+COMM_I2CS_PRO_SLAVE_ADDR::comm_varbs_B[6]._b	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	159;"	d	line:159
+COMM_I2CS_PRO_SLAVE_OK_FLAG::comm_varbs_B[0].bit4	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	148;"	d	line:148
+COMM_I2CS_PRO_SLAVE_REGS_INDEX::comm_varbs_B[8]._b	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	161;"	d	line:161
+COMM_I2CS_PRO_SLAVE_REG_INDEX::comm_varbs_B[7]._b	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	160;"	d	line:160
+COMM_I2CS_PRO_TAG::comm_varbs_B[5]._b	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	158;"	d	line:158
+COMM_I2CS_PRO_TAG_END::0x80	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	176;"	d	line:176
+COMM_I2CS_PRO_TAG_REGDEF::0x40	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	175;"	d	line:175
+COMM_I2CS_PRO_TAG_SLAVE::0x20	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	174;"	d	line:174
+COMM_I2CS_PRO_TAG_UNKNOWN::0x00	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	173;"	d	line:173
+COMM_I2CS_READ_DATA_RDY_FLAG::comm_varbs_B[0].bit3	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	146;"	d	line:146
+COMM_I2CS_READ_DATA_RQ_FLAG::comm_varbs_B[0].bit2	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	144;"	d	line:144
+COMM_I2CS_READ_FLAG::comm_varbs_B[0].bit1	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	143;"	d	line:143
+COMM_I2CS_REG::comm_varbs_B[3]._b	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	156;"	d	line:156
+COMM_I2CS_TAGDATA_1::comm_varbs_B[13]._b	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	167;"	d	line:167
+COMM_I2CS_TAGDATA_2::comm_varbs_B[14]._b	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	168;"	d	line:168
+COMM_I2CS_TEMP::comm_varbs_B[4]._b	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	157;"	d	line:157
+COMM_I2CS_TEMP_2_FLAG::comm_varbs_B[0].bit2	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	145;"	d	line:145
+COMM_I2CS_TEMP_3_FLAG::comm_varbs_B[0].bit3	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	147;"	d	line:147
+COMM_I2CS_TEMP_FLAG::comm_varbs_B[0].bit7	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	151;"	d	line:151
+COMM_I2CS_XSTARTED_FLAG::comm_varbs_B[15].bit0	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	171;"	d	line:171
+COMM_IO_1A_DIR::TRISCbits.TRISC6	C:\My Projects\PKS\PKS-0202\comm_gen.h	58;"	d	line:58
+COMM_IO_1A_PIN::PORTCbits.RC6	C:\My Projects\PKS\PKS-0202\comm_gen.h	53;"	d	line:53
+COMM_IO_1B_DIR::TRISAbits.TRISA5	C:\My Projects\PKS\PKS-0202\comm_gen.h	68;"	d	line:68
+COMM_IO_1B_DIR::TRISAbits.TRISA5	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	61;"	d	line:61
+COMM_IO_1B_PIN::PORTAbits.RA5	C:\My Projects\PKS\PKS-0202\comm_gen.h	63;"	d	line:63
+COMM_IO_1B_PIN::PORTAbits.RA5	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	56;"	d	line:56
+COMM_IO_4A_DIR::TRISBbits.TRISB0	C:\My Projects\PKS\PKS-0202\comm_gen.h	59;"	d	line:59
+COMM_IO_4A_PIN::PORTBbits.RB0	C:\My Projects\PKS\PKS-0202\comm_gen.h	54;"	d	line:54
+COMM_IO_4B_DIR::TRISAbits.TRISA1	C:\My Projects\PKS\PKS-0202\comm_gen.h	69;"	d	line:69
+COMM_IO_4B_DIR::TRISAbits.TRISA1	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	62;"	d	line:62
+COMM_IO_4B_PIN::PORTAbits.RA1	C:\My Projects\PKS\PKS-0202\comm_gen.h	64;"	d	line:64
+COMM_IO_4B_PIN::PORTAbits.RA1	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	57;"	d	line:57
+COMM_IO_5A_DIR::TRISBbits.TRISB1	C:\My Projects\PKS\PKS-0202\comm_gen.h	60;"	d	line:60
+COMM_IO_5A_PIN::PORTBbits.RB1	C:\My Projects\PKS\PKS-0202\comm_gen.h	55;"	d	line:55
+COMM_IO_5B_DIR::TRISAbits.TRISA2	C:\My Projects\PKS\PKS-0202\comm_gen.h	70;"	d	line:70
+COMM_IO_5B_DIR::TRISAbits.TRISA2	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	63;"	d	line:63
+COMM_IO_5B_PIN::PORTAbits.RA2	C:\My Projects\PKS\PKS-0202\comm_gen.h	65;"	d	line:65
+COMM_IO_5B_PIN::PORTAbits.RA2	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	58;"	d	line:58
+COMM_IO_6A_DIR::TRISCbits.TRISC7	C:\My Projects\PKS\PKS-0202\comm_gen.h	61;"	d	line:61
+COMM_IO_6A_PIN::PORTCbits.RC7	C:\My Projects\PKS\PKS-0202\comm_gen.h	56;"	d	line:56
+COMM_IO_6B_DIR::TRISAbits.TRISA3	C:\My Projects\PKS\PKS-0202\comm_gen.h	71;"	d	line:71
+COMM_IO_6B_DIR::TRISAbits.TRISA3	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	64;"	d	line:64
+COMM_IO_6B_PIN::PORTAbits.RA3	C:\My Projects\PKS\PKS-0202\comm_gen.h	66;"	d	line:66
+COMM_IO_6B_PIN::PORTAbits.RA3	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	59;"	d	line:59
+COMM_LED_CONFIG_BUSY_DATA::0xA5	C:\My Projects\PKS\PKS-0202\comm_gen.h	262;"	d	line:262
+COMM_LED_CONFIG_BUSY_SCRIPT_END::0xA4	C:\My Projects\PKS\PKS-0202\comm_gen.h	276;"	d	line:276
+COMM_LED_CONFIG_BUSY_SCRIPT_STR::0x20	C:\My Projects\PKS\PKS-0202\comm_gen.h	268;"	d	line:268
+COMM_LED_CONFIG_OFF::0x00	C:\My Projects\PKS\PKS-0202\comm_gen.h	269;"	d	line:269
+COMM_LIN_WAIT_AB_MSEC::15	C:\My Projects\PKS\PKS-0202\comm_lin.h	87;"	d	line:87
+COMM_LIN_WAIT_AB_TA::(COMM_LIN_WAIT_AB_MSEC*1000.0/	C:\My Projects\PKS\PKS-0202\comm_lin.h	88;"	d	line:88
+COMM_LIN_WAIT_BREAK_MSEC::6	C:\My Projects\PKS\PKS-0202\comm_lin.h	84;"	d	line:84
+COMM_LIN_WAIT_BREAK_TA::(COMM_LIN_WAIT_BREAK_MSEC*1000	C:\My Projects\PKS\PKS-0202\comm_lin.h	85;"	d	line:85
+COMM_MACRO_FLAG::comm_flags2_B.bit1	C:\My Projects\PKS\PKS-0202\comm_gen.h	190;"	d	line:190
+COMM_MODE_I2CBBM::0x08	C:\My Projects\PKS\PKS-0202\comm_gen.h	252;"	d	line:252
+COMM_MODE_I2CM::0x01	C:\My Projects\PKS\PKS-0202\comm_gen.h	244;"	d	line:244
+COMM_MODE_I2CS::0x07	C:\My Projects\PKS\PKS-0202\comm_gen.h	251;"	d	line:251
+COMM_MODE_I2CSBBM::0x09	C:\My Projects\PKS\PKS-0202\comm_gen.h	253;"	d	line:253
+COMM_MODE_IDLE::0x00	C:\My Projects\PKS\PKS-0202\comm_gen.h	243;"	d	line:243
+COMM_MODE_LIN::0x0A	C:\My Projects\PKS\PKS-0202\comm_gen.h	254;"	d	line:254
+COMM_MODE_MWIRE_M::0x0B	C:\My Projects\PKS\PKS-0202\comm_gen.h	255;"	d	line:255
+COMM_MODE_SPI::0x02	C:\My Projects\PKS\PKS-0202\comm_gen.h	245;"	d	line:245
+COMM_MODE_SPI_M::0x02	C:\My Projects\PKS\PKS-0202\comm_gen.h	246;"	d	line:246
+COMM_MODE_SPI_S::0x03	C:\My Projects\PKS\PKS-0202\comm_gen.h	247;"	d	line:247
+COMM_MODE_USART_A::0x04	C:\My Projects\PKS\PKS-0202\comm_gen.h	248;"	d	line:248
+COMM_MODE_USART_SM::0x05	C:\My Projects\PKS\PKS-0202\comm_gen.h	249;"	d	line:249
+COMM_MODE_USART_SS::0x06	C:\My Projects\PKS\PKS-0202\comm_gen.h	250;"	d	line:250
+COMM_PROC_DISABLE_FLAG::comm_flags2_B.bit4	C:\My Projects\PKS\PKS-0202\comm_gen.h	193;"	d	line:193
+COMM_PROC_LOOP_FLAG::comm_flags2_B.bit0	C:\My Projects\PKS\PKS-0202\comm_gen.h	189;"	d	line:189
+COMM_PULLUP_PIN::LATAbits.LATA4	C:\My Projects\PKS\PKS-0202\comm_gen.h	74;"	d	line:74
+COMM_PULLUP_TRIS::TRISAbits.TRISA4	C:\My Projects\PKS\PKS-0202\comm_gen.h	73;"	d	line:73
+COMM_SB_BAD_CMND_FLAG::exec_status_B[4].bit4	C:\My Projects\PKS\PKS-0202\comm_gen.h	150;"	d	line:150
+COMM_SB_BUSY_FLAG::exec_status_B[5].bit0	C:\My Projects\PKS\PKS-0202\comm_gen.h	158;"	d	line:158
+COMM_SB_BUTTON_FLAG::exec_status_B[5].bit6	C:\My Projects\PKS\PKS-0202\comm_gen.h	162;"	d	line:162
+COMM_SB_CBUF2_OVF_FLAG::exec_status_B[4].bit5	C:\My Projects\PKS\PKS-0202\comm_gen.h	151;"	d	line:151
+COMM_SB_CBUF3_OVF_FLAG::exec_status_B[4].bit6	C:\My Projects\PKS\PKS-0202\comm_gen.h	152;"	d	line:152
+COMM_SB_END_SCRIPT_FLAG::exec_status_B[5].bit7	C:\My Projects\PKS\PKS-0202\comm_gen.h	163;"	d	line:163
+COMM_SB_GEN_ERR_FLAG::exec_status_B[4].bit7	C:\My Projects\PKS\PKS-0202\comm_gen.h	153;"	d	line:153
+COMM_SB_GEN_ERR_REG::exec_status_B[4]._b	C:\My Projects\PKS\PKS-0202\comm_gen.h	155;"	d	line:155
+COMM_SB_GEN_ERR_REG_MASK::(TD_BYTE)0x7F	C:\My Projects\PKS\PKS-0202\comm_gen.h	156;"	d	line:156
+COMM_SB_I2CM_ADC_SCL_REG::exec_status_B[18]._byte	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	158;"	d	line:158
+COMM_SB_I2CM_ADC_SDA_REG::exec_status_B[17]._byte	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	157;"	d	line:157
+COMM_SB_I2CM_AUX1_PORT_FLAG::exec_status_B[16].bit0	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	152;"	d	line:152
+COMM_SB_I2CM_AUX1_TRIS_FLAG::exec_status_B[16].bit2	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	154;"	d	line:154
+COMM_SB_I2CM_AUX2_PORT_FLAG::exec_status_B[16].bit1	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	153;"	d	line:153
+COMM_SB_I2CM_AUX2_TRIS_FLAG::exec_status_B[16].bit3	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	155;"	d	line:155
+COMM_SB_I2CM_BITRATE_REG::exec_status_B[19]._byte	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	159;"	d	line:159
+COMM_SB_I2CM_ERR_FLAG::exec_status_B[12].bit7	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	148;"	d	line:148
+COMM_SB_I2CM_ERR_REG::exec_status_B[12]._byte	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	149;"	d	line:149
+COMM_SB_I2CM_ERR_REG_MASK::(TD_BYTE)0x7F	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	150;"	d	line:150
+COMM_SB_I2CM_NACK_FLAG::exec_status_B[12].bit2	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	147;"	d	line:147
+COMM_SB_I2CM_REG12::exec_status_B[12]._byte	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	161;"	d	line:161
+COMM_SB_I2CM_REG13::exec_status_B[13]._byte	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	162;"	d	line:162
+COMM_SB_I2CM_REG14::exec_status_B[14]._byte	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	163;"	d	line:163
+COMM_SB_I2CM_REG15::exec_status_B[15]._byte	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	164;"	d	line:164
+COMM_SB_I2CM_REG16::exec_status_B[16]._byte	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	165;"	d	line:165
+COMM_SB_I2CM_REG17::exec_status_B[17]._byte	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	166;"	d	line:166
+COMM_SB_I2CM_REG18::exec_status_B[18]._byte	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	167;"	d	line:167
+COMM_SB_I2CM_REG19::exec_status_B[19]._byte	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	168;"	d	line:168
+COMM_SB_I2CM_SSPOV_FLAG::exec_status_B[12].bit1	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	146;"	d	line:146
+COMM_SB_I2CM_WCOL_FLAG::exec_status_B[12].bit0	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	145;"	d	line:145
+COMM_SB_I2CS_ERR_FLAG::exec_status_B[12].bit7	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	128;"	d	line:128
+COMM_SB_I2CS_ERR_REG::exec_status_B[12]._b	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	129;"	d	line:129
+COMM_SB_I2CS_ERR_REG_MASK::0x7F	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	130;"	d	line:130
+COMM_SB_I2CS_PROFILE_ERR_FLAG::exec_status_B[12].bit0	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	125;"	d	line:125
+COMM_SB_I2CS_SCK_STATE_FLAG::exec_status_B[13].bit0	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	132;"	d	line:132
+COMM_SB_I2CS_SDA_STATE_FLAG::exec_status_B[13].bit1	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	133;"	d	line:133
+COMM_SB_I2CS_SSPOV_FLAG::exec_status_B[12].bit5	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	126;"	d	line:126
+COMM_SB_I2CS_WCOL_FLAG::exec_status_B[12].bit6	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	127;"	d	line:127
+COMM_SB_INIT_ERR_FLAG::exec_status_B[4].bit2	C:\My Projects\PKS\PKS-0202\comm_gen.h	148;"	d	line:148
+COMM_SB_LIN_ABD_FLAG::exec_status_B[13].bit2	C:\My Projects\PKS\PKS-0202\comm_lin.h	131;"	d	line:131
+COMM_SB_LIN_AFAULT_STATE_FLAG::exec_status_B[13].bit0	C:\My Projects\PKS\PKS-0202\comm_lin.h	129;"	d	line:129
+COMM_SB_LIN_BRG_HI_REG::exec_status_B[19]._byte	C:\My Projects\PKS\PKS-0202\comm_lin.h	134;"	d	line:134
+COMM_SB_LIN_BRG_LO_REG::exec_status_B[18]._byte	C:\My Projects\PKS\PKS-0202\comm_lin.h	133;"	d	line:133
+COMM_SB_LIN_CS_STATE_FLAG::exec_status_B[13].bit1	C:\My Projects\PKS\PKS-0202\comm_lin.h	130;"	d	line:130
+COMM_SB_LIN_REG12::exec_status_B[12]._b	C:\My Projects\PKS\PKS-0202\comm_lin.h	110;"	d	line:110
+COMM_SB_LIN_REG13::exec_status_B[13]._b	C:\My Projects\PKS\PKS-0202\comm_lin.h	111;"	d	line:111
+COMM_SB_LIN_REG14::exec_status_B[14]._b	C:\My Projects\PKS\PKS-0202\comm_lin.h	112;"	d	line:112
+COMM_SB_LIN_REG15::exec_status_B[15]._b	C:\My Projects\PKS\PKS-0202\comm_lin.h	113;"	d	line:113
+COMM_SB_LIN_REG16::exec_status_B[16]._b	C:\My Projects\PKS\PKS-0202\comm_lin.h	114;"	d	line:114
+COMM_SB_LIN_REG17::exec_status_B[17]._b	C:\My Projects\PKS\PKS-0202\comm_lin.h	115;"	d	line:115
+COMM_SB_LIN_REG18::exec_status_B[18]._b	C:\My Projects\PKS\PKS-0202\comm_lin.h	116;"	d	line:116
+COMM_SB_LIN_REG19::exec_status_B[19]._b	C:\My Projects\PKS\PKS-0202\comm_lin.h	117;"	d	line:117
+COMM_SB_LIN_STAT_ABAUDERR_FLAG::exec_status_B[12].bit2	C:\My Projects\PKS\PKS-0202\comm_lin.h	122;"	d	line:122
+COMM_SB_LIN_STAT_AFAULT_FLAG::exec_status_B[12].bit2	C:\My Projects\PKS\PKS-0202\comm_lin.h	121;"	d	line:121
+COMM_SB_LIN_STAT_ERR_FLAG::exec_status_B[12].bit7	C:\My Projects\PKS\PKS-0202\comm_lin.h	124;"	d	line:124
+COMM_SB_LIN_STAT_ERR_REG::exec_status_B[12]._byte	C:\My Projects\PKS\PKS-0202\comm_lin.h	126;"	d	line:126
+COMM_SB_LIN_STAT_ERR_REG_MASK::(TD_BYTE)0x7F	C:\My Projects\PKS\PKS-0202\comm_lin.h	127;"	d	line:127
+COMM_SB_LIN_STAT_FERR_FLAG::exec_status_B[12].bit0	C:\My Projects\PKS\PKS-0202\comm_lin.h	119;"	d	line:119
+COMM_SB_LIN_STAT_INITERR_FLAG::exec_status_B[12].bit6	C:\My Projects\PKS\PKS-0202\comm_lin.h	123;"	d	line:123
+COMM_SB_LIN_STAT_OERR_FLAG::exec_status_B[12].bit1	C:\My Projects\PKS\PKS-0202\comm_lin.h	120;"	d	line:120
+COMM_SB_MACRO_BUSY_FLAG::exec_status_B[5].bit1	C:\My Projects\PKS\PKS-0202\comm_gen.h	159;"	d	line:159
+COMM_SB_MACRO_CONT_FLAG::exec_status_B[5].bit2	C:\My Projects\PKS\PKS-0202\comm_gen.h	160;"	d	line:160
+COMM_SB_MODE_REG::exec_status_B[6]._byte	C:\My Projects\PKS\PKS-0202\comm_gen.h	171;"	d	line:171
+COMM_SB_REG_FIRST::4	C:\My Projects\PKS\PKS-0202\comm_gen.h	168;"	d	line:168
+COMM_SB_REG_LAST::19	C:\My Projects\PKS\PKS-0202\comm_gen.h	169;"	d	line:169
+COMM_SB_SPI_BITRATE_PRESCALE_REG::exec_status_B[18]._byte	C:\My Projects\PKS\PKS-0202\comm_spi.h	163;"	d	line:163
+COMM_SB_SPI_BITRATE_SCALE_REG::exec_status_B[19]._byte	C:\My Projects\PKS\PKS-0202\comm_spi.h	164;"	d	line:164
+COMM_SB_SPI_CONFIG_AOD_FLAG::exec_status_B[13].bit3	C:\My Projects\PKS\PKS-0202\comm_spi.h	147;"	d	line:147
+COMM_SB_SPI_CONFIG_CKE_FLAG::exec_status_B[13].bit1	C:\My Projects\PKS\PKS-0202\comm_spi.h	145;"	d	line:145
+COMM_SB_SPI_CONFIG_CKP_FLAG::exec_status_B[13].bit2	C:\My Projects\PKS\PKS-0202\comm_spi.h	146;"	d	line:146
+COMM_SB_SPI_CONFIG_REG::exec_status_B[13]._byte	C:\My Projects\PKS\PKS-0202\comm_spi.h	143;"	d	line:143
+COMM_SB_SPI_CONFIG_SMP_FLAG::exec_status_B[13].bit0	C:\My Projects\PKS\PKS-0202\comm_spi.h	144;"	d	line:144
+COMM_SB_SPI_CS_STATE_FLAG::exec_status_B[14].bit3	C:\My Projects\PKS\PKS-0202\comm_spi.h	152;"	d	line:152
+COMM_SB_SPI_ERR_FLAG::exec_status_B[12].bit7	C:\My Projects\PKS\PKS-0202\comm_spi.h	138;"	d	line:138
+COMM_SB_SPI_ERR_REG::exec_status_B[12]._byte	C:\My Projects\PKS\PKS-0202\comm_spi.h	140;"	d	line:140
+COMM_SB_SPI_ERR_REG_MASK::(TD_BYTE)0x7F	C:\My Projects\PKS\PKS-0202\comm_spi.h	141;"	d	line:141
+COMM_SB_SPI_REG12::exec_status_B[12]._byte	C:\My Projects\PKS\PKS-0202\comm_spi.h	154;"	d	line:154
+COMM_SB_SPI_REG13::exec_status_B[13]._byte	C:\My Projects\PKS\PKS-0202\comm_spi.h	155;"	d	line:155
+COMM_SB_SPI_REG14::exec_status_B[14]._byte	C:\My Projects\PKS\PKS-0202\comm_spi.h	156;"	d	line:156
+COMM_SB_SPI_REG15::exec_status_B[15]._byte	C:\My Projects\PKS\PKS-0202\comm_spi.h	157;"	d	line:157
+COMM_SB_SPI_REG16::exec_status_B[16]._byte	C:\My Projects\PKS\PKS-0202\comm_spi.h	158;"	d	line:158
+COMM_SB_SPI_REG17::exec_status_B[17]._byte	C:\My Projects\PKS\PKS-0202\comm_spi.h	159;"	d	line:159
+COMM_SB_SPI_REG18::exec_status_B[18]._byte	C:\My Projects\PKS\PKS-0202\comm_spi.h	160;"	d	line:160
+COMM_SB_SPI_REG19::exec_status_B[19]._byte	C:\My Projects\PKS\PKS-0202\comm_spi.h	161;"	d	line:161
+COMM_SB_SPI_SCK_STATE_FLAG::exec_status_B[14].bit2	C:\My Projects\PKS\PKS-0202\comm_spi.h	151;"	d	line:151
+COMM_SB_SPI_SDI_STATE_FLAG::exec_status_B[14].bit0	C:\My Projects\PKS\PKS-0202\comm_spi.h	149;"	d	line:149
+COMM_SB_SPI_SDO_STATE_FLAG::exec_status_B[14].bit1	C:\My Projects\PKS\PKS-0202\comm_spi.h	150;"	d	line:150
+COMM_SB_SPI_SSPOV_FLAG::exec_status_B[12].bit1	C:\My Projects\PKS\PKS-0202\comm_spi.h	137;"	d	line:137
+COMM_SB_SPI_WCOL_FLAG::exec_status_B[12].bit0	C:\My Projects\PKS\PKS-0202\comm_spi.h	136;"	d	line:136
+COMM_SB_TIMEOUT_AB0_FLAG::exec_status_B[4].bit0	C:\My Projects\PKS\PKS-0202\comm_gen.h	146;"	d	line:146
+COMM_SB_TIMEOUT_AB1_FLAG::exec_status_B[4].bit1	C:\My Projects\PKS\PKS-0202\comm_gen.h	147;"	d	line:147
+COMM_SB_USART_AUX1_PORT_FLAG::exec_status_B[16].bit0	C:\My Projects\PKS\PKS-0202\comm_usart.h	155;"	d	line:155
+COMM_SB_USART_AUX1_TRIS_FLAG::exec_status_B[16].bit2	C:\My Projects\PKS\PKS-0202\comm_usart.h	157;"	d	line:157
+COMM_SB_USART_AUX2_PORT_FLAG::exec_status_B[16].bit1	C:\My Projects\PKS\PKS-0202\comm_usart.h	156;"	d	line:156
+COMM_SB_USART_AUX2_TRIS_FLAG::exec_status_B[16].bit3	C:\My Projects\PKS\PKS-0202\comm_usart.h	158;"	d	line:158
+COMM_SB_USART_BRG_HI_REG::exec_status_B[19]._byte	C:\My Projects\PKS\PKS-0202\comm_usart.h	161;"	d	line:161
+COMM_SB_USART_BRG_LO_REG::exec_status_B[18]._byte	C:\My Projects\PKS\PKS-0202\comm_usart.h	160;"	d	line:160
+COMM_SB_USART_CONFIG_9BIT_FLAG::exec_status_B[14].bit1	C:\My Projects\PKS\PKS-0202\comm_usart.h	152;"	d	line:152
+COMM_SB_USART_CONFIG_CKP_FLAG::exec_status_B[14].bit0	C:\My Projects\PKS\PKS-0202\comm_usart.h	151;"	d	line:151
+COMM_SB_USART_CONFIG_RCV_DIS_FLAG::exec_status_B[14].bit2	C:\My Projects\PKS\PKS-0202\comm_usart.h	153;"	d	line:153
+COMM_SB_USART_CONFIG_REG::exec_status_B[14]._byte	C:\My Projects\PKS\PKS-0202\comm_usart.h	150;"	d	line:150
+COMM_SB_USART_ERR_FLAG::exec_status_B[12].bit7	C:\My Projects\PKS\PKS-0202\comm_usart.h	143;"	d	line:143
+COMM_SB_USART_ERR_REG::exec_status_B[12]._byte	C:\My Projects\PKS\PKS-0202\comm_usart.h	145;"	d	line:145
+COMM_SB_USART_ERR_REG_MASK::(TD_BYTE)0x7F	C:\My Projects\PKS\PKS-0202\comm_usart.h	146;"	d	line:146
+COMM_SB_USART_INIT_ERR_FLAG::exec_status_B[12].bit2	C:\My Projects\PKS\PKS-0202\comm_usart.h	142;"	d	line:142
+COMM_SB_USART_MODE_REG::exec_status_B[13]._byte	C:\My Projects\PKS\PKS-0202\comm_usart.h	148;"	d	line:148
+COMM_SB_USART_REG12::exec_status_B[12]._b	C:\My Projects\PKS\PKS-0202\comm_usart.h	131;"	d	line:131
+COMM_SB_USART_REG13::exec_status_B[13]._b	C:\My Projects\PKS\PKS-0202\comm_usart.h	132;"	d	line:132
+COMM_SB_USART_REG14::exec_status_B[14]._b	C:\My Projects\PKS\PKS-0202\comm_usart.h	133;"	d	line:133
+COMM_SB_USART_REG15::exec_status_B[15]._b	C:\My Projects\PKS\PKS-0202\comm_usart.h	134;"	d	line:134
+COMM_SB_USART_REG16::exec_status_B[16]._b	C:\My Projects\PKS\PKS-0202\comm_usart.h	135;"	d	line:135
+COMM_SB_USART_REG17::exec_status_B[17]._b	C:\My Projects\PKS\PKS-0202\comm_usart.h	136;"	d	line:136
+COMM_SB_USART_REG18::exec_status_B[18]._b	C:\My Projects\PKS\PKS-0202\comm_usart.h	137;"	d	line:137
+COMM_SB_USART_REG19::exec_status_B[19]._b	C:\My Projects\PKS\PKS-0202\comm_usart.h	138;"	d	line:138
+COMM_SB_USART_STATUS_FERR_FLAG::exec_status_B[12].bit0	C:\My Projects\PKS\PKS-0202\comm_usart.h	140;"	d	line:140
+COMM_SB_USART_STATUS_OERR_FLAG::exec_status_B[12].bit1	C:\My Projects\PKS\PKS-0202\comm_usart.h	141;"	d	line:141
+COMM_SB_VSRC_FAULT_FLAG::exec_status_B[4].bit3	C:\My Projects\PKS\PKS-0202\comm_gen.h	149;"	d	line:149
+COMM_SB_VSRC_MEAS_REG::exec_status_B[7]._b	C:\My Projects\PKS\PKS-0202\comm_gen.h	165;"	d	line:165
+COMM_SB_WAIT_FLAG::exec_status_B[5].bit3	C:\My Projects\PKS\PKS-0202\comm_gen.h	161;"	d	line:161
+COMM_SPI_CS_2_PIN::PORTAbits.RA5	C:\My Projects\PKS\PKS-0202\comm_spi.h	70;"	d	line:70
+COMM_SPI_CS_2_TRIS::TRISAbits.TRISA5	C:\My Projects\PKS\PKS-0202\comm_spi.h	65;"	d	line:65
+COMM_SPI_CS_PIN::LATCbits.LATC6	C:\My Projects\PKS\PKS-0202\comm_spi.h	58;"	d	line:58
+COMM_SPI_CS_TRIS::TRISCbits.TRISC6	C:\My Projects\PKS\PKS-0202\comm_spi.h	53;"	d	line:53
+COMM_SPI_SCK_2_PIN::PORTAbits.RA2	C:\My Projects\PKS\PKS-0202\comm_spi.h	69;"	d	line:69
+COMM_SPI_SCK_2_TRIS::TRISAbits.TRISA2	C:\My Projects\PKS\PKS-0202\comm_spi.h	64;"	d	line:64
+COMM_SPI_SCK_PIN::LATBbits.LATB1	C:\My Projects\PKS\PKS-0202\comm_spi.h	57;"	d	line:57
+COMM_SPI_SCK_TRIS::TRISBbits.TRISB1	C:\My Projects\PKS\PKS-0202\comm_spi.h	52;"	d	line:52
+COMM_SPI_SDI_2_PIN::PORTAbits.RA1	C:\My Projects\PKS\PKS-0202\comm_spi.h	67;"	d	line:67
+COMM_SPI_SDI_2_TRIS::TRISAbits.TRISA1	C:\My Projects\PKS\PKS-0202\comm_spi.h	62;"	d	line:62
+COMM_SPI_SDI_PIN::LATBbits.LATB0	C:\My Projects\PKS\PKS-0202\comm_spi.h	55;"	d	line:55
+COMM_SPI_SDI_TRIS::TRISBbits.TRISB0	C:\My Projects\PKS\PKS-0202\comm_spi.h	50;"	d	line:50
+COMM_SPI_SDO_2_PIN::PORTAbits.RA3	C:\My Projects\PKS\PKS-0202\comm_spi.h	68;"	d	line:68
+COMM_SPI_SDO_2_TRIS::TRISAbits.TRISA3	C:\My Projects\PKS\PKS-0202\comm_spi.h	63;"	d	line:63
+COMM_SPI_SDO_PIN::LATCbits.LATC7	C:\My Projects\PKS\PKS-0202\comm_spi.h	56;"	d	line:56
+COMM_SPI_SDO_TRIS::TRISCbits.TRISC7	C:\My Projects\PKS\PKS-0202\comm_spi.h	51;"	d	line:51
+COMM_STATE_GEN_MACRO_X_INIT::0x02	C:\My Projects\PKS\PKS-0202\comm_gen.h	204;"	d	line:204
+COMM_STATE_GEN_MAX::0x7F	C:\My Projects\PKS\PKS-0202\comm_gen.h	206;"	d	line:206
+COMM_STATE_GEN_NEXT::0x00	C:\My Projects\PKS\PKS-0202\comm_gen.h	202;"	d	line:202
+COMM_STATE_GEN_NEXT_::0x01	C:\My Projects\PKS\PKS-0202\comm_gen.h	203;"	d	line:203
+COMM_STATE_GEN_RESET::0x00	C:\My Projects\PKS\PKS-0202\comm_gen.h	201;"	d	line:201
+COMM_STATE_GEN_STALL::0x0F	C:\My Projects\PKS\PKS-0202\comm_gen.h	205;"	d	line:205
+COMM_STATE_I2CS_MIN::0xC0	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	70;"	d	line:70
+COMM_STATE_SPI_DATAIO::0xFF	C:\My Projects\PKS\PKS-0202\comm_spi.h	101;"	d	line:101
+COMM_TAG_GEN_DATA::0x10	C:\My Projects\PKS\PKS-0202\comm_gen.h	226;"	d	line:226
+COMM_TAG_GEN_DATA_BYTES::0x11	C:\My Projects\PKS\PKS-0202\comm_gen.h	227;"	d	line:227
+COMM_TAG_GEN_END_SCRIPT::0x1C	C:\My Projects\PKS\PKS-0202\comm_gen.h	220;"	d	line:220
+COMM_TAG_GEN_EVENT_END_SCRIPT::0x1B	C:\My Projects\PKS\PKS-0202\comm_gen.h	237;"	d	line:237
+COMM_TAG_GEN_EVENT_MACRO65K::0x16	C:\My Projects\PKS\PKS-0202\comm_gen.h	232;"	d	line:232
+COMM_TAG_GEN_EVENT_MACRO_ABORT::0x17	C:\My Projects\PKS\PKS-0202\comm_gen.h	233;"	d	line:233
+COMM_TAG_GEN_EVENT_MACRO_DONE::0x15	C:\My Projects\PKS\PKS-0202\comm_gen.h	231;"	d	line:231
+COMM_TAG_GEN_EVENT_MACRO_LOOP::0x12	C:\My Projects\PKS\PKS-0202\comm_gen.h	228;"	d	line:228
+COMM_TAG_GEN_EVENT_TIME::0x13	C:\My Projects\PKS\PKS-0202\comm_gen.h	229;"	d	line:229
+COMM_TAG_GEN_EVENT_TIMEOUT_AB0::0x18	C:\My Projects\PKS\PKS-0202\comm_gen.h	234;"	d	line:234
+COMM_TAG_GEN_EVENT_TIMEOUT_AB1::0x19	C:\My Projects\PKS\PKS-0202\comm_gen.h	235;"	d	line:235
+COMM_TAG_GEN_EVENT_TIME_ROLLOVER::0x14	C:\My Projects\PKS\PKS-0202\comm_gen.h	230;"	d	line:230
+COMM_TAG_GEN_LED1::0x12	C:\My Projects\PKS\PKS-0202\comm_gen.h	210;"	d	line:210
+COMM_TAG_GEN_LED2::0x13	C:\My Projects\PKS\PKS-0202\comm_gen.h	211;"	d	line:211
+COMM_TAG_GEN_MACRO_CLEAR::0x19	C:\My Projects\PKS\PKS-0202\comm_gen.h	217;"	d	line:217
+COMM_TAG_GEN_MACRO_DATA::0x1A	C:\My Projects\PKS\PKS-0202\comm_gen.h	218;"	d	line:218
+COMM_TAG_GEN_MACRO_DATA_END::0x1E	C:\My Projects\PKS\PKS-0202\comm_gen.h	222;"	d	line:222
+COMM_TAG_GEN_MACRO_DATA_START::0x1D	C:\My Projects\PKS\PKS-0202\comm_gen.h	221;"	d	line:221
+COMM_TAG_GEN_MACRO_RUN::0x1B	C:\My Projects\PKS\PKS-0202\comm_gen.h	219;"	d	line:219
+COMM_TAG_GEN_MARKER_DEV::0x1C	C:\My Projects\PKS\PKS-0202\comm_gen.h	238;"	d	line:238
+COMM_TAG_GEN_MARKER_HOST::0x1F	C:\My Projects\PKS\PKS-0202\comm_gen.h	223;"	d	line:223
+COMM_TAG_GEN_STATUS_ERR::0x1A	C:\My Projects\PKS\PKS-0202\comm_gen.h	236;"	d	line:236
+COMM_TAG_GEN_TIMEOUT_AB0_RST::0x16	C:\My Projects\PKS\PKS-0202\comm_gen.h	214;"	d	line:214
+COMM_TAG_GEN_TIMEOUT_AB0_SET::0x15	C:\My Projects\PKS\PKS-0202\comm_gen.h	213;"	d	line:213
+COMM_TAG_GEN_TIMEOUT_AB1_RST::0x18	C:\My Projects\PKS\PKS-0202\comm_gen.h	216;"	d	line:216
+COMM_TAG_GEN_TIMEOUT_AB1_SET::0x17	C:\My Projects\PKS\PKS-0202\comm_gen.h	215;"	d	line:215
+COMM_TAG_GEN_TIMER_RESET::0x20	C:\My Projects\PKS\PKS-0202\comm_gen.h	224;"	d	line:224
+COMM_TAG_GEN_WAIT_1::0x10	C:\My Projects\PKS\PKS-0202\comm_gen.h	209;"	d	line:209
+COMM_TAG_I2CM_AUX1_IN::0x93	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	90;"	d	line:90
+COMM_TAG_I2CM_AUX1_OUT::0x92	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	89;"	d	line:89
+COMM_TAG_I2CM_AUX1_RST::0x90	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	87;"	d	line:87
+COMM_TAG_I2CM_AUX1_SET::0x91	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	88;"	d	line:88
+COMM_TAG_I2CM_AUX1_WAIT_0::0x94	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	91;"	d	line:91
+COMM_TAG_I2CM_AUX1_WAIT_1::0x95	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	92;"	d	line:92
+COMM_TAG_I2CM_AUX2_IN::0x99	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	96;"	d	line:96
+COMM_TAG_I2CM_AUX2_OUT::0x98	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	95;"	d	line:95
+COMM_TAG_I2CM_AUX2_RST::0x96	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	93;"	d	line:93
+COMM_TAG_I2CM_AUX2_SET::0x97	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	94;"	d	line:94
+COMM_TAG_I2CM_AUX2_WAIT_0::0x9A	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	97;"	d	line:97
+COMM_TAG_I2CM_AUX2_WAIT_1::0x9B	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	98;"	d	line:98
+COMM_TAG_I2CM_BITRATE::0x87	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	82;"	d	line:82
+COMM_TAG_I2CM_EVENT_ACK_RX::0x85	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	107;"	d	line:107
+COMM_TAG_I2CM_EVENT_ACK_TX::0x83	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	105;"	d	line:105
+COMM_TAG_I2CM_EVENT_BYTE_READ::0x88	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	110;"	d	line:110
+COMM_TAG_I2CM_EVENT_BYTE_WRITE::0x87	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	109;"	d	line:109
+COMM_TAG_I2CM_EVENT_NACK_RX::0x86	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	108;"	d	line:108
+COMM_TAG_I2CM_EVENT_NACK_TX::0x84	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	106;"	d	line:106
+COMM_TAG_I2CM_EVENT_RESTART::0x82	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	104;"	d	line:104
+COMM_TAG_I2CM_EVENT_START::0x80	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	102;"	d	line:102
+COMM_TAG_I2CM_EVENT_STOP::0x81	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	103;"	d	line:103
+COMM_TAG_I2CM_INIT::0x80	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	75;"	d	line:75
+COMM_TAG_I2CM_READ_BLOCK::0x86	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	81;"	d	line:81
+COMM_TAG_I2CM_READ_BLOCK_NLB::0x8A	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	85;"	d	line:85
+COMM_TAG_I2CM_READ_BYTES::0x85	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	80;"	d	line:80
+COMM_TAG_I2CM_READ_BYTES_NLB::0x89	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	84;"	d	line:84
+COMM_TAG_I2CM_RESTART::0x83	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	78;"	d	line:78
+COMM_TAG_I2CM_START::0x81	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	76;"	d	line:76
+COMM_TAG_I2CM_STATUS_ERR::0x8A	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	112;"	d	line:112
+COMM_TAG_I2CM_STOP::0x82	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	77;"	d	line:77
+COMM_TAG_I2CM_WRITE_BYTES::0x84	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	79;"	d	line:79
+COMM_TAG_I2CM_XACT_ERR::0x89	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	111;"	d	line:111
+COMM_TAG_I2CS_EVENT_ACK_RX::0xC3	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	80;"	d	line:80
+COMM_TAG_I2CS_EVENT_ADDR::0xC0	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	77;"	d	line:77
+COMM_TAG_I2CS_EVENT_DATA_RQ::0xC8	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	85;"	d	line:85
+COMM_TAG_I2CS_EVENT_DATA_RX::0xC1	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	78;"	d	line:78
+COMM_TAG_I2CS_EVENT_DATA_TX::0xC2	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	79;"	d	line:79
+COMM_TAG_I2CS_EVENT_NACK_RX::0xC4	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	81;"	d	line:81
+COMM_TAG_I2CS_EVENT_REG_READ::0xC9	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	86;"	d	line:86
+COMM_TAG_I2CS_EVENT_REG_WRITE::0xCA	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	87;"	d	line:87
+COMM_TAG_I2CS_EVENT_STATUS_ERR::0xC7	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	84;"	d	line:84
+COMM_TAG_I2CS_INIT::0xC0	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	72;"	d	line:72
+COMM_TAG_I2CS_REGDATA::0xCB	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	88;"	d	line:88
+COMM_TAG_I2CS_REGDATA_LOAD::0xC2	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	74;"	d	line:74
+COMM_TAG_I2CS_REGDATA_RETURN::0xC3	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	75;"	d	line:75
+COMM_TAG_I2CS_SEND_BYTES::0xC1	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	73;"	d	line:73
+COMM_TAG_I2CS_START::0xC5	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	82;"	d	line:82
+COMM_TAG_I2CS_STOP::0xC6	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	83;"	d	line:83
+COMM_TAG_LIN_BAUD_SET::0x85	C:\My Projects\PKS\PKS-0202\comm_lin.h	74;"	d	line:74
+COMM_TAG_LIN_EVENT_AUTOBAUD::0x85	C:\My Projects\PKS\PKS-0202\comm_lin.h	82;"	d	line:82
+COMM_TAG_LIN_EVENT_BREAK_RX::0x83	C:\My Projects\PKS\PKS-0202\comm_lin.h	80;"	d	line:80
+COMM_TAG_LIN_EVENT_BREAK_TX::0x84	C:\My Projects\PKS\PKS-0202\comm_lin.h	81;"	d	line:81
+COMM_TAG_LIN_EVENT_BYTE_RX::0x80	C:\My Projects\PKS\PKS-0202\comm_lin.h	77;"	d	line:77
+COMM_TAG_LIN_EVENT_BYTE_TX::0x81	C:\My Projects\PKS\PKS-0202\comm_lin.h	78;"	d	line:78
+COMM_TAG_LIN_EVENT_STAT_ERR::0x82	C:\My Projects\PKS\PKS-0202\comm_lin.h	79;"	d	line:79
+COMM_TAG_LIN_INIT::0x80	C:\My Projects\PKS\PKS-0202\comm_lin.h	69;"	d	line:69
+COMM_TAG_LIN_XMT_BRK::0x82	C:\My Projects\PKS\PKS-0202\comm_lin.h	71;"	d	line:71
+COMM_TAG_LIN_XMT_BRK_DATA::0x83	C:\My Projects\PKS\PKS-0202\comm_lin.h	72;"	d	line:72
+COMM_TAG_LIN_XMT_DATA::0x81	C:\My Projects\PKS\PKS-0202\comm_lin.h	70;"	d	line:70
+COMM_TAG_LIN_XMT_FRAME::0x84	C:\My Projects\PKS\PKS-0202\comm_lin.h	73;"	d	line:73
+COMM_TAG_MIN::0x10	C:\My Projects\PKS\PKS-0202\comm_gen.h	208;"	d	line:208
+COMM_TAG_SPI_BITRATE::0x83	C:\My Projects\PKS\PKS-0202\comm_spi.h	89;"	d	line:89
+COMM_TAG_SPI_CS_OFF::0x8C	C:\My Projects\PKS\PKS-0202\comm_spi.h	98;"	d	line:98
+COMM_TAG_SPI_CS_ON::0x8B	C:\My Projects\PKS\PKS-0202\comm_spi.h	97;"	d	line:97
+COMM_TAG_SPI_DATAIO_IN::0x84	C:\My Projects\PKS\PKS-0202\comm_spi.h	90;"	d	line:90
+COMM_TAG_SPI_DATAIO_INOUT::0x86	C:\My Projects\PKS\PKS-0202\comm_spi.h	92;"	d	line:92
+COMM_TAG_SPI_DATAIO_OUT::0x85	C:\My Projects\PKS\PKS-0202\comm_spi.h	91;"	d	line:91
+COMM_TAG_SPI_EVENT_BYTE_RX::0x81	C:\My Projects\PKS\PKS-0202\comm_spi.h	105;"	d	line:105
+COMM_TAG_SPI_EVENT_BYTE_TX::0x80	C:\My Projects\PKS\PKS-0202\comm_spi.h	104;"	d	line:104
+COMM_TAG_SPI_EVENT_STATUS_ERR::0x82	C:\My Projects\PKS\PKS-0202\comm_spi.h	106;"	d	line:106
+COMM_TAG_SPI_INIT::0x89	C:\My Projects\PKS\PKS-0202\comm_spi.h	95;"	d	line:95
+COMM_TAG_SPI_SDO_IN::0x87	C:\My Projects\PKS\PKS-0202\comm_spi.h	93;"	d	line:93
+COMM_TAG_SPI_SDO_OUT::0x88	C:\My Projects\PKS\PKS-0202\comm_spi.h	94;"	d	line:94
+COMM_TAG_USART_9BIT_RST::0x8C	C:\My Projects\PKS\PKS-0202\comm_usart.h	78;"	d	line:78
+COMM_TAG_USART_9BIT_SET::0x8B	C:\My Projects\PKS\PKS-0202\comm_usart.h	77;"	d	line:77
+COMM_TAG_USART_AUX1_IN::0x93	C:\My Projects\PKS\PKS-0202\comm_usart.h	83;"	d	line:83
+COMM_TAG_USART_AUX1_OUT::0x92	C:\My Projects\PKS\PKS-0202\comm_usart.h	82;"	d	line:82
+COMM_TAG_USART_AUX1_RST::0x90	C:\My Projects\PKS\PKS-0202\comm_usart.h	80;"	d	line:80
+COMM_TAG_USART_AUX1_SET::0x91	C:\My Projects\PKS\PKS-0202\comm_usart.h	81;"	d	line:81
+COMM_TAG_USART_AUX1_WAIT_0::0x94	C:\My Projects\PKS\PKS-0202\comm_usart.h	84;"	d	line:84
+COMM_TAG_USART_AUX1_WAIT_1::0x95	C:\My Projects\PKS\PKS-0202\comm_usart.h	85;"	d	line:85
+COMM_TAG_USART_AUX2_IN::0x99	C:\My Projects\PKS\PKS-0202\comm_usart.h	89;"	d	line:89
+COMM_TAG_USART_AUX2_OUT::0x98	C:\My Projects\PKS\PKS-0202\comm_usart.h	88;"	d	line:88
+COMM_TAG_USART_AUX2_RST::0x96	C:\My Projects\PKS\PKS-0202\comm_usart.h	86;"	d	line:86
+COMM_TAG_USART_AUX2_SET::0x97	C:\My Projects\PKS\PKS-0202\comm_usart.h	87;"	d	line:87
+COMM_TAG_USART_AUX2_WAIT_0::0x9A	C:\My Projects\PKS\PKS-0202\comm_usart.h	90;"	d	line:90
+COMM_TAG_USART_AUX2_WAIT_1::0x9B	C:\My Projects\PKS\PKS-0202\comm_usart.h	91;"	d	line:91
+COMM_TAG_USART_BAUD::0x88	C:\My Projects\PKS\PKS-0202\comm_usart.h	74;"	d	line:74
+COMM_TAG_USART_BREAK_DATA_XMT::0x87	C:\My Projects\PKS\PKS-0202\comm_usart.h	73;"	d	line:73
+COMM_TAG_USART_BREAK_XMT::0x86	C:\My Projects\PKS\PKS-0202\comm_usart.h	72;"	d	line:72
+COMM_TAG_USART_CKP_RST::0x8A	C:\My Projects\PKS\PKS-0202\comm_usart.h	76;"	d	line:76
+COMM_TAG_USART_CKP_SET::0x89	C:\My Projects\PKS\PKS-0202\comm_usart.h	75;"	d	line:75
+COMM_TAG_USART_DATA_ARCV_DISABLE::0x85	C:\My Projects\PKS\PKS-0202\comm_usart.h	71;"	d	line:71
+COMM_TAG_USART_DATA_ARCV_ENABLE::0x84	C:\My Projects\PKS\PKS-0202\comm_usart.h	70;"	d	line:70
+COMM_TAG_USART_DATA_SRCV::0x83	C:\My Projects\PKS\PKS-0202\comm_usart.h	69;"	d	line:69
+COMM_TAG_USART_DATA_XMT::0x82	C:\My Projects\PKS\PKS-0202\comm_usart.h	68;"	d	line:68
+COMM_TAG_USART_EVENT_BREAK_TX::0x83	C:\My Projects\PKS\PKS-0202\comm_usart.h	97;"	d	line:97
+COMM_TAG_USART_EVENT_BYTE_RX::0x81	C:\My Projects\PKS\PKS-0202\comm_usart.h	95;"	d	line:95
+COMM_TAG_USART_EVENT_BYTE_TX::0x80	C:\My Projects\PKS\PKS-0202\comm_usart.h	94;"	d	line:94
+COMM_TAG_USART_EVENT_STATUS_ERR::0x82	C:\My Projects\PKS\PKS-0202\comm_usart.h	96;"	d	line:96
+COMM_TAG_USART_INIT::0x80	C:\My Projects\PKS\PKS-0202\comm_usart.h	66;"	d	line:66
+COMM_TAG_USART_RESET::0x81	C:\My Projects\PKS\PKS-0202\comm_usart.h	67;"	d	line:67
+COMM_TIMEOUT_AB0_FLAG::comm_flags2_B.bit2	C:\My Projects\PKS\PKS-0202\comm_gen.h	191;"	d	line:191
+COMM_TIMEOUT_AB1_FLAG::comm_flags2_B.bit3	C:\My Projects\PKS\PKS-0202\comm_gen.h	192;"	d	line:192
+COMM_USART_FLAGS::comm_varbs_B[0]._b	C:\My Projects\PKS\PKS-0202\comm_usart.h	166;"	d	line:166
+COMM_USART_RCV_FLAG::comm_varbs_B[0].bit0	C:\My Projects\PKS\PKS-0202\comm_usart.h	168;"	d	line:168
+COMM_VSRC_MEAS_INTV_MSEC::100	C:\My Projects\PKS\PKS-0202\comm_gen.h	101;"	d	line:101
+COMM_VSRC_MEAS_INTV_TA::COMM_VSRC_MEAS_INTV_MSEC*1000.	C:\My Projects\PKS\PKS-0202\comm_gen.h	102;"	d	line:102
+COMM_VSRC_TIMER::timer0_A3	C:\My Projects\PKS\PKS-0202\comm_gen.h	100;"	d	line:100
+CRC16EE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	262;"	q	line:262
+CRC16EF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	253;"	q	line:253
+CRC5EE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	261;"	q	line:261
+CRC5EF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	252;"	q	line:252
+CREN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	683;"	q	line:683
+CSRC	C:\My Projects\PKS\PKS-0202\P18F2550.INC	699;"	q	line:699
+CVR0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	729;"	q	line:729
+CVR1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	730;"	q	line:730
+CVR2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	731;"	q	line:731
+CVR3	C:\My Projects\PKS\PKS-0202\P18F2550.INC	732;"	q	line:732
+CVRCON	C:\My Projects\PKS\PKS-0202\P18F2550.INC	129;"	q	line:129
+CVREF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	733;"	q	line:733
+CVREN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	736;"	q	line:736
+CVROE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	735;"	q	line:735
+CVRR	C:\My Projects\PKS\PKS-0202\P18F2550.INC	734;"	q	line:734
+CVRSS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	738;"	q	line:738
+D	C:\My Projects\PKS\PKS-0202\P18F2550.INC	879;"	q	line:879
+DATA_ADDRESS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	876;"	q	line:876
+DC	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1002;"	q	line:1002
+DC1B0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	794;"	q	line:794
+DC1B1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	795;"	q	line:795
+DC2B0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	785;"	q	line:785
+DC2B1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	786;"	q	line:786
+DDRA	C:\My Projects\PKS\PKS-0202\P18F2550.INC	102;"	q	line:102
+DDRB	C:\My Projects\PKS\PKS-0202\P18F2550.INC	104;"	q	line:104
+DDRC	C:\My Projects\PKS\PKS-0202\P18F2550.INC	106;"	q	line:106
+DEBUG_EVENT_PIN::LATCbits.LATC1	C:\My Projects\PKS\PKS-0202\project.h	75;"	d	line:75
+DEBUG_EVENT_TRIS::TRISCbits.TRISC1	C:\My Projects\PKS\PKS-0202\project.h	76;"	d	line:76
+DEVICE_PKS_1	C:\My Projects\PKS\PKS-0202\device.h	5;"	d	line:5
+DFN8EE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	263;"	q	line:263
+DFN8EF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	254;"	q	line:254
+DIR	C:\My Projects\PKS\PKS-0202\P18F2550.INC	270;"	q	line:270
+DONE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	825;"	q	line:825
+DWORD	C:\My Projects\PKS\PKS-0202\typedefs.h	175;"	t	line:175
+D_A	C:\My Projects\PKS\PKS-0202\P18F2550.INC	860;"	q	line:860
+ECCP1AS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	131;"	q	line:131
+ECCP1DEL	C:\My Projects\PKS\PKS-0202\P18F2550.INC	133;"	q	line:133
+ECCPAS0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	744;"	q	line:744
+ECCPAS0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	753;"	q	line:753
+ECCPAS1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	745;"	q	line:745
+ECCPAS1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	754;"	q	line:754
+ECCPAS2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	746;"	q	line:746
+ECCPAS2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	755;"	q	line:755
+ECCPASE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	747;"	q	line:747
+ECCPASE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	756;"	q	line:756
+EEADR	C:\My Projects\PKS\PKS-0202\P18F2550.INC	118;"	q	line:118
+EECON1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	115;"	q	line:115
+EECON2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	116;"	q	line:116
+EEDATA	C:\My Projects\PKS\PKS-0202\P18F2550.INC	117;"	q	line:117
+EEIE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	634;"	q	line:634
+EEIF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	647;"	q	line:647
+EEIP	C:\My Projects\PKS\PKS-0202\P18F2550.INC	660;"	q	line:660
+EEPGD	C:\My Projects\PKS\PKS-0202\P18F2550.INC	675;"	q	line:675
+EE_ADDR_CB_START::0	C:\My Projects\PKS\PKS-0202\ee_util.h	50;"	d	line:50
+ENDP0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	271;"	q	line:271
+ENDP1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	272;"	q	line:272
+ENDP2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	273;"	q	line:273
+ENDP3	C:\My Projects\PKS\PKS-0202\P18F2550.INC	274;"	q	line:274
+EPCONDIS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	310;"	q	line:310
+EPCONDIS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	318;"	q	line:318
+EPCONDIS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	326;"	q	line:326
+EPCONDIS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	334;"	q	line:334
+EPCONDIS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	342;"	q	line:342
+EPCONDIS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	350;"	q	line:350
+EPCONDIS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	358;"	q	line:358
+EPCONDIS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	366;"	q	line:366
+EPCONDIS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	374;"	q	line:374
+EPCONDIS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	382;"	q	line:382
+EPCONDIS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	390;"	q	line:390
+EPCONDIS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	398;"	q	line:398
+EPCONDIS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	406;"	q	line:406
+EPCONDIS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	414;"	q	line:414
+EPCONDIS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	422;"	q	line:422
+EPCONDIS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	430;"	q	line:430
+EPHSHK	C:\My Projects\PKS\PKS-0202\P18F2550.INC	311;"	q	line:311
+EPHSHK	C:\My Projects\PKS\PKS-0202\P18F2550.INC	319;"	q	line:319
+EPHSHK	C:\My Projects\PKS\PKS-0202\P18F2550.INC	327;"	q	line:327
+EPHSHK	C:\My Projects\PKS\PKS-0202\P18F2550.INC	335;"	q	line:335
+EPHSHK	C:\My Projects\PKS\PKS-0202\P18F2550.INC	343;"	q	line:343
+EPHSHK	C:\My Projects\PKS\PKS-0202\P18F2550.INC	351;"	q	line:351
+EPHSHK	C:\My Projects\PKS\PKS-0202\P18F2550.INC	359;"	q	line:359
+EPHSHK	C:\My Projects\PKS\PKS-0202\P18F2550.INC	367;"	q	line:367
+EPHSHK	C:\My Projects\PKS\PKS-0202\P18F2550.INC	375;"	q	line:375
+EPHSHK	C:\My Projects\PKS\PKS-0202\P18F2550.INC	383;"	q	line:383
+EPHSHK	C:\My Projects\PKS\PKS-0202\P18F2550.INC	391;"	q	line:391
+EPHSHK	C:\My Projects\PKS\PKS-0202\P18F2550.INC	399;"	q	line:399
+EPHSHK	C:\My Projects\PKS\PKS-0202\P18F2550.INC	407;"	q	line:407
+EPHSHK	C:\My Projects\PKS\PKS-0202\P18F2550.INC	415;"	q	line:415
+EPHSHK	C:\My Projects\PKS\PKS-0202\P18F2550.INC	423;"	q	line:423
+EPHSHK	C:\My Projects\PKS\PKS-0202\P18F2550.INC	431;"	q	line:431
+EPINEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	308;"	q	line:308
+EPINEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	316;"	q	line:316
+EPINEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	324;"	q	line:324
+EPINEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	332;"	q	line:332
+EPINEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	340;"	q	line:340
+EPINEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	348;"	q	line:348
+EPINEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	356;"	q	line:356
+EPINEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	364;"	q	line:364
+EPINEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	372;"	q	line:372
+EPINEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	380;"	q	line:380
+EPINEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	388;"	q	line:388
+EPINEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	396;"	q	line:396
+EPINEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	404;"	q	line:404
+EPINEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	412;"	q	line:412
+EPINEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	420;"	q	line:420
+EPINEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	428;"	q	line:428
+EPOUTEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	309;"	q	line:309
+EPOUTEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	317;"	q	line:317
+EPOUTEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	325;"	q	line:325
+EPOUTEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	333;"	q	line:333
+EPOUTEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	341;"	q	line:341
+EPOUTEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	349;"	q	line:349
+EPOUTEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	357;"	q	line:357
+EPOUTEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	365;"	q	line:365
+EPOUTEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	373;"	q	line:373
+EPOUTEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	381;"	q	line:381
+EPOUTEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	389;"	q	line:389
+EPOUTEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	397;"	q	line:397
+EPOUTEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	405;"	q	line:405
+EPOUTEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	413;"	q	line:413
+EPOUTEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	421;"	q	line:421
+EPOUTEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	429;"	q	line:429
+EPSTALL	C:\My Projects\PKS\PKS-0202\P18F2550.INC	307;"	q	line:307
+EPSTALL	C:\My Projects\PKS\PKS-0202\P18F2550.INC	315;"	q	line:315
+EPSTALL	C:\My Projects\PKS\PKS-0202\P18F2550.INC	323;"	q	line:323
+EPSTALL	C:\My Projects\PKS\PKS-0202\P18F2550.INC	331;"	q	line:331
+EPSTALL	C:\My Projects\PKS\PKS-0202\P18F2550.INC	339;"	q	line:339
+EPSTALL	C:\My Projects\PKS\PKS-0202\P18F2550.INC	347;"	q	line:347
+EPSTALL	C:\My Projects\PKS\PKS-0202\P18F2550.INC	355;"	q	line:355
+EPSTALL	C:\My Projects\PKS\PKS-0202\P18F2550.INC	363;"	q	line:363
+EPSTALL	C:\My Projects\PKS\PKS-0202\P18F2550.INC	371;"	q	line:371
+EPSTALL	C:\My Projects\PKS\PKS-0202\P18F2550.INC	379;"	q	line:379
+EPSTALL	C:\My Projects\PKS\PKS-0202\P18F2550.INC	387;"	q	line:387
+EPSTALL	C:\My Projects\PKS\PKS-0202\P18F2550.INC	395;"	q	line:395
+EPSTALL	C:\My Projects\PKS\PKS-0202\P18F2550.INC	403;"	q	line:403
+EPSTALL	C:\My Projects\PKS\PKS-0202\P18F2550.INC	411;"	q	line:411
+EPSTALL	C:\My Projects\PKS\PKS-0202\P18F2550.INC	419;"	q	line:419
+EPSTALL	C:\My Projects\PKS\PKS-0202\P18F2550.INC	427;"	q	line:427
+EXEC_CB_CHKSUM_SEED::0x12	C:\My Projects\PKS\PKS-0202\exec.h	167;"	d	line:167
+EXEC_CB_DFLUSH_COUNT_REG::exec_control_B[3]._b	C:\My Projects\PKS\PKS-0202\exec.h	129;"	d	line:129
+EXEC_CB_DFLUSH_THRESHOLD_FLAG::exec_control_B[0].bit6	C:\My Projects\PKS\PKS-0202\exec.h	122;"	d	line:122
+EXEC_CB_DFLUSH_TIME_FLAG::exec_control_B[0].bit7	C:\My Projects\PKS\PKS-0202\exec.h	123;"	d	line:123
+EXEC_CB_DFLUSH_TIME_REG::exec_control_B[4]._b	C:\My Projects\PKS\PKS-0202\exec.h	130;"	d	line:130
+EXEC_CB_LED1_DISABLE_DFLT_FLAG::exec_control_B[0].bit5	C:\My Projects\PKS\PKS-0202\exec.h	121;"	d	line:121
+EXEC_CB_LED2_DISABLE_DFLT_FLAG::exec_control_B[0].bit4	C:\My Projects\PKS\PKS-0202\exec.h	120;"	d	line:120
+EXEC_CB_LENGTH::24	C:\My Projects\PKS\PKS-0202\exec.h	81;"	d	line:81
+EXEC_CB_NEW_FLAG::exec_flags.bit6	C:\My Projects\PKS\PKS-0202\exec.h	157;"	d	line:157
+EXEC_CB_REG_FIRST::0	C:\My Projects\PKS\PKS-0202\exec.h	124;"	d	line:124
+EXEC_CB_REG_LAST::7	C:\My Projects\PKS\PKS-0202\exec.h	125;"	d	line:125
+EXEC_CB_SWITCH_TEST_FLAG::exec_control_B[1].bit0	C:\My Projects\PKS\PKS-0202\exec.h	127;"	d	line:127
+EXEC_CMND_CBUF2_FLUSH::0x05	C:\My Projects\PKS\PKS-0202\exec.h	190;"	d	line:190
+EXEC_CMND_CB_EE_READ::0x04	C:\My Projects\PKS\PKS-0202\exec.h	189;"	d	line:189
+EXEC_CMND_CB_EE_WRITE::0x03	C:\My Projects\PKS\PKS-0202\exec.h	188;"	d	line:188
+EXEC_CMND_COMM_INIT::0x06	C:\My Projects\PKS\PKS-0202\exec.h	191;"	d	line:191
+EXEC_CMND_COMM_INIT_MODE::0x01	C:\My Projects\PKS\PKS-0202\exec.h	186;"	d	line:186
+EXEC_CMND_INIT::0x00	C:\My Projects\PKS\PKS-0202\exec.h	185;"	d	line:185
+EXEC_CMND_RQ_STATUS_PACKET::0x02	C:\My Projects\PKS\PKS-0202\exec.h	187;"	d	line:187
+EXEC_DATA_LENGTH_MAX::64	C:\My Projects\PKS\PKS-0202\exec.h	165;"	d	line:165
+EXEC_DFLUSH_FLAG::exec_flags.bit1	C:\My Projects\PKS\PKS-0202\exec.h	153;"	d	line:153
+EXEC_FIRMWARE_VERSION_MAJOR::0x02	C:\My Projects\PKS\PKS-0202\project.h	90;"	d	line:90
+EXEC_FIRMWARE_VERSION_MINOR::0x02	C:\My Projects\PKS\PKS-0202\project.h	91;"	d	line:91
+EXEC_LED_CONFIG_SWTEST_OFF::0x00	C:\My Projects\PKS\PKS-0202\exec.h	172;"	d	line:172
+EXEC_LED_CONFIG_SWTEST_ON::0xC0	C:\My Projects\PKS\PKS-0202\exec.h	177;"	d	line:177
+EXEC_PACKET_IN_FLAG::exec_flags.bit7	C:\My Projects\PKS\PKS-0202\exec.h	158;"	d	line:158
+EXEC_PACKET_LENGTH_MAX::64	C:\My Projects\PKS\PKS-0202\exec.h	166;"	d	line:166
+EXEC_PROC_LOOP_FLAG::exec_flags.bit0	C:\My Projects\PKS\PKS-0202\exec.h	152;"	d	line:152
+EXEC_REBOOT_DLY_MSEC::100	C:\My Projects\PKS\PKS-0202\exec.h	179;"	d	line:179
+EXEC_REBOOT_DLY_TA::EXEC_REBOOT_DLY_MSEC*1000/TIME	C:\My Projects\PKS\PKS-0202\exec.h	180;"	d	line:180
+EXEC_RQ_STATUS_PACKET_FLAG::exec_flags.bit2	C:\My Projects\PKS\PKS-0202\exec.h	154;"	d	line:154
+EXEC_SB_CBUF1_OVF_FLAG::exec_status_B[0].bit1	C:\My Projects\PKS\PKS-0202\exec.h	135;"	d	line:135
+EXEC_SB_CBUF2_OVF_FLAG::exec_status_B[0].bit2	C:\My Projects\PKS\PKS-0202\exec.h	136;"	d	line:136
+EXEC_SB_CBUF3_OVF_FLAG::exec_status_B[0].bit3	C:\My Projects\PKS\PKS-0202\exec.h	137;"	d	line:137
+EXEC_SB_CB_DFLT_FLAG::exec_status_B[0].bit5	C:\My Projects\PKS\PKS-0202\exec.h	139;"	d	line:139
+EXEC_SB_DATA_ERR_FLAG::exec_status_B[0].bit4	C:\My Projects\PKS\PKS-0202\exec.h	138;"	d	line:138
+EXEC_SB_LENGTH::20	C:\My Projects\PKS\PKS-0202\exec.h	82;"	d	line:82
+EXEC_SB_REG_ALL_FIRST::0	C:\My Projects\PKS\PKS-0202\exec.h	146;"	d	line:146
+EXEC_SB_REG_ALL_LAST::19	C:\My Projects\PKS\PKS-0202\exec.h	147;"	d	line:147
+EXEC_SB_REG_FIRST::0	C:\My Projects\PKS\PKS-0202\exec.h	144;"	d	line:144
+EXEC_SB_REG_LAST::3	C:\My Projects\PKS\PKS-0202\exec.h	145;"	d	line:145
+EXEC_SB_SWITCH_FLAG::exec_status_B[1].bit1	C:\My Projects\PKS\PKS-0202\exec.h	142;"	d	line:142
+EXEC_SB_SWITCH_TEST_FLAG::exec_status_B[1].bit0	C:\My Projects\PKS\PKS-0202\exec.h	141;"	d	line:141
+EXEC_STATUS_PACKET_ID::0x01	C:\My Projects\PKS\PKS-0202\exec.h	164;"	d	line:164
+EXEC_SWTEST_FLAG::exec_flags.bit3	C:\My Projects\PKS\PKS-0202\exec.h	155;"	d	line:155
+EXEC_TAG_BOOT_B::0x42	C:\My Projects\PKS\PKS-0202\exec.h	104;"	d	line:104
+EXEC_TAG_BOOT_b::0x62	C:\My Projects\PKS\PKS-0202\exec.h	105;"	d	line:105
+EXEC_TAG_CBUF1_DATA::0x85	C:\My Projects\PKS\PKS-0202\exec.h	112;"	d	line:112
+EXEC_TAG_CBUF1_WRITE::0x03	C:\My Projects\PKS\PKS-0202\exec.h	99;"	d	line:99
+EXEC_TAG_CBUF2_DATA::0x86	C:\My Projects\PKS\PKS-0202\exec.h	113;"	d	line:113
+EXEC_TAG_CBUF2_WRITE::0x04	C:\My Projects\PKS\PKS-0202\exec.h	100;"	d	line:100
+EXEC_TAG_CBUF3_DATA::0x87	C:\My Projects\PKS\PKS-0202\exec.h	114;"	d	line:114
+EXEC_TAG_CBUF3_WRITE::0x05	C:\My Projects\PKS\PKS-0202\exec.h	101;"	d	line:101
+EXEC_TAG_CBUF_STATUS::0x84	C:\My Projects\PKS\PKS-0202\exec.h	111;"	d	line:111
+EXEC_TAG_CB_DATA::0x82	C:\My Projects\PKS\PKS-0202\exec.h	109;"	d	line:109
+EXEC_TAG_CB_WRITE::0x02	C:\My Projects\PKS\PKS-0202\exec.h	98;"	d	line:98
+EXEC_TAG_COMMAND::0x01	C:\My Projects\PKS\PKS-0202\exec.h	97;"	d	line:97
+EXEC_TAG_EOD::0x00	C:\My Projects\PKS\PKS-0202\exec.h	96;"	d	line:96
+EXEC_TAG_EOD_OUT::0x80	C:\My Projects\PKS\PKS-0202\exec.h	107;"	d	line:107
+EXEC_TAG_FIRMWARE_VERSION::0x81	C:\My Projects\PKS\PKS-0202\exec.h	108;"	d	line:108
+EXEC_TAG_LED1_CONFIG::0x06	C:\My Projects\PKS\PKS-0202\exec.h	102;"	d	line:102
+EXEC_TAG_LED2_CONFIG::0x07	C:\My Projects\PKS\PKS-0202\exec.h	103;"	d	line:103
+EXEC_TAG_PACKET_ID::0x88	C:\My Projects\PKS\PKS-0202\exec.h	115;"	d	line:115
+EXEC_TAG_SB_DATA::0x83	C:\My Projects\PKS\PKS-0202\exec.h	110;"	d	line:110
+FAIL::FALSE	C:\My Projects\PKS\PKS-0202\typedefs.h	211;"	d	line:211
+FALSE	C:\My Projects\PKS\PKS-0202\typedefs.h	209;"	e	line:209	enum:_BOOL
+FAST	C:\My Projects\PKS\PKS-0202\P18F2550.INC	44;"	q	line:44
+FERR	C:\My Projects\PKS\PKS-0202\P18F2550.INC	681;"	q	line:681
+FLTS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	986;"	q	line:986
+FREE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	673;"	q	line:673
+FRM0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	214;"	q	line:214
+FRM1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	215;"	q	line:215
+FRM10	C:\My Projects\PKS\PKS-0202\P18F2550.INC	227;"	q	line:227
+FRM2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	216;"	q	line:216
+FRM3	C:\My Projects\PKS\PKS-0202\P18F2550.INC	217;"	q	line:217
+FRM4	C:\My Projects\PKS\PKS-0202\P18F2550.INC	218;"	q	line:218
+FRM5	C:\My Projects\PKS\PKS-0202\P18F2550.INC	219;"	q	line:219
+FRM6	C:\My Projects\PKS\PKS-0202\P18F2550.INC	220;"	q	line:220
+FRM7	C:\My Projects\PKS\PKS-0202\P18F2550.INC	221;"	q	line:221
+FRM8	C:\My Projects\PKS\PKS-0202\P18F2550.INC	225;"	q	line:225
+FRM9	C:\My Projects\PKS\PKS-0202\P18F2550.INC	226;"	q	line:226
+FSEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	299;"	q	line:299
+FSR0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	40;"	q	line:40
+FSR0H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	186;"	q	line:186
+FSR0L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	185;"	q	line:185
+FSR1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	41;"	q	line:41
+FSR1H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	178;"	q	line:178
+FSR1L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	177;"	q	line:177
+FSR2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	42;"	q	line:42
+FSR2H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	170;"	q	line:170
+FSR2L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	169;"	q	line:169
+GCEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	840;"	q	line:840
+GIE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1044;"	q	line:1044
+GIEH	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1051;"	q	line:1051
+GIEL	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1050;"	q	line:1050
+GO	C:\My Projects\PKS\PKS-0202\P18F2550.INC	827;"	q	line:827
+GO_DONE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	819;"	q	line:819
+HLVDCON	C:\My Projects\PKS\PKS-0202\P18F2550.INC	162;"	q	line:162
+HLVDEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	946;"	q	line:946
+HLVDEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	970;"	q	line:970
+HLVDIE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	639;"	q	line:639
+HLVDIF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	652;"	q	line:652
+HLVDIN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	455;"	q	line:455
+HLVDIP	C:\My Projects\PKS\PKS-0202\P18F2550.INC	665;"	q	line:665
+HLVDL0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	942;"	q	line:942
+HLVDL0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	966;"	q	line:966
+HLVDL1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	943;"	q	line:943
+HLVDL1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	967;"	q	line:967
+HLVDL2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	944;"	q	line:944
+HLVDL2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	968;"	q	line:968
+HLVDL3	C:\My Projects\PKS\PKS-0202\P18F2550.INC	945;"	q	line:945
+HLVDL3	C:\My Projects\PKS\PKS-0202\P18F2550.INC	969;"	q	line:969
+I2CBBM_ENGINE_T1CON_DFLT::0b10010001	C:\My Projects\PKS\PKS-0202\device.h	49;"	d	line:49
+I2CBBM_ENGINE_T1CON_DFLT::0b10100001	C:\My Projects\PKS\PKS-0202\device.h	53;"	d	line:53
+I2CM_AUX1_PORT::PORTCbits.RC6	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	59;"	d	line:59
+I2CM_AUX1_TRIS::TRISCbits.TRISC6	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	57;"	d	line:57
+I2CM_AUX2_PORT::PORTCbits.RC7	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	60;"	d	line:60
+I2CM_AUX2_TRIS::TRISCbits.TRISC7	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	58;"	d	line:58
+I2CS_PULLUP::LATAbits.LATA4	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	50;"	d	line:50
+I2CS_SCK::LATBbits.LATB1	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	51;"	d	line:51
+I2CS_SCK_TRIS::TRISBbits.TRISB1	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	53;"	d	line:53
+I2CS_SDA::LATBbits.LATB0	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	52;"	d	line:52
+I2CS_SDA_TRIS::TRISBbits.TRISB0	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	54;"	d	line:54
+I2CS_SSPCON1_DFLT::0x16	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	91;"	d	line:91
+I2CS_SSPCON2_DFLT::0x01	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	96;"	d	line:96
+I2CS_SSPCON2_DFLT_MASK::0x3E	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	97;"	d	line:97
+I2C_DAT	C:\My Projects\PKS\PKS-0202\P18F2550.INC	867;"	q	line:867
+I2C_READ	C:\My Projects\PKS\PKS-0202\P18F2550.INC	864;"	q	line:864
+I2C_START	C:\My Projects\PKS\PKS-0202\P18F2550.INC	865;"	q	line:865
+I2C_STOP	C:\My Projects\PKS\PKS-0202\P18F2550.INC	866;"	q	line:866
+IDLEIE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	245;"	q	line:245
+IDLEIF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	235;"	q	line:235
+IDLEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	984;"	q	line:984
+INDF0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	191;"	q	line:191
+INDF1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	183;"	q	line:183
+INDF2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	175;"	q	line:175
+INT0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	468;"	q	line:468
+INT0E	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1048;"	q	line:1048
+INT0F	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1046;"	q	line:1046
+INT0IE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1041;"	q	line:1041
+INT0IF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1038;"	q	line:1038
+INT1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	469;"	q	line:469
+INT1E	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1018;"	q	line:1018
+INT1F	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1016;"	q	line:1016
+INT1IE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1011;"	q	line:1011
+INT1IF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1009;"	q	line:1009
+INT1IP	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1013;"	q	line:1013
+INT1P	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1020;"	q	line:1020
+INT2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	470;"	q	line:470
+INT2E	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1019;"	q	line:1019
+INT2F	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1017;"	q	line:1017
+INT2IE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1012;"	q	line:1012
+INT2IF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1010;"	q	line:1010
+INT2IP	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1014;"	q	line:1014
+INT2P	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1021;"	q	line:1021
+INTCON	C:\My Projects\PKS\PKS-0202\P18F2550.INC	194;"	q	line:194
+INTCON2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	193;"	q	line:193
+INTCON3	C:\My Projects\PKS\PKS-0202\P18F2550.INC	192;"	q	line:192
+INTEDG0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1029;"	q	line:1029
+INTEDG1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1028;"	q	line:1028
+INTEDG2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1027;"	q	line:1027
+INTSRC	C:\My Projects\PKS\PKS-0202\P18F2550.INC	596;"	q	line:596
+IOFS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	979;"	q	line:979
+IPEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	919;"	q	line:919
+IPR1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	111;"	q	line:111
+IPR2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	114;"	q	line:114
+IRCF0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	981;"	q	line:981
+IRCF1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	982;"	q	line:982
+IRCF2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	983;"	q	line:983
+IRVST	C:\My Projects\PKS\PKS-0202\P18F2550.INC	934;"	q	line:934
+IRVST	C:\My Projects\PKS\PKS-0202\P18F2550.INC	958;"	q	line:958
+IVRST	C:\My Projects\PKS\PKS-0202\P18F2550.INC	949;"	q	line:949
+IVRST	C:\My Projects\PKS\PKS-0202\P18F2550.INC	973;"	q	line:973
+LATA	C:\My Projects\PKS\PKS-0202\P18F2550.INC	99;"	q	line:99
+LATA0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	504;"	q	line:504
+LATA1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	505;"	q	line:505
+LATA2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	506;"	q	line:506
+LATA3	C:\My Projects\PKS\PKS-0202\P18F2550.INC	507;"	q	line:507
+LATA4	C:\My Projects\PKS\PKS-0202\P18F2550.INC	508;"	q	line:508
+LATA5	C:\My Projects\PKS\PKS-0202\P18F2550.INC	509;"	q	line:509
+LATA6	C:\My Projects\PKS\PKS-0202\P18F2550.INC	510;"	q	line:510
+LATA_DFLT::0b000000;	C:\My Projects\PKS\PKS-0202\device.h	59;"	d	line:59
+LATB	C:\My Projects\PKS\PKS-0202\P18F2550.INC	100;"	q	line:100
+LATB0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	514;"	q	line:514
+LATB1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	515;"	q	line:515
+LATB2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	516;"	q	line:516
+LATB3	C:\My Projects\PKS\PKS-0202\P18F2550.INC	517;"	q	line:517
+LATB4	C:\My Projects\PKS\PKS-0202\P18F2550.INC	518;"	q	line:518
+LATB5	C:\My Projects\PKS\PKS-0202\P18F2550.INC	519;"	q	line:519
+LATB6	C:\My Projects\PKS\PKS-0202\P18F2550.INC	520;"	q	line:520
+LATB7	C:\My Projects\PKS\PKS-0202\P18F2550.INC	521;"	q	line:521
+LATB_DFLT::0b00000000;	C:\My Projects\PKS\PKS-0202\device.h	60;"	d	line:60
+LATC	C:\My Projects\PKS\PKS-0202\P18F2550.INC	101;"	q	line:101
+LATC0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	525;"	q	line:525
+LATC1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	526;"	q	line:526
+LATC2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	527;"	q	line:527
+LATC6	C:\My Projects\PKS\PKS-0202\P18F2550.INC	528;"	q	line:528
+LATC7	C:\My Projects\PKS\PKS-0202\P18F2550.INC	529;"	q	line:529
+LATC_DFLT::0b00000000;	C:\My Projects\PKS\PKS-0202\device.h	61;"	d	line:61
+LED_1_CONFIG_DFLT::0x00	C:\My Projects\PKS\PKS-0202\led2.h	85;"	d	line:85
+LED_1_PIN::LATCbits.LATC0	C:\My Projects\PKS\PKS-0202\device.h	76;"	d	line:76
+LED_1_TRIS::TRISCbits.TRISC0	C:\My Projects\PKS\PKS-0202\device.h	78;"	d	line:78
+LED_2_CONFIG_DFLT::0x00	C:\My Projects\PKS\PKS-0202\led2.h	86;"	d	line:86
+LED_2_PIN::LATBbits.LATB4	C:\My Projects\PKS\PKS-0202\device.h	77;"	d	line:77
+LED_2_TRIS::TRISBbits.TRISB4	C:\My Projects\PKS\PKS-0202\device.h	79;"	d	line:79
+LED_3_CONFIG_DFLT::0x00	C:\My Projects\PKS\PKS-0202\led2.h	87;"	d	line:87
+LED_MASK_MODE::0xC0	C:\My Projects\PKS\PKS-0202\led2.h	81;"	d	line:81
+LED_MASK_STATE::0x20	C:\My Projects\PKS\PKS-0202\led2.h	82;"	d	line:82
+LED_MASK_TIME::0x1F	C:\My Projects\PKS\PKS-0202\led2.h	83;"	d	line:83
+LED_TIMER::timer0_A2	C:\My Projects\PKS\PKS-0202\led2.h	62;"	d	line:62
+LED_TIMER_SET_MSEC::50	C:\My Projects\PKS\PKS-0202\led2.h	63;"	d	line:63
+LED_TIMER_SET_T::LED_TIMER_SET_MSEC*1000.0/TIME	C:\My Projects\PKS\PKS-0202\led2.h	64;"	d	line:64
+LIN_ABD_ACTIVE_FLAG::lin_flags_B.bit4	C:\My Projects\PKS\PKS-0202\comm_lin.h	143;"	d	line:143
+LIN_AERR_FLAG::lin_flags_B.bit2	C:\My Projects\PKS\PKS-0202\comm_lin.h	141;"	d	line:141
+LIN_AFAULT_PORT::PORTBbits.RB1	C:\My Projects\PKS\PKS-0202\comm_lin.h	60;"	d	line:60
+LIN_AFAULT_TRIS::TRISBbits.TRISB1	C:\My Projects\PKS\PKS-0202\comm_lin.h	59;"	d	line:59
+LIN_CS_PORT::PORTBbits.RB0	C:\My Projects\PKS\PKS-0202\comm_lin.h	58;"	d	line:58
+LIN_CS_TRIS::TRISBbits.TRISB0	C:\My Projects\PKS\PKS-0202\comm_lin.h	57;"	d	line:57
+LIN_DATA_FLAG::lin_flags_B.bit3	C:\My Projects\PKS\PKS-0202\comm_lin.h	142;"	d	line:142
+LIN_FBRK_FLAG::lin_flags_B.bit6	C:\My Projects\PKS\PKS-0202\comm_lin.h	144;"	d	line:144
+LIN_FERR_FLAG::lin_flags_B.bit0	C:\My Projects\PKS\PKS-0202\comm_lin.h	139;"	d	line:139
+LIN_FSYN_FLAG::lin_flags_B.bit7	C:\My Projects\PKS\PKS-0202\comm_lin.h	145;"	d	line:145
+LIN_OERR_FLAG::lin_flags_B.bit1	C:\My Projects\PKS\PKS-0202\comm_lin.h	140;"	d	line:140
+LIN_RX_PORT::PORTCbits.RC7	C:\My Projects\PKS\PKS-0202\comm_lin.h	55;"	d	line:55
+LIN_RX_TRIS::TRISCbits.TRISC7	C:\My Projects\PKS\PKS-0202\comm_lin.h	53;"	d	line:53
+LIN_TX_PORT::PORTCbits.RC6	C:\My Projects\PKS\PKS-0202\comm_lin.h	54;"	d	line:54
+LIN_TX_TRIS::TRISCbits.TRISC6	C:\My Projects\PKS\PKS-0202\comm_lin.h	52;"	d	line:52
+LVDCON	C:\My Projects\PKS\PKS-0202\P18F2550.INC	163;"	q	line:163
+LVDEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	933;"	q	line:933
+LVDEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	957;"	q	line:957
+LVDIE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	632;"	q	line:632
+LVDIF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	645;"	q	line:645
+LVDIN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	453;"	q	line:453
+LVDIP	C:\My Projects\PKS\PKS-0202\P18F2550.INC	658;"	q	line:658
+LVDL0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	929;"	q	line:929
+LVDL0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	953;"	q	line:953
+LVDL1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	930;"	q	line:930
+LVDL1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	954;"	q	line:954
+LVDL2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	931;"	q	line:931
+LVDL2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	955;"	q	line:955
+LVDL3	C:\My Projects\PKS\PKS-0202\P18F2550.INC	932;"	q	line:932
+LVDL3	C:\My Projects\PKS\PKS-0202\P18F2550.INC	956;"	q	line:956
+LVV0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	936;"	q	line:936
+LVV0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	960;"	q	line:960
+LVV1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	937;"	q	line:937
+LVV1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	961;"	q	line:961
+LVV2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	938;"	q	line:938
+LVV2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	962;"	q	line:962
+LVV3	C:\My Projects\PKS\PKS-0202\P18F2550.INC	939;"	q	line:939
+LVV3	C:\My Projects\PKS\PKS-0202\P18F2550.INC	963;"	q	line:963
+N	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1005;"	q	line:1005
+NOT_A	C:\My Projects\PKS\PKS-0202\P18F2550.INC	870;"	q	line:870
+NOT_ADDRESS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	873;"	q	line:873
+NOT_BOR	C:\My Projects\PKS\PKS-0202\P18F2550.INC	906;"	q	line:906
+NOT_DONE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	829;"	q	line:829
+NOT_IPEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	912;"	q	line:912
+NOT_PD	C:\My Projects\PKS\PKS-0202\P18F2550.INC	908;"	q	line:908
+NOT_POR	C:\My Projects\PKS\PKS-0202\P18F2550.INC	907;"	q	line:907
+NOT_RBPU	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1030;"	q	line:1030
+NOT_RI	C:\My Projects\PKS\PKS-0202\P18F2550.INC	910;"	q	line:910
+NOT_T1SYNC	C:\My Projects\PKS\PKS-0202\P18F2550.INC	902;"	q	line:902
+NOT_T3SYNC	C:\My Projects\PKS\PKS-0202\P18F2550.INC	714;"	q	line:714
+NOT_TO	C:\My Projects\PKS\PKS-0202\P18F2550.INC	909;"	q	line:909
+NOT_W	C:\My Projects\PKS\PKS-0202\P18F2550.INC	869;"	q	line:869
+NOT_WRITE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	872;"	q	line:872
+OERR	C:\My Projects\PKS\PKS-0202\P18F2550.INC	680;"	q	line:680
+OK::TRUE	C:\My Projects\PKS\PKS-0202\typedefs.h	210;"	d	line:210
+OSC2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	449;"	q	line:449
+OSCCON	C:\My Projects\PKS\PKS-0202\P18F2550.INC	164;"	q	line:164
+OSCFIE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	637;"	q	line:637
+OSCFIF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	650;"	q	line:650
+OSCFIP	C:\My Projects\PKS\PKS-0202\P18F2550.INC	663;"	q	line:663
+OSCTUNE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	108;"	q	line:108
+OSTS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	980;"	q	line:980
+OV	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1004;"	q	line:1004
+P	C:\My Projects\PKS\PKS-0202\P18F2550.INC	859;"	q	line:859
+P1A	C:\My Projects\PKS\PKS-0202\P18F2550.INC	493;"	q	line:493
+PC	C:\My Projects\PKS\PKS-0202\P18F2550.INC	203;"	q	line:203
+PCFG0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	809;"	q	line:809
+PCFG1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	810;"	q	line:810
+PCFG2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	811;"	q	line:811
+PCFG3	C:\My Projects\PKS\PKS-0202\P18F2550.INC	812;"	q	line:812
+PCL	C:\My Projects\PKS\PKS-0202\P18F2550.INC	204;"	q	line:204
+PCLATH	C:\My Projects\PKS\PKS-0202\P18F2550.INC	205;"	q	line:205
+PCLATU	C:\My Projects\PKS\PKS-0202\P18F2550.INC	206;"	q	line:206
+PD	C:\My Projects\PKS\PKS-0202\P18F2550.INC	916;"	q	line:916
+PEIE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1043;"	q	line:1043
+PEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	835;"	q	line:835
+PGC	C:\My Projects\PKS\PKS-0202\P18F2550.INC	473;"	q	line:473
+PGD	C:\My Projects\PKS\PKS-0202\P18F2550.INC	474;"	q	line:474
+PGM	C:\My Projects\PKS\PKS-0202\P18F2550.INC	472;"	q	line:472
+PIDEE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	260;"	q	line:260
+PIDEF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	251;"	q	line:251
+PIE1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	109;"	q	line:109
+PIE2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	112;"	q	line:112
+PIR1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	110;"	q	line:110
+PIR2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	113;"	q	line:113
+PKTDIS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	281;"	q	line:281
+PLUSW0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	187;"	q	line:187
+PLUSW1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	179;"	q	line:179
+PLUSW2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	171;"	q	line:171
+POINTER	C:\My Projects\PKS\PKS-0202\typedefs.h	197;"	t	line:197
+POR	C:\My Projects\PKS\PKS-0202\P18F2550.INC	915;"	q	line:915
+PORTA	C:\My Projects\PKS\PKS-0202\P18F2550.INC	95;"	q	line:95
+PORTB	C:\My Projects\PKS\PKS-0202\P18F2550.INC	96;"	q	line:96
+PORTC	C:\My Projects\PKS\PKS-0202\P18F2550.INC	97;"	q	line:97
+PORTE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	98;"	q	line:98
+POSTDEC0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	189;"	q	line:189
+POSTDEC1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	181;"	q	line:181
+POSTDEC2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	173;"	q	line:173
+POSTINC0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	190;"	q	line:190
+POSTINC1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	182;"	q	line:182
+POSTINC2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	174;"	q	line:174
+PPB0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	297;"	q	line:297
+PPB1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	298;"	q	line:298
+PPBI	C:\My Projects\PKS\PKS-0202\P18F2550.INC	269;"	q	line:269
+PPBRST	C:\My Projects\PKS\PKS-0202\P18F2550.INC	283;"	q	line:283
+PR2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	155;"	q	line:155
+PREINC0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	188;"	q	line:188
+PREINC1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	180;"	q	line:180
+PREINC2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	172;"	q	line:172
+PROD	C:\My Projects\PKS\PKS-0202\P18F2550.INC	195;"	q	line:195
+PRODH	C:\My Projects\PKS\PKS-0202\P18F2550.INC	197;"	q	line:197
+PRODL	C:\My Projects\PKS\PKS-0202\P18F2550.INC	196;"	q	line:196
+PRSEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	761;"	q	line:761
+PRSEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	766;"	q	line:766
+PSA	C:\My Projects\PKS\PKS-0202\P18F2550.INC	993;"	q	line:993
+PSSAC0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	742;"	q	line:742
+PSSAC0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	751;"	q	line:751
+PSSAC1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	743;"	q	line:743
+PSSAC1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	752;"	q	line:752
+R	C:\My Projects\PKS\PKS-0202\P18F2550.INC	878;"	q	line:878
+RA0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	435;"	q	line:435
+RA0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	533;"	q	line:533
+RA1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	436;"	q	line:436
+RA1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	534;"	q	line:534
+RA2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	437;"	q	line:437
+RA2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	535;"	q	line:535
+RA3	C:\My Projects\PKS\PKS-0202\P18F2550.INC	438;"	q	line:438
+RA3	C:\My Projects\PKS\PKS-0202\P18F2550.INC	536;"	q	line:536
+RA4	C:\My Projects\PKS\PKS-0202\P18F2550.INC	439;"	q	line:439
+RA4	C:\My Projects\PKS\PKS-0202\P18F2550.INC	537;"	q	line:537
+RA5	C:\My Projects\PKS\PKS-0202\P18F2550.INC	440;"	q	line:440
+RA5	C:\My Projects\PKS\PKS-0202\P18F2550.INC	538;"	q	line:538
+RA6	C:\My Projects\PKS\PKS-0202\P18F2550.INC	441;"	q	line:441
+RA6	C:\My Projects\PKS\PKS-0202\P18F2550.INC	539;"	q	line:539
+RB0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	459;"	q	line:459
+RB0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	553;"	q	line:553
+RB1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	460;"	q	line:460
+RB1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	554;"	q	line:554
+RB2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	461;"	q	line:461
+RB2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	555;"	q	line:555
+RB3	C:\My Projects\PKS\PKS-0202\P18F2550.INC	462;"	q	line:462
+RB3	C:\My Projects\PKS\PKS-0202\P18F2550.INC	556;"	q	line:556
+RB4	C:\My Projects\PKS\PKS-0202\P18F2550.INC	463;"	q	line:463
+RB4	C:\My Projects\PKS\PKS-0202\P18F2550.INC	557;"	q	line:557
+RB5	C:\My Projects\PKS\PKS-0202\P18F2550.INC	464;"	q	line:464
+RB5	C:\My Projects\PKS\PKS-0202\P18F2550.INC	558;"	q	line:558
+RB6	C:\My Projects\PKS\PKS-0202\P18F2550.INC	465;"	q	line:465
+RB6	C:\My Projects\PKS\PKS-0202\P18F2550.INC	559;"	q	line:559
+RB7	C:\My Projects\PKS\PKS-0202\P18F2550.INC	466;"	q	line:466
+RB7	C:\My Projects\PKS\PKS-0202\P18F2550.INC	560;"	q	line:560
+RBIE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1040;"	q	line:1040
+RBIF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1037;"	q	line:1037
+RBIP	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1025;"	q	line:1025
+RBPU	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1033;"	q	line:1033
+RC0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	478;"	q	line:478
+RC0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	575;"	q	line:575
+RC1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	479;"	q	line:479
+RC1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	576;"	q	line:576
+RC2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	480;"	q	line:480
+RC2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	577;"	q	line:577
+RC4	C:\My Projects\PKS\PKS-0202\P18F2550.INC	481;"	q	line:481
+RC5	C:\My Projects\PKS\PKS-0202\P18F2550.INC	482;"	q	line:482
+RC6	C:\My Projects\PKS\PKS-0202\P18F2550.INC	483;"	q	line:483
+RC6	C:\My Projects\PKS\PKS-0202\P18F2550.INC	578;"	q	line:578
+RC7	C:\My Projects\PKS\PKS-0202\P18F2550.INC	484;"	q	line:484
+RC7	C:\My Projects\PKS\PKS-0202\P18F2550.INC	579;"	q	line:579
+RCEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	836;"	q	line:836
+RCIDL	C:\My Projects\PKS\PKS-0202\P18F2550.INC	774;"	q	line:774
+RCIE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	605;"	q	line:605
+RCIF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	615;"	q	line:615
+RCIP	C:\My Projects\PKS\PKS-0202\P18F2550.INC	625;"	q	line:625
+RCMT	C:\My Projects\PKS\PKS-0202\P18F2550.INC	777;"	q	line:777
+RCON	C:\My Projects\PKS\PKS-0202\P18F2550.INC	160;"	q	line:160
+RCREG	C:\My Projects\PKS\PKS-0202\P18F2550.INC	122;"	q	line:122
+RCSTA	C:\My Projects\PKS\PKS-0202\P18F2550.INC	119;"	q	line:119
+RD	C:\My Projects\PKS\PKS-0202\P18F2550.INC	669;"	q	line:669
+RD16	C:\My Projects\PKS\PKS-0202\P18F2550.INC	710;"	q	line:710
+RD16	C:\My Projects\PKS\PKS-0202\P18F2550.INC	900;"	q	line:900
+RE3	C:\My Projects\PKS\PKS-0202\P18F2550.INC	500;"	q	line:500
+READ_WRITE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	875;"	q	line:875
+RESUME	C:\My Projects\PKS\PKS-0202\P18F2550.INC	279;"	q	line:279
+RI	C:\My Projects\PKS\PKS-0202\P18F2550.INC	918;"	q	line:918
+RSEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	834;"	q	line:834
+RX	C:\My Projects\PKS\PKS-0202\P18F2550.INC	490;"	q	line:490
+RX9	C:\My Projects\PKS\PKS-0202\P18F2550.INC	685;"	q	line:685
+RX9D	C:\My Projects\PKS\PKS-0202\P18F2550.INC	679;"	q	line:679
+R_W	C:\My Projects\PKS\PKS-0202\P18F2550.INC	857;"	q	line:857
+S	C:\My Projects\PKS\PKS-0202\P18F2550.INC	858;"	q	line:858
+SBOREN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	911;"	q	line:911
+SCKP	C:\My Projects\PKS\PKS-0202\P18F2550.INC	773;"	q	line:773
+SCS0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	977;"	q	line:977
+SCS1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	978;"	q	line:978
+SE0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	282;"	q	line:282
+SEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	833;"	q	line:833
+SENDB	C:\My Projects\PKS\PKS-0202\P18F2550.INC	695;"	q	line:695
+SMP	C:\My Projects\PKS\PKS-0202\P18F2550.INC	862;"	q	line:862
+SOFIE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	247;"	q	line:247
+SOFIF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	237;"	q	line:237
+SPBRG	C:\My Projects\PKS\PKS-0202\P18F2550.INC	123;"	q	line:123
+SPBRGH	C:\My Projects\PKS\PKS-0202\P18F2550.INC	124;"	q	line:124
+SPEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	686;"	q	line:686
+SREN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	684;"	q	line:684
+SSPADD	C:\My Projects\PKS\PKS-0202\P18F2550.INC	152;"	q	line:152
+SSPBUF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	153;"	q	line:153
+SSPCON1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	150;"	q	line:150
+SSPCON1_SPI_MODE_IDLE::0x00	C:\My Projects\PKS\PKS-0202\comm_spi.h	109;"	d	line:109
+SSPCON1_SPI_MODE_MASTER::0x03	C:\My Projects\PKS\PKS-0202\comm_spi.h	110;"	d	line:110
+SSPCON1_SPI_MODE_SLAVE_NOSS::0x05	C:\My Projects\PKS\PKS-0202\comm_spi.h	112;"	d	line:112
+SSPCON1_SPI_MODE_SLAVE_SS::0x04	C:\My Projects\PKS\PKS-0202\comm_spi.h	111;"	d	line:111
+SSPCON2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	149;"	q	line:149
+SSPEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	849;"	q	line:849
+SSPIE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	603;"	q	line:603
+SSPIF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	613;"	q	line:613
+SSPIP	C:\My Projects\PKS\PKS-0202\P18F2550.INC	623;"	q	line:623
+SSPM0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	844;"	q	line:844
+SSPM1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	845;"	q	line:845
+SSPM2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	846;"	q	line:846
+SSPM3	C:\My Projects\PKS\PKS-0202\P18F2550.INC	847;"	q	line:847
+SSPOV	C:\My Projects\PKS\PKS-0202\P18F2550.INC	850;"	q	line:850
+SSPSTAT	C:\My Projects\PKS\PKS-0202\P18F2550.INC	151;"	q	line:151
+STALLIE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	246;"	q	line:246
+STALLIF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	236;"	q	line:236
+STATUS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	168;"	q	line:168
+STKFUL	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1061;"	q	line:1061
+STKPTR	C:\My Projects\PKS\PKS-0202\P18F2550.INC	207;"	q	line:207
+STKPTR0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1055;"	q	line:1055
+STKPTR1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1056;"	q	line:1056
+STKPTR2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1057;"	q	line:1057
+STKPTR3	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1058;"	q	line:1058
+STKPTR4	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1059;"	q	line:1059
+STKUNF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1060;"	q	line:1060
+SUSPND	C:\My Projects\PKS\PKS-0202\P18F2550.INC	278;"	q	line:278
+SWDTE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	925;"	q	line:925
+SWDTEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	923;"	q	line:923
+SW_PIN::PORTBbits.RB5	C:\My Projects\PKS\PKS-0202\device.h	70;"	d	line:70
+SW_PIN::PORTBbits.RB5	C:\My Projects\PKS\PKS-0202\exec.h	55;"	d	line:55
+SW_PIN_DIR::TRISBbits.TRISB5	C:\My Projects\PKS\PKS-0202\device.h	71;"	d	line:71
+SW_PIN_DIR::TRISBbits.TRISB5	C:\My Projects\PKS\PKS-0202\exec.h	56;"	d	line:56
+SYNC	C:\My Projects\PKS\PKS-0202\P18F2550.INC	696;"	q	line:696
+T08BIT	C:\My Projects\PKS\PKS-0202\P18F2550.INC	996;"	q	line:996
+T0CKI	C:\My Projects\PKS\PKS-0202\P18F2550.INC	447;"	q	line:447
+T0CON	C:\My Projects\PKS\PKS-0202\P18F2550.INC	165;"	q	line:165
+T0CS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	995;"	q	line:995
+T0IE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1049;"	q	line:1049
+T0IF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1047;"	q	line:1047
+T0IP	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1032;"	q	line:1032
+T0PS0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	990;"	q	line:990
+T0PS1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	991;"	q	line:991
+T0PS2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	992;"	q	line:992
+T0SE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	994;"	q	line:994
+T13CKI	C:\My Projects\PKS\PKS-0202\P18F2550.INC	492;"	q	line:492
+T1CKPS0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	897;"	q	line:897
+T1CKPS1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	898;"	q	line:898
+T1CON	C:\My Projects\PKS\PKS-0202\P18F2550.INC	157;"	q	line:157
+T1OSCEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	896;"	q	line:896
+T1OSI	C:\My Projects\PKS\PKS-0202\P18F2550.INC	487;"	q	line:487
+T1OSO	C:\My Projects\PKS\PKS-0202\P18F2550.INC	486;"	q	line:486
+T1RUN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	899;"	q	line:899
+T1SYNC	C:\My Projects\PKS\PKS-0202\P18F2550.INC	895;"	q	line:895
+T2CKPS0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	883;"	q	line:883
+T2CKPS1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	884;"	q	line:884
+T2CON	C:\My Projects\PKS\PKS-0202\P18F2550.INC	154;"	q	line:154
+T2OUTPS0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	886;"	q	line:886
+T2OUTPS1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	887;"	q	line:887
+T2OUTPS2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	888;"	q	line:888
+T2OUTPS3	C:\My Projects\PKS\PKS-0202\P18F2550.INC	889;"	q	line:889
+T3CCP1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	706;"	q	line:706
+T3CCP2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	709;"	q	line:709
+T3CKPS0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	707;"	q	line:707
+T3CKPS1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	708;"	q	line:708
+T3CON	C:\My Projects\PKS\PKS-0202\P18F2550.INC	125;"	q	line:125
+T3NSYNC	C:\My Projects\PKS\PKS-0202\P18F2550.INC	712;"	q	line:712
+T3SYNC	C:\My Projects\PKS\PKS-0202\P18F2550.INC	705;"	q	line:705
+TABLAT	C:\My Projects\PKS\PKS-0202\P18F2550.INC	198;"	q	line:198
+TBLPTR	C:\My Projects\PKS\PKS-0202\P18F2550.INC	199;"	q	line:199
+TBLPTRH	C:\My Projects\PKS\PKS-0202\P18F2550.INC	201;"	q	line:201
+TBLPTRL	C:\My Projects\PKS\PKS-0202\P18F2550.INC	200;"	q	line:200
+TBLPTRU	C:\My Projects\PKS\PKS-0202\P18F2550.INC	202;"	q	line:202
+TD_BDT	C:\My Projects\PKS\PKS-0202\usb.h	179;"	t	line:179
+TD_BD_STAT	C:\My Projects\PKS\PKS-0202\usb.h	159;"	t	line:159
+TD_BYTE	C:\My Projects\PKS\PKS-0202\typedefs.h	48;"	t	line:48
+TD_BYTE_B	C:\My Projects\PKS\PKS-0202\typedefs.h	83;"	t	line:83
+TD_DWORD	C:\My Projects\PKS\PKS-0202\typedefs.h	50;"	t	line:50
+TD_DWORD_D	C:\My Projects\PKS\PKS-0202\typedefs.h	175;"	t	line:175
+TD_POINTER	C:\My Projects\PKS\PKS-0202\typedefs.h	197;"	t	line:197
+TD_WORD	C:\My Projects\PKS\PKS-0202\typedefs.h	49;"	t	line:49
+TD_WORD_W	C:\My Projects\PKS\PKS-0202\typedefs.h	118;"	t	line:118
+TIMER0_A_USEC::409.6	C:\My Projects\PKS\PKS-0202\device.h	35;"	d	line:35
+TIMER0_A_USEC::409.6	C:\My Projects\PKS\PKS-0202\device.h	41;"	d	line:41
+TIMER0_BC_TB::(TIMER0_C_MSEC/TIMER0_B_MSEC)	C:\My Projects\PKS\PKS-0202\timer0.c	112;"	d	line:112	file:
+TIMER0_B_MSEC::(TIMER0_A_USEC*256/1000)	C:\My Projects\PKS\PKS-0202\timer0.c	109;"	d	line:109	file:
+TIMER0_C_MSEC::(1000)	C:\My Projects\PKS\PKS-0202\timer0.c	110;"	d	line:110	file:
+TIMER0_REG_OVF_FLAG::timer0_flags_B.bit0	C:\My Projects\PKS\PKS-0202\timer0.h	66;"	d	line:66
+TIMER0_REG_OVF_SYNC_FLAG::timer0_flags_B.bit1	C:\My Projects\PKS\PKS-0202\timer0.h	67;"	d	line:67
+TIMER0_T0CON_DFLT::0b11000001	C:\My Projects\PKS\PKS-0202\device.h	34;"	d	line:34
+TIMER0_T0CON_DFLT::0b11000010	C:\My Projects\PKS\PKS-0202\device.h	40;"	d	line:40
+TMR0H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	167;"	q	line:167
+TMR0IE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1042;"	q	line:1042
+TMR0IF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1039;"	q	line:1039
+TMR0IP	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1026;"	q	line:1026
+TMR0L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	166;"	q	line:166
+TMR0ON	C:\My Projects\PKS\PKS-0202\P18F2550.INC	997;"	q	line:997
+TMR1CS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	894;"	q	line:894
+TMR1H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	159;"	q	line:159
+TMR1IE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	600;"	q	line:600
+TMR1IF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	610;"	q	line:610
+TMR1IP	C:\My Projects\PKS\PKS-0202\P18F2550.INC	620;"	q	line:620
+TMR1L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	158;"	q	line:158
+TMR1ON	C:\My Projects\PKS\PKS-0202\P18F2550.INC	893;"	q	line:893
+TMR2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	156;"	q	line:156
+TMR2IE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	601;"	q	line:601
+TMR2IF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	611;"	q	line:611
+TMR2IP	C:\My Projects\PKS\PKS-0202\P18F2550.INC	621;"	q	line:621
+TMR2ON	C:\My Projects\PKS\PKS-0202\P18F2550.INC	885;"	q	line:885
+TMR3CS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	704;"	q	line:704
+TMR3H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	127;"	q	line:127
+TMR3IE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	631;"	q	line:631
+TMR3IF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	644;"	q	line:644
+TMR3IP	C:\My Projects\PKS\PKS-0202\P18F2550.INC	657;"	q	line:657
+TMR3L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	126;"	q	line:126
+TMR3ON	C:\My Projects\PKS\PKS-0202\P18F2550.INC	703;"	q	line:703
+TO	C:\My Projects\PKS\PKS-0202\P18F2550.INC	917;"	q	line:917
+TOS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	208;"	q	line:208
+TOSH	C:\My Projects\PKS\PKS-0202\P18F2550.INC	210;"	q	line:210
+TOSL	C:\My Projects\PKS\PKS-0202\P18F2550.INC	209;"	q	line:209
+TOSU	C:\My Projects\PKS\PKS-0202\P18F2550.INC	211;"	q	line:211
+TRISA	C:\My Projects\PKS\PKS-0202\P18F2550.INC	103;"	q	line:103
+TRISA0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	543;"	q	line:543
+TRISA1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	544;"	q	line:544
+TRISA2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	545;"	q	line:545
+TRISA3	C:\My Projects\PKS\PKS-0202\P18F2550.INC	546;"	q	line:546
+TRISA4	C:\My Projects\PKS\PKS-0202\P18F2550.INC	547;"	q	line:547
+TRISA5	C:\My Projects\PKS\PKS-0202\P18F2550.INC	548;"	q	line:548
+TRISA6	C:\My Projects\PKS\PKS-0202\P18F2550.INC	549;"	q	line:549
+TRISA_DFLT::0b000000;	C:\My Projects\PKS\PKS-0202\device.h	63;"	d	line:63
+TRISB	C:\My Projects\PKS\PKS-0202\P18F2550.INC	105;"	q	line:105
+TRISB0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	564;"	q	line:564
+TRISB1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	565;"	q	line:565
+TRISB2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	566;"	q	line:566
+TRISB3	C:\My Projects\PKS\PKS-0202\P18F2550.INC	567;"	q	line:567
+TRISB4	C:\My Projects\PKS\PKS-0202\P18F2550.INC	568;"	q	line:568
+TRISB5	C:\My Projects\PKS\PKS-0202\P18F2550.INC	569;"	q	line:569
+TRISB6	C:\My Projects\PKS\PKS-0202\P18F2550.INC	570;"	q	line:570
+TRISB7	C:\My Projects\PKS\PKS-0202\P18F2550.INC	571;"	q	line:571
+TRISB_DFLT::0b00000000;	C:\My Projects\PKS\PKS-0202\device.h	64;"	d	line:64
+TRISC	C:\My Projects\PKS\PKS-0202\P18F2550.INC	107;"	q	line:107
+TRISC0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	583;"	q	line:583
+TRISC1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	584;"	q	line:584
+TRISC2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	585;"	q	line:585
+TRISC6	C:\My Projects\PKS\PKS-0202\P18F2550.INC	586;"	q	line:586
+TRISC7	C:\My Projects\PKS\PKS-0202\P18F2550.INC	587;"	q	line:587
+TRISC_DFLT::0b00000000;	C:\My Projects\PKS\PKS-0202\device.h	65;"	d	line:65
+TRMT	C:\My Projects\PKS\PKS-0202\P18F2550.INC	693;"	q	line:693
+TRNIE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	244;"	q	line:244
+TRNIF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	234;"	q	line:234
+TRUE	C:\My Projects\PKS\PKS-0202\typedefs.h	209;"	e	line:209	enum:_BOOL
+TUN0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	591;"	q	line:591
+TUN1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	592;"	q	line:592
+TUN2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	593;"	q	line:593
+TUN3	C:\My Projects\PKS\PKS-0202\P18F2550.INC	594;"	q	line:594
+TUN4	C:\My Projects\PKS\PKS-0202\P18F2550.INC	595;"	q	line:595
+TX	C:\My Projects\PKS\PKS-0202\P18F2550.INC	489;"	q	line:489
+TX9	C:\My Projects\PKS\PKS-0202\P18F2550.INC	698;"	q	line:698
+TX9D	C:\My Projects\PKS\PKS-0202\P18F2550.INC	692;"	q	line:692
+TXEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	697;"	q	line:697
+TXIE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	604;"	q	line:604
+TXIF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	614;"	q	line:614
+TXIP	C:\My Projects\PKS\PKS-0202\P18F2550.INC	624;"	q	line:624
+TXREG	C:\My Projects\PKS\PKS-0202\P18F2550.INC	121;"	q	line:121
+TXSTA	C:\My Projects\PKS\PKS-0202\P18F2550.INC	120;"	q	line:120
+UA	C:\My Projects\PKS\PKS-0202\P18F2550.INC	856;"	q	line:856
+UADDR	C:\My Projects\PKS\PKS-0202\P18F2550.INC	77;"	q	line:77
+UCFG	C:\My Projects\PKS\PKS-0202\P18F2550.INC	78;"	q	line:78
+UCON	C:\My Projects\PKS\PKS-0202\P18F2550.INC	76;"	q	line:76
+UEIE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	74;"	q	line:74
+UEIR	C:\My Projects\PKS\PKS-0202\P18F2550.INC	73;"	q	line:73
+UEP0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	79;"	q	line:79
+UEP1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	80;"	q	line:80
+UEP10	C:\My Projects\PKS\PKS-0202\P18F2550.INC	89;"	q	line:89
+UEP11	C:\My Projects\PKS\PKS-0202\P18F2550.INC	90;"	q	line:90
+UEP12	C:\My Projects\PKS\PKS-0202\P18F2550.INC	91;"	q	line:91
+UEP13	C:\My Projects\PKS\PKS-0202\P18F2550.INC	92;"	q	line:92
+UEP14	C:\My Projects\PKS\PKS-0202\P18F2550.INC	93;"	q	line:93
+UEP15	C:\My Projects\PKS\PKS-0202\P18F2550.INC	94;"	q	line:94
+UEP2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	81;"	q	line:81
+UEP3	C:\My Projects\PKS\PKS-0202\P18F2550.INC	82;"	q	line:82
+UEP4	C:\My Projects\PKS\PKS-0202\P18F2550.INC	83;"	q	line:83
+UEP5	C:\My Projects\PKS\PKS-0202\P18F2550.INC	84;"	q	line:84
+UEP6	C:\My Projects\PKS\PKS-0202\P18F2550.INC	85;"	q	line:85
+UEP7	C:\My Projects\PKS\PKS-0202\P18F2550.INC	86;"	q	line:86
+UEP8	C:\My Projects\PKS\PKS-0202\P18F2550.INC	87;"	q	line:87
+UEP9	C:\My Projects\PKS\PKS-0202\P18F2550.INC	88;"	q	line:88
+UERRIE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	242;"	q	line:242
+UERRIF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	232;"	q	line:232
+UFRM	C:\My Projects\PKS\PKS-0202\P18F2550.INC	68;"	q	line:68
+UFRMH	C:\My Projects\PKS\PKS-0202\P18F2550.INC	70;"	q	line:70
+UFRML	C:\My Projects\PKS\PKS-0202\P18F2550.INC	69;"	q	line:69
+UIE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	72;"	q	line:72
+UIR	C:\My Projects\PKS\PKS-0202\P18F2550.INC	71;"	q	line:71
+UOEMON	C:\My Projects\PKS\PKS-0202\P18F2550.INC	302;"	q	line:302
+UPUEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	301;"	q	line:301
+URSTIE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	241;"	q	line:241
+URSTIF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	231;"	q	line:231
+USART_AUX1_PORT::PORTBbits.RB0	C:\My Projects\PKS\PKS-0202\comm_usart.h	57;"	d	line:57
+USART_AUX1_TRIS::TRISBbits.TRISB0	C:\My Projects\PKS\PKS-0202\comm_usart.h	55;"	d	line:55
+USART_AUX2_PORT::PORTBbits.RB1	C:\My Projects\PKS\PKS-0202\comm_usart.h	58;"	d	line:58
+USART_AUX2_TRIS::TRISBbits.TRISB1	C:\My Projects\PKS\PKS-0202\comm_usart.h	56;"	d	line:56
+USART_RX_TRIS::TRISCbits.TRISC7	C:\My Projects\PKS\PKS-0202\comm_usart.h	53;"	d	line:53
+USART_TX_TRIS::TRISCbits.TRISC6	C:\My Projects\PKS\PKS-0202\comm_usart.h	52;"	d	line:52
+USBEN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	280;"	q	line:280
+USBIE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	635;"	q	line:635
+USBIF	C:\My Projects\PKS\PKS-0202\P18F2550.INC	648;"	q	line:648
+USBIP	C:\My Projects\PKS\PKS-0202\P18F2550.INC	661;"	q	line:661
+USB_ADDR_1_FLAG::usb_flags_B.bit0	C:\My Projects\PKS\PKS-0202\usb.h	84;"	d	line:84
+USB_ADDR_2_FLAG::usb_flags_B.bit1	C:\My Projects\PKS\PKS-0202\usb.h	85;"	d	line:85
+USB_BUF_CONTROL	C:\My Projects\PKS\PKS-0202\usb.h	224;"	t	line:224
+USB_DSC_CFG	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	93;"	t	line:93
+USB_DSC_CFG_01::romstruct\	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	127;"	d	line:127
+USB_DSC_DEV	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	78;"	t	line:78
+USB_DSC_EP	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	122;"	t	line:122
+USB_DSC_HID	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	151;"	t	line:151
+USB_DSC_HID_RPT_01::romstruct{TD_BYTEreport[29];}	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	153;"	d	line:153
+USB_DSC_INTF	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	109;"	t	line:109
+USB_DSC_STR_00::romstruct{TD_BYTElength;TD_BYT	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	155;"	d	line:155
+USB_DSC_STR_01::romstruct{TD_BYTElength;TD_BYT	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	156;"	d	line:156
+USB_DSC_STR_02::romstruct{TD_BYTElength;TD_BYT	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	157;"	d	line:157
+USB_DSC_TYPE_CFG::0x02	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	54;"	d	line:54
+USB_DSC_TYPE_DEV::0x01	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	53;"	d	line:53
+USB_DSC_TYPE_EP::0x05	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	57;"	d	line:57
+USB_DSC_TYPE_HID::0x21	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	139;"	d	line:139
+USB_DSC_TYPE_INTF::0x04	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	56;"	d	line:56
+USB_DSC_TYPE_RPT::0x22	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	140;"	d	line:140
+USB_DSC_TYPE_STR::0x03	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	55;"	d	line:55
+USB_EP0_SIZE_MAX::64	C:\My Projects\PKS\PKS-0202\usb.h	69;"	d	line:69
+USB_EP1_SIZE_MAX::64	C:\My Projects\PKS\PKS-0202\usb.h	70;"	d	line:70
+USB_IN_BUSY_FLAG::usb_flags_B.bit3	C:\My Projects\PKS\PKS-0202\usb.h	87;"	d	line:87
+USB_RCVBUF_COUNT_MAX::64	C:\My Projects\PKS\PKS-0202\usb.h	52;"	d	line:52
+USB_RCVBUF_COUNT_REG::usb_bdt_ep1_out.count	C:\My Projects\PKS\PKS-0202\usb.h	51;"	d	line:51
+USB_RCVBUF_GET_FUNC::usb_ep1_out_get	C:\My Projects\PKS\PKS-0202\usb.h	56;"	d	line:56
+USB_RCVBUF_POINTER::usb_buf_ep1_out	C:\My Projects\PKS\PKS-0202\usb.h	54;"	d	line:54
+USB_RCVBUF_READY_FLAG::usb_flags_B.bit6	C:\My Projects\PKS\PKS-0202\usb.h	50;"	d	line:50
+USB_RCVBUF_RELEASE_FUNC::usb_ep1_out_finish	C:\My Projects\PKS\PKS-0202\usb.h	55;"	d	line:55
+USB_RCVBUF_SIZE::64	C:\My Projects\PKS\PKS-0202\usb.h	53;"	d	line:53
+USB_READY_FLAG::usb_flags_B.bit2	C:\My Projects\PKS\PKS-0202\usb.h	86;"	d	line:86
+USB_STATE_ADDRESS::5	C:\My Projects\PKS\PKS-0202\usb.h	111;"	d	line:111
+USB_STATE_ADDRESS_PENDING::4	C:\My Projects\PKS\PKS-0202\usb.h	110;"	d	line:110
+USB_STATE_ATTACHED::1	C:\My Projects\PKS\PKS-0202\usb.h	107;"	d	line:107
+USB_STATE_CONFIGURED::6	C:\My Projects\PKS\PKS-0202\usb.h	112;"	d	line:112
+USB_STATE_DEFAULT::3	C:\My Projects\PKS\PKS-0202\usb.h	109;"	d	line:109
+USB_STATE_DETACHED::0	C:\My Projects\PKS\PKS-0202\usb.h	106;"	d	line:106
+USB_STATE_POWERED::2	C:\My Projects\PKS\PKS-0202\usb.h	108;"	d	line:108
+USB_XMTBUF_COUNT_MAX::64	C:\My Projects\PKS\PKS-0202\usb.h	60;"	d	line:60
+USB_XMTBUF_COUNT_REG::usb_bdt_ep1_in.count	C:\My Projects\PKS\PKS-0202\usb.h	59;"	d	line:59
+USB_XMTBUF_POINTER::usb_buf_ep1_in	C:\My Projects\PKS\PKS-0202\usb.h	62;"	d	line:62
+USB_XMTBUF_PUT_FUNC::usb_ep1_in_put	C:\My Projects\PKS\PKS-0202\usb.h	64;"	d	line:64
+USB_XMTBUF_READY_FLAG::usb_flags_B.bit7	C:\My Projects\PKS\PKS-0202\usb.h	58;"	d	line:58
+USB_XMTBUF_RELEASE_FUNC::usb_ep1_in_finish	C:\My Projects\PKS\PKS-0202\usb.h	63;"	d	line:63
+USB_XMTBUF_SIZE::64	C:\My Projects\PKS\PKS-0202\usb.h	61;"	d	line:61
+USTAT	C:\My Projects\PKS\PKS-0202\P18F2550.INC	75;"	q	line:75
+UTEYE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	303;"	q	line:303
+UTRDIS	C:\My Projects\PKS\PKS-0202\P18F2550.INC	300;"	q	line:300
+VCFG0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	813;"	q	line:813
+VCFG1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	814;"	q	line:814
+VDIRMAG	C:\My Projects\PKS\PKS-0202\P18F2550.INC	947;"	q	line:947
+VDIRMAG	C:\My Projects\PKS\PKS-0202\P18F2550.INC	971;"	q	line:971
+VECTOR_ISR_HI::0x2008	C:\My Projects\PKS\PKS-0202\main.c	66;"	d	line:66	file:
+VECTOR_ISR_LO::0x2018	C:\My Projects\PKS\PKS-0202\main.c	67;"	d	line:67	file:
+VECTOR_RESET::0x2000	C:\My Projects\PKS\PKS-0202\main.c	65;"	d	line:65	file:
+VREFM	C:\My Projects\PKS\PKS-0202\P18F2550.INC	451;"	q	line:451
+VREFP	C:\My Projects\PKS\PKS-0202\P18F2550.INC	452;"	q	line:452
+VSRC_ADCON0::0x03	C:\My Projects\PKS\PKS-0202\vsrc.h	93;"	d	line:93
+VSRC_ADCON2::0x3D	C:\My Projects\PKS\PKS-0202\vsrc.h	98;"	d	line:98
+VSRC_CCP1CON_OFF::0x00	C:\My Projects\PKS\PKS-0202\vsrc.h	86;"	d	line:86
+VSRC_CCP1CON_ON::0x0C	C:\My Projects\PKS\PKS-0202\vsrc.h	85;"	d	line:85
+VSRC_CONTROL_PIN::PORTCbits.RC2	C:\My Projects\PKS\PKS-0202\vsrc.h	53;"	d	line:53
+VSRC_CONTROL_TRIS::TRISCbits.TRISC2	C:\My Projects\PKS\PKS-0202\vsrc.h	52;"	d	line:52
+VSRC_FAULT_COUNT_TARGET::3	C:\My Projects\PKS\PKS-0202\vsrc.h	88;"	d	line:88
+VSRC_FAULT_FLAG::vsrc_flags_B.bit1	C:\My Projects\PKS\PKS-0202\vsrc.h	78;"	d	line:78
+VSRC_PR2::115	C:\My Projects\PKS\PKS-0202\vsrc.h	82;"	d	line:82
+VSRC_PWM_FLAG::vsrc_flags_B.bit0	C:\My Projects\PKS\PKS-0202\vsrc.h	79;"	d	line:79
+VSRC_READ_PIN::PORTAbits.RA0;	C:\My Projects\PKS\PKS-0202\vsrc.h	56;"	d	line:56
+VSRC_READ_TRIS::TRISAbits.TRISA0	C:\My Projects\PKS\PKS-0202\vsrc.h	55;"	d	line:55
+VSRC_SET_FLAG::vsrc_flags_B.bit2	C:\My Projects\PKS\PKS-0202\vsrc.h	77;"	d	line:77
+VSRC_T2CON_OFF::0x00	C:\My Projects\PKS\PKS-0202\vsrc.h	84;"	d	line:84
+VSRC_T2CON_ON::0x04	C:\My Projects\PKS\PKS-0202\vsrc.h	83;"	d	line:83
+W	C:\My Projects\PKS\PKS-0202\P18F2550.INC	46;"	q	line:46
+WCOL	C:\My Projects\PKS\PKS-0202\P18F2550.INC	851;"	q	line:851
+WDTCON	C:\My Projects\PKS\PKS-0202\P18F2550.INC	161;"	q	line:161
+WORD	C:\My Projects\PKS\PKS-0202\typedefs.h	118;"	t	line:118
+WR	C:\My Projects\PKS\PKS-0202\P18F2550.INC	670;"	q	line:670
+WREG	C:\My Projects\PKS\PKS-0202\P18F2550.INC	184;"	q	line:184
+WREN	C:\My Projects\PKS\PKS-0202\P18F2550.INC	671;"	q	line:671
+WRERR	C:\My Projects\PKS\PKS-0202\P18F2550.INC	672;"	q	line:672
+WUE	C:\My Projects\PKS\PKS-0202\P18F2550.INC	771;"	q	line:771
+Z	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1003;"	q	line:1003
+_B0	C:\My Projects\PKS\PKS-0202\typedefs.h	115;"	m	line:115	struct:_WORD::<anonymous>
+_B0	C:\My Projects\PKS\PKS-0202\typedefs.h	170;"	m	line:170	struct:_DWORD::<anonymous>
+_B1	C:\My Projects\PKS\PKS-0202\typedefs.h	116;"	m	line:116	struct:_WORD::<anonymous>
+_B1	C:\My Projects\PKS\PKS-0202\typedefs.h	171;"	m	line:171	struct:_DWORD::<anonymous>
+_B2	C:\My Projects\PKS\PKS-0202\typedefs.h	172;"	m	line:172	struct:_DWORD::<anonymous>
+_B3	C:\My Projects\PKS\PKS-0202\typedefs.h	173;"	m	line:173	struct:_DWORD::<anonymous>
+_BDS_BSTALL::0x04	C:\My Projects\PKS\PKS-0202\usb.h	117;"	d	line:117
+_BDS_DAT0::0x00	C:\My Projects\PKS\PKS-0202\usb.h	121;"	d	line:121
+_BDS_DAT1::0x40	C:\My Projects\PKS\PKS-0202\usb.h	122;"	d	line:122
+_BDS_DTS::0x40	C:\My Projects\PKS\PKS-0202\usb.h	123;"	d	line:123
+_BDS_DTSEN::0x08	C:\My Projects\PKS\PKS-0202\usb.h	118;"	d	line:118
+_BDS_INCDIS::0x10	C:\My Projects\PKS\PKS-0202\usb.h	119;"	d	line:119
+_BDS_KEN::0x20	C:\My Projects\PKS\PKS-0202\usb.h	120;"	d	line:120
+_BDS_UCPU::0x00	C:\My Projects\PKS\PKS-0202\usb.h	126;"	d	line:126
+_BDS_UOWN::0x80	C:\My Projects\PKS\PKS-0202\usb.h	125;"	d	line:125
+_BDS_USIE::0x80	C:\My Projects\PKS\PKS-0202\usb.h	124;"	d	line:124
+_BDT	C:\My Projects\PKS\PKS-0202\usb.h	164;"	u	line:164
+_BD_STAT	C:\My Projects\PKS\PKS-0202\usb.h	131;"	u	line:131
+_BOOL	C:\My Projects\PKS\PKS-0202\typedefs.h	209;"	g	line:209
+_BORV_0_2L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1359;"	q	line:1359
+_BORV_1_2L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1360;"	q	line:1360
+_BORV_2_2L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1361;"	q	line:1361
+_BORV_3_2L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1362;"	q	line:1362
+_BOR_OFF_2L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1354;"	q	line:1354
+_BOR_ON_2L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1357;"	q	line:1357
+_BOR_ON_ACTIVE_2L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1356;"	q	line:1356
+_BOR_SOFT_2L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1355;"	q	line:1355
+_BYTE	C:\My Projects\PKS\PKS-0202\typedefs.h	57;"	u	line:57
+_CBUF_H	C:\My Projects\PKS\PKS-0202\cbuf.h	45;"	d	line:45
+_CCP2MX_OFF_3H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1398;"	q	line:1398
+_CCP2MX_ON_3H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1399;"	q	line:1399
+_CONFIG1H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1300;"	q	line:1300
+_CONFIG1L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1299;"	q	line:1299
+_CONFIG2H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1302;"	q	line:1302
+_CONFIG2L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1301;"	q	line:1301
+_CONFIG3H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1303;"	q	line:1303
+_CONFIG4L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1304;"	q	line:1304
+_CONFIG5H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1306;"	q	line:1306
+_CONFIG5L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1305;"	q	line:1305
+_CONFIG6H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1308;"	q	line:1308
+_CONFIG6L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1307;"	q	line:1307
+_CONFIG7H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1310;"	q	line:1310
+_CONFIG7L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1309;"	q	line:1309
+_CP0_OFF_5L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1416;"	q	line:1416
+_CP0_ON_5L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1415;"	q	line:1415
+_CP1_OFF_5L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1419;"	q	line:1419
+_CP1_ON_5L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1418;"	q	line:1418
+_CP2_OFF_5L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1422;"	q	line:1422
+_CP2_ON_5L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1421;"	q	line:1421
+_CP3_OFF_5L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1425;"	q	line:1425
+_CP3_ON_5L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1424;"	q	line:1424
+_CPB_OFF_5H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1429;"	q	line:1429
+_CPB_ON_5H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1428;"	q	line:1428
+_CPD_OFF_5H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1432;"	q	line:1432
+_CPD_ON_5H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1431;"	q	line:1431
+_CPUDIV_OSC1_PLL2_1L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1322;"	q	line:1322
+_CPUDIV_OSC2_PLL3_1L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1323;"	q	line:1323
+_CPUDIV_OSC3_PLL4_1L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1324;"	q	line:1324
+_CPUDIV_OSC4_PLL6_1L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1325;"	q	line:1325
+_DEBUG_OFF_4L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1412;"	q	line:1412
+_DEBUG_ON_4L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1411;"	q	line:1411
+_DESC_TYPE_CFG::0x02	C:\My Projects\PKS\PKS-0202\usb.h	271;"	d	line:271
+_DESC_TYPE_DEV::0x01	C:\My Projects\PKS\PKS-0202\usb.h	270;"	d	line:270
+_DESC_TYPE_DEVQUAL::0x06	C:\My Projects\PKS\PKS-0202\usb.h	275;"	d	line:275
+_DESC_TYPE_EP::0x05	C:\My Projects\PKS\PKS-0202\usb.h	274;"	d	line:274
+_DESC_TYPE_INTF::0x04	C:\My Projects\PKS\PKS-0202\usb.h	273;"	d	line:273
+_DESC_TYPE_OSC::0x07	C:\My Projects\PKS\PKS-0202\usb.h	276;"	d	line:276
+_DESC_TYPE_RPT::0x22	C:\My Projects\PKS\PKS-0202\usb.h	277;"	d	line:277
+_DESC_TYPE_STR::0x03	C:\My Projects\PKS\PKS-0202\usb.h	272;"	d	line:272
+_DEVID1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1475;"	q	line:1475
+_DEVID2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1476;"	q	line:1476
+_DWORD	C:\My Projects\PKS\PKS-0202\typedefs.h	124;"	u	line:124
+_EBTR0_OFF_7L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1459;"	q	line:1459
+_EBTR0_ON_7L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1458;"	q	line:1458
+_EBTR1_OFF_7L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1462;"	q	line:1462
+_EBTR1_ON_7L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1461;"	q	line:1461
+_EBTR2_OFF_7L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1465;"	q	line:1465
+_EBTR2_ON_7L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1464;"	q	line:1464
+_EBTR3_OFF_7L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1468;"	q	line:1468
+_EBTR3_ON_7L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1467;"	q	line:1467
+_EBTRB_OFF_7H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1472;"	q	line:1472
+_EBTRB_ON_7H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1471;"	q	line:1471
+_EPCONDIS::0x08	C:\My Projects\PKS\PKS-0202\usb.h	78;"	d	line:78
+_EPHSHK::0x10	C:\My Projects\PKS\PKS-0202\usb.h	79;"	d	line:79
+_EPINEN::0x02	C:\My Projects\PKS\PKS-0202\usb.h	76;"	d	line:76
+_EPOUTEN::0x04	C:\My Projects\PKS\PKS-0202\usb.h	77;"	d	line:77
+_EPSTALL::0x01	C:\My Projects\PKS\PKS-0202\usb.h	75;"	d	line:75
+_FCMEM_OFF_1H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1344;"	q	line:1344
+_FCMEM_ON_1H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1345;"	q	line:1345
+_FOSC_20MHZ	C:\My Projects\PKS\PKS-0202\device.h	28;"	d	line:28
+_FOSC_ECIO_EC_1H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1333;"	q	line:1333
+_FOSC_ECPLLIO_EC_1H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1335;"	q	line:1335
+_FOSC_ECPLL_EC_1H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1336;"	q	line:1336
+_FOSC_EC_EC_1H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1334;"	q	line:1334
+_FOSC_HSPLL_HS_1H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1342;"	q	line:1342
+_FOSC_HS_1H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1341;"	q	line:1341
+_FOSC_INTOSCIO_EC_1H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1337;"	q	line:1337
+_FOSC_INTOSC_EC_1H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1338;"	q	line:1338
+_FOSC_INTOSC_HS_1H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1340;"	q	line:1340
+_FOSC_INTOSC_XT_1H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1339;"	q	line:1339
+_FOSC_MHZ::10.000	C:\My Projects\PKS\PKS-0202\device.h	36;"	d	line:36
+_FOSC_MHZ::20.000	C:\My Projects\PKS\PKS-0202\device.h	42;"	d	line:42
+_FOSC_XTPLL_XT_1H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1332;"	q	line:1332
+_FOSC_XT_XT_1H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1331;"	q	line:1331
+_IDLOC0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1478;"	q	line:1478
+_IDLOC1	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1479;"	q	line:1479
+_IDLOC2	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1480;"	q	line:1480
+_IDLOC3	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1481;"	q	line:1481
+_IDLOC4	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1482;"	q	line:1482
+_IDLOC5	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1483;"	q	line:1483
+_IDLOC6	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1484;"	q	line:1484
+_IDLOC7	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1485;"	q	line:1485
+_IESO_OFF_1H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1347;"	q	line:1347
+_IESO_ON_1H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1348;"	q	line:1348
+_LED_H	C:\My Projects\PKS\PKS-0202\led2.h	44;"	d	line:44
+_LPT1OSC_OFF_3H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1392;"	q	line:1392
+_LPT1OSC_ON_3H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1393;"	q	line:1393
+_LVP_OFF_4L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1405;"	q	line:1405
+_LVP_ON_4L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1406;"	q	line:1406
+_MCLRE_OFF_3H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1389;"	q	line:1389
+_MCLRE_ON_3H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1390;"	q	line:1390
+_PBADEN_OFF_3H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1395;"	q	line:1395
+_PBADEN_ON_3H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1396;"	q	line:1396
+_PID_IN::0x09	C:\My Projects\PKS\PKS-0202\usb.h	101;"	d	line:101
+_PID_OUT::0x01	C:\My Projects\PKS\PKS-0202\usb.h	100;"	d	line:100
+_PID_SETUP::0x0D	C:\My Projects\PKS\PKS-0202\usb.h	99;"	d	line:99
+_PLLDIV_10_1L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1319;"	q	line:1319
+_PLLDIV_12_1L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1320;"	q	line:1320
+_PLLDIV_1_1L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1313;"	q	line:1313
+_PLLDIV_2_1L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1314;"	q	line:1314
+_PLLDIV_3_1L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1315;"	q	line:1315
+_PLLDIV_4_1L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1316;"	q	line:1316
+_PLLDIV_5_1L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1317;"	q	line:1317
+_PLLDIV_6_1L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1318;"	q	line:1318
+_POINTER	C:\My Projects\PKS\PKS-0202\typedefs.h	184;"	u	line:184
+_PWRT_OFF_2L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1352;"	q	line:1352
+_PWRT_ON_2L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1351;"	q	line:1351
+_RQTYPE_DIR_IN::1<<7	C:\My Projects\PKS\PKS-0202\usb.h	233;"	d	line:233
+_RQTYPE_DIR_MASK::1<<7	C:\My Projects\PKS\PKS-0202\usb.h	231;"	d	line:231
+_RQTYPE_DIR_OUT::0<<7	C:\My Projects\PKS\PKS-0202\usb.h	232;"	d	line:232
+_RQTYPE_RECP_DEV::0	C:\My Projects\PKS\PKS-0202\usb.h	241;"	d	line:241
+_RQTYPE_RECP_EP::2	C:\My Projects\PKS\PKS-0202\usb.h	243;"	d	line:243
+_RQTYPE_RECP_INTF::1	C:\My Projects\PKS\PKS-0202\usb.h	242;"	d	line:242
+_RQTYPE_RECP_MASK::0x1F	C:\My Projects\PKS\PKS-0202\usb.h	240;"	d	line:240
+_RQTYPE_RECP_OTHER::3	C:\My Projects\PKS\PKS-0202\usb.h	244;"	d	line:244
+_RQTYPE_TR_CLASS_INTF::(_RQTYPE_TYPE_CLASS|_RQTYPE_RE	C:\My Projects\PKS\PKS-0202\usb.h	249;"	d	line:249
+_RQTYPE_TR_MASK::(_RQTYPE_TYPE_MASK|_RQTYPE_REC	C:\My Projects\PKS\PKS-0202\usb.h	246;"	d	line:246
+_RQTYPE_TR_STD_DEV::(_RQTYPE_TYPE_STD|_RQTYPE_RECP	C:\My Projects\PKS\PKS-0202\usb.h	247;"	d	line:247
+_RQTYPE_TR_STD_INTF::(_RQTYPE_TYPE_STD|_RQTYPE_RECP	C:\My Projects\PKS\PKS-0202\usb.h	248;"	d	line:248
+_RQTYPE_TYPE_CLASS::1<<5	C:\My Projects\PKS\PKS-0202\usb.h	237;"	d	line:237
+_RQTYPE_TYPE_MASK::3<<5	C:\My Projects\PKS\PKS-0202\usb.h	235;"	d	line:235
+_RQTYPE_TYPE_STD::0<<5	C:\My Projects\PKS\PKS-0202\usb.h	236;"	d	line:236
+_RQTYPE_TYPE_VENDOR::2<<5	C:\My Projects\PKS\PKS-0202\usb.h	238;"	d	line:238
+_RQ_CLEAR_FEATURE::0x01	C:\My Projects\PKS\PKS-0202\usb.h	253;"	d	line:253
+_RQ_GET_CONFIGURATION::0x08	C:\My Projects\PKS\PKS-0202\usb.h	258;"	d	line:258
+_RQ_GET_DESCRIPTOR::0x06	C:\My Projects\PKS\PKS-0202\usb.h	256;"	d	line:256
+_RQ_GET_INTERFACE::0x0A	C:\My Projects\PKS\PKS-0202\usb.h	260;"	d	line:260
+_RQ_GET_REPORT::0x01	C:\My Projects\PKS\PKS-0202\usb.h	266;"	d	line:266
+_RQ_GET_STATUS::0x00	C:\My Projects\PKS\PKS-0202\usb.h	252;"	d	line:252
+_RQ_SET_ADDRESS::0x05	C:\My Projects\PKS\PKS-0202\usb.h	255;"	d	line:255
+_RQ_SET_CONFIGURATION::0x09	C:\My Projects\PKS\PKS-0202\usb.h	259;"	d	line:259
+_RQ_SET_DESCRIPTOR::0x07	C:\My Projects\PKS\PKS-0202\usb.h	257;"	d	line:257
+_RQ_SET_FEATURE::0x03	C:\My Projects\PKS\PKS-0202\usb.h	254;"	d	line:254
+_RQ_SET_IDLE::0x0A	C:\My Projects\PKS\PKS-0202\usb.h	265;"	d	line:265
+_RQ_SET_INTERFACE::0x0B	C:\My Projects\PKS\PKS-0202\usb.h	261;"	d	line:261
+_RQ_SET_REPORT::0x09	C:\My Projects\PKS\PKS-0202\usb.h	267;"	d	line:267
+_RQ_SYNC_FRAME::0x0C	C:\My Projects\PKS\PKS-0202\usb.h	262;"	d	line:262
+_STVREN_OFF_4L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1402;"	q	line:1402
+_STVREN_ON_4L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1403;"	q	line:1403
+_USBDIV_1_1L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1327;"	q	line:1327
+_USBDIV_2_1L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1328;"	q	line:1328
+_USB_BUF_CONTROL	C:\My Projects\PKS\PKS-0202\usb.h	184;"	u	line:184
+_USB_DSC_CFG	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	83;"	s	line:83
+_USB_DSC_DEV	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	62;"	s	line:62
+_USB_DSC_EP	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	114;"	s	line:114
+_USB_DSC_HID	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	142;"	s	line:142
+_USB_DSC_INTF	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	98;"	s	line:98
+_USTAT_EP00::0x00<<3	C:\My Projects\PKS\PKS-0202\usb.h	94;"	d	line:94
+_USTAT_EP01::0x01<<3	C:\My Projects\PKS\PKS-0202\usb.h	95;"	d	line:95
+_USTAT_IN::0x01<<2	C:\My Projects\PKS\PKS-0202\usb.h	96;"	d	line:96
+_USTAT_OUT::0x00<<2	C:\My Projects\PKS\PKS-0202\usb.h	97;"	d	line:97
+_VREGEN_OFF_2L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1364;"	q	line:1364
+_VREGEN_ON_2L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1365;"	q	line:1365
+_W0	C:\My Projects\PKS\PKS-0202\typedefs.h	144;"	m	line:144	struct:_DWORD::<anonymous>
+_W1	C:\My Projects\PKS\PKS-0202\typedefs.h	145;"	m	line:145	struct:_DWORD::<anonymous>
+_WDTPS_1024_2H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1381;"	q	line:1381
+_WDTPS_128_2H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1378;"	q	line:1378
+_WDTPS_16384_2H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1385;"	q	line:1385
+_WDTPS_16_2H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1375;"	q	line:1375
+_WDTPS_1_2H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1371;"	q	line:1371
+_WDTPS_2048_2H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1382;"	q	line:1382
+_WDTPS_256_2H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1379;"	q	line:1379
+_WDTPS_2_2H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1372;"	q	line:1372
+_WDTPS_32768_2H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1386;"	q	line:1386
+_WDTPS_32_2H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1376;"	q	line:1376
+_WDTPS_4096_2H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1383;"	q	line:1383
+_WDTPS_4_2H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1373;"	q	line:1373
+_WDTPS_512_2H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1380;"	q	line:1380
+_WDTPS_64_2H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1377;"	q	line:1377
+_WDTPS_8192_2H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1384;"	q	line:1384
+_WDTPS_8_2H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1374;"	q	line:1374
+_WDT_OFF_2H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1368;"	q	line:1368
+_WDT_ON_2H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1369;"	q	line:1369
+_WORD	C:\My Projects\PKS\PKS-0202\typedefs.h	88;"	u	line:88
+_WRT0_OFF_6L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1436;"	q	line:1436
+_WRT0_ON_6L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1435;"	q	line:1435
+_WRT1_OFF_6L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1439;"	q	line:1439
+_WRT1_ON_6L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1438;"	q	line:1438
+_WRT2_OFF_6L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1442;"	q	line:1442
+_WRT2_ON_6L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1441;"	q	line:1441
+_WRT3_OFF_6L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1445;"	q	line:1445
+_WRT3_ON_6L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1444;"	q	line:1444
+_WRTB_OFF_6H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1449;"	q	line:1449
+_WRTB_ON_6H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1448;"	q	line:1448
+_WRTC_OFF_6H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1452;"	q	line:1452
+_WRTC_ON_6H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1451;"	q	line:1451
+_WRTD_OFF_6H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1455;"	q	line:1455
+_WRTD_ON_6H	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1454;"	q	line:1454
+_XINST_OFF_4L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1408;"	q	line:1408
+_XINST_ON_4L	C:\My Projects\PKS\PKS-0202\P18F2550.INC	1409;"	q	line:1409
+__COMM_GEN_H	C:\My Projects\PKS\PKS-0202\comm_gen.h	45;"	d	line:45
+__COMM_I2CM_H	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	44;"	d	line:44
+__COMM_I2CS_H	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	44;"	d	line:44
+__COMM_LIN_H	C:\My Projects\PKS\PKS-0202\comm_lin.h	45;"	d	line:45
+__COMM_SPI_H	C:\My Projects\PKS\PKS-0202\comm_spi.h	44;"	d	line:44
+__COMM_USART_H	C:\My Projects\PKS\PKS-0202\comm_usart.h	45;"	d	line:45
+__DEVICE_H	C:\My Projects\PKS\PKS-0202\device.h	2;"	d	line:2
+__EE_UTIM_H	C:\My Projects\PKS\PKS-0202\ee_util.h	44;"	d	line:44
+__EXEC_H	C:\My Projects\PKS\PKS-0202\exec.h	48;"	d	line:48
+__PROJECT_H	C:\My Projects\PKS\PKS-0202\project.h	52;"	d	line:52
+__TIMER0_H	C:\My Projects\PKS\PKS-0202\timer0.h	44;"	d	line:44
+__TYPEDEFS_H	C:\My Projects\PKS\PKS-0202\typedefs.h	45;"	d	line:45
+__USB_DATA_CONSTANTS_H	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	48;"	d	line:48
+__USB_H	C:\My Projects\PKS\PKS-0202\usb.h	45;"	d	line:45
+__VSRC_H	C:\My Projects\PKS\PKS-0202\vsrc.h	44;"	d	line:44
+__vector_isr_hi	C:\My Projects\PKS\PKS-0202\main.c	227;"	f	line:227	signature:(void)
+__vector_isr_lo	C:\My Projects\PKS\PKS-0202\main.c	235;"	f	line:235	signature:(void)
+_b	C:\My Projects\PKS\PKS-0202\typedefs.h	59;"	m	line:59	union:_BYTE
+_b	C:\My Projects\PKS\PKS-0202\usb.h	133;"	m	line:133	union:_BD_STAT
+_b	C:\My Projects\PKS\PKS-0202\usb.h	188;"	m	line:188	struct:_USB_BUF_CONTROL::<anonymous>
+_b0	C:\My Projects\PKS\PKS-0202\typedefs.h	110;"	m	line:110	struct:_WORD::<anonymous>
+_b0	C:\My Projects\PKS\PKS-0202\typedefs.h	163;"	m	line:163	struct:_DWORD::<anonymous>
+_b0	C:\My Projects\PKS\PKS-0202\typedefs.h	189;"	m	line:189	struct:_POINTER::<anonymous>
+_b0	C:\My Projects\PKS\PKS-0202\usb.h	192;"	m	line:192	struct:_USB_BUF_CONTROL::<anonymous>
+_b1	C:\My Projects\PKS\PKS-0202\typedefs.h	111;"	m	line:111	struct:_WORD::<anonymous>
+_b1	C:\My Projects\PKS\PKS-0202\typedefs.h	164;"	m	line:164	struct:_DWORD::<anonymous>
+_b1	C:\My Projects\PKS\PKS-0202\typedefs.h	190;"	m	line:190	struct:_POINTER::<anonymous>
+_b1	C:\My Projects\PKS\PKS-0202\usb.h	193;"	m	line:193	struct:_USB_BUF_CONTROL::<anonymous>
+_b2	C:\My Projects\PKS\PKS-0202\typedefs.h	165;"	m	line:165	struct:_DWORD::<anonymous>
+_b2	C:\My Projects\PKS\PKS-0202\usb.h	194;"	m	line:194	struct:_USB_BUF_CONTROL::<anonymous>
+_b3	C:\My Projects\PKS\PKS-0202\typedefs.h	166;"	m	line:166	struct:_DWORD::<anonymous>
+_b3	C:\My Projects\PKS\PKS-0202\usb.h	195;"	m	line:195	struct:_USB_BUF_CONTROL::<anonymous>
+_b4	C:\My Projects\PKS\PKS-0202\usb.h	196;"	m	line:196	struct:_USB_BUF_CONTROL::<anonymous>
+_b5	C:\My Projects\PKS\PKS-0202\usb.h	197;"	m	line:197	struct:_USB_BUF_CONTROL::<anonymous>
+_b6	C:\My Projects\PKS\PKS-0202\usb.h	198;"	m	line:198	struct:_USB_BUF_CONTROL::<anonymous>
+_b7	C:\My Projects\PKS\PKS-0202\usb.h	199;"	m	line:199	struct:_USB_BUF_CONTROL::<anonymous>
+_boot_marker	C:\My Projects\PKS\PKS-0202\main.c	321;"	v	line:321
+_byte	C:\My Projects\PKS\PKS-0202\typedefs.h	60;"	m	line:60	union:_BYTE
+_d	C:\My Projects\PKS\PKS-0202\typedefs.h	126;"	m	line:126	union:_DWORD
+_startup	C:\My Projects\PKS\PKS-0202\main.c	249;"	p	line:249	file:	signature:(void)
+_vector_reset	C:\My Projects\PKS\PKS-0202\main.c	251;"	f	line:251	signature:(void)
+_w	C:\My Projects\PKS\PKS-0202\typedefs.h	91;"	m	line:91	union:_WORD
+_w0	C:\My Projects\PKS\PKS-0202\typedefs.h	139;"	m	line:139	struct:_DWORD::<anonymous>
+_w0	C:\My Projects\PKS\PKS-0202\usb.h	203;"	m	line:203	struct:_USB_BUF_CONTROL::<anonymous>
+_w1	C:\My Projects\PKS\PKS-0202\typedefs.h	140;"	m	line:140	struct:_DWORD::<anonymous>
+_w1	C:\My Projects\PKS\PKS-0202\usb.h	204;"	m	line:204	struct:_USB_BUF_CONTROL::<anonymous>
+_w2	C:\My Projects\PKS\PKS-0202\usb.h	205;"	m	line:205	struct:_USB_BUF_CONTROL::<anonymous>
+_w3	C:\My Projects\PKS\PKS-0202\usb.h	206;"	m	line:206	struct:_USB_BUF_CONTROL::<anonymous>
+_word	C:\My Projects\PKS\PKS-0202\typedefs.h	92;"	m	line:92	union:_WORD
+addr	C:\My Projects\PKS\PKS-0202\usb.h	177;"	m	line:177	struct:_BDT::<anonymous>
+addr_H	C:\My Projects\PKS\PKS-0202\usb.h	171;"	m	line:171	struct:_BDT::<anonymous>
+addr_L	C:\My Projects\PKS\PKS-0202\usb.h	170;"	m	line:170	struct:_BDT::<anonymous>
+alt_setting	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	103;"	m	line:103	struct:_USB_DSC_INTF
+and::&&	C:\My Projects\PKS\PKS-0202\typedefs.h	204;"	d	line:204
+attrib	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	119;"	m	line:119	struct:_USB_DSC_EP
+attrib	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	91;"	m	line:91	struct:_USB_DSC_CFG
+b0	C:\My Projects\PKS\PKS-0202\typedefs.h	74;"	m	line:74	struct:_BYTE::<anonymous>
+b1	C:\My Projects\PKS\PKS-0202\typedefs.h	75;"	m	line:75	struct:_BYTE::<anonymous>
+b2	C:\My Projects\PKS\PKS-0202\typedefs.h	76;"	m	line:76	struct:_BYTE::<anonymous>
+b3	C:\My Projects\PKS\PKS-0202\typedefs.h	77;"	m	line:77	struct:_BYTE::<anonymous>
+b4	C:\My Projects\PKS\PKS-0202\typedefs.h	78;"	m	line:78	struct:_BYTE::<anonymous>
+b5	C:\My Projects\PKS\PKS-0202\typedefs.h	79;"	m	line:79	struct:_BYTE::<anonymous>
+b6	C:\My Projects\PKS\PKS-0202\typedefs.h	80;"	m	line:80	struct:_BYTE::<anonymous>
+b7	C:\My Projects\PKS\PKS-0202\typedefs.h	81;"	m	line:81	struct:_BYTE::<anonymous>
+bc8	C:\My Projects\PKS\PKS-0202\usb.h	135;"	m	line:135	struct:_BD_STAT::<anonymous>
+bc8	C:\My Projects\PKS\PKS-0202\usb.h	145;"	m	line:145	struct:_BD_STAT::<anonymous>
+bc9	C:\My Projects\PKS\PKS-0202\usb.h	136;"	m	line:136	struct:_BD_STAT::<anonymous>
+bc9	C:\My Projects\PKS\PKS-0202\usb.h	146;"	m	line:146	struct:_BD_STAT::<anonymous>
+bit0	C:\My Projects\PKS\PKS-0202\typedefs.h	63;"	m	line:63	struct:_BYTE::<anonymous>
+bit1	C:\My Projects\PKS\PKS-0202\typedefs.h	64;"	m	line:64	struct:_BYTE::<anonymous>
+bit2	C:\My Projects\PKS\PKS-0202\typedefs.h	65;"	m	line:65	struct:_BYTE::<anonymous>
+bit3	C:\My Projects\PKS\PKS-0202\typedefs.h	66;"	m	line:66	struct:_BYTE::<anonymous>
+bit4	C:\My Projects\PKS\PKS-0202\typedefs.h	67;"	m	line:67	struct:_BYTE::<anonymous>
+bit5	C:\My Projects\PKS\PKS-0202\typedefs.h	68;"	m	line:68	struct:_BYTE::<anonymous>
+bit6	C:\My Projects\PKS\PKS-0202\typedefs.h	69;"	m	line:69	struct:_BYTE::<anonymous>
+bit7	C:\My Projects\PKS\PKS-0202\typedefs.h	70;"	m	line:70	struct:_BYTE::<anonymous>
+bstall	C:\My Projects\PKS\PKS-0202\usb.h	137;"	m	line:137	struct:_BD_STAT::<anonymous>
+byte	C:\My Projects\PKS\PKS-0202\typedefs.h	48;"	t	line:48
+byte0	C:\My Projects\PKS\PKS-0202\typedefs.h	149;"	m	line:149	struct:_DWORD::<anonymous>
+byte0	C:\My Projects\PKS\PKS-0202\typedefs.h	95;"	m	line:95	struct:_WORD::<anonymous>
+byte0_B	C:\My Projects\PKS\PKS-0202\typedefs.h	100;"	m	line:100	struct:_WORD::<anonymous>
+byte0_B	C:\My Projects\PKS\PKS-0202\typedefs.h	156;"	m	line:156	struct:_DWORD::<anonymous>
+byte1	C:\My Projects\PKS\PKS-0202\typedefs.h	150;"	m	line:150	struct:_DWORD::<anonymous>
+byte1	C:\My Projects\PKS\PKS-0202\typedefs.h	96;"	m	line:96	struct:_WORD::<anonymous>
+byte1_B	C:\My Projects\PKS\PKS-0202\typedefs.h	101;"	m	line:101	struct:_WORD::<anonymous>
+byte1_B	C:\My Projects\PKS\PKS-0202\typedefs.h	157;"	m	line:157	struct:_DWORD::<anonymous>
+byte2	C:\My Projects\PKS\PKS-0202\typedefs.h	151;"	m	line:151	struct:_DWORD::<anonymous>
+byte2_B	C:\My Projects\PKS\PKS-0202\typedefs.h	158;"	m	line:158	struct:_DWORD::<anonymous>
+byte3	C:\My Projects\PKS\PKS-0202\typedefs.h	152;"	m	line:152	struct:_DWORD::<anonymous>
+byte3_B	C:\My Projects\PKS\PKS-0202\typedefs.h	159;"	m	line:159	struct:_DWORD::<anonymous>
+cbuf1	C:\My Projects\PKS\PKS-0202\cbuf.c	69;"	v	line:69
+cbuf1_data	C:\My Projects\PKS\PKS-0202\cbuf.c	72;"	v	line:72
+cbuf1_get	C:\My Projects\PKS\PKS-0202\cbuf.c	89;"	f	line:89
+cbuf1_get	C:\My Projects\PKS\PKS-0202\cbuf.h	75;"	p	line:75	signature:(void)
+cbuf1_get	C:\My Projects\PKS\PKS-0202\comm_gen.c	801;"	p	line:801	file:
+cbuf1_init	C:\My Projects\PKS\PKS-0202\cbuf.c	78;"	f	line:78
+cbuf1_init	C:\My Projects\PKS\PKS-0202\cbuf.h	74;"	p	line:74	signature:(void)
+cbuf1_put	C:\My Projects\PKS\PKS-0202\cbuf.c	105;"	f	line:105	signature:(TD_BYTE data)
+cbuf1_put	C:\My Projects\PKS\PKS-0202\cbuf.h	76;"	p	line:76	signature:(TD_BYTE data)
+cbuf2	C:\My Projects\PKS\PKS-0202\cbuf.c	130;"	v	line:130
+cbuf2_data	C:\My Projects\PKS\PKS-0202\cbuf.c	133;"	v	line:133
+cbuf2_get	C:\My Projects\PKS\PKS-0202\cbuf.c	150;"	f	line:150
+cbuf2_get	C:\My Projects\PKS\PKS-0202\cbuf.h	101;"	p	line:101	signature:(void)
+cbuf2_get	C:\My Projects\PKS\PKS-0202\exec.c	738;"	p	line:738	file:
+cbuf2_init	C:\My Projects\PKS\PKS-0202\cbuf.c	139;"	f	line:139
+cbuf2_init	C:\My Projects\PKS\PKS-0202\cbuf.h	100;"	p	line:100	signature:(void)
+cbuf2_put	C:\My Projects\PKS\PKS-0202\cbuf.c	166;"	f	line:166	signature:(TD_BYTE data)
+cbuf2_put	C:\My Projects\PKS\PKS-0202\cbuf.h	102;"	p	line:102	signature:(TD_BYTE data)
+cbuf3	C:\My Projects\PKS\PKS-0202\cbuf.c	191;"	v	line:191
+cbuf3_data	C:\My Projects\PKS\PKS-0202\cbuf.c	194;"	v	line:194
+cbuf3_get	C:\My Projects\PKS\PKS-0202\cbuf.c	211;"	f	line:211
+cbuf3_get	C:\My Projects\PKS\PKS-0202\cbuf.h	128;"	p	line:128	signature:(void)
+cbuf3_init	C:\My Projects\PKS\PKS-0202\cbuf.c	200;"	f	line:200
+cbuf3_init	C:\My Projects\PKS\PKS-0202\cbuf.h	127;"	p	line:127	signature:(void)
+cbuf3_put	C:\My Projects\PKS\PKS-0202\cbuf.c	227;"	f	line:227	signature:(TD_BYTE data)
+cbuf3_put	C:\My Projects\PKS\PKS-0202\cbuf.h	129;"	p	line:129	signature:(TD_BYTE data)
+cdata	C:\My Projects\PKS\PKS-0202\main.c	87;"	l	line:87
+cfg	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	129;"	v	line:129
+cfg_value	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	89;"	m	line:89	struct:_USB_DSC_CFG
+class_dsc	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	148;"	m	line:148	struct:_USB_DSC_HID
+comm_cmnd_count_1	C:\My Projects\PKS\PKS-0202\comm_gen.c	134;"	v	line:134
+comm_cmnd_count_2	C:\My Projects\PKS\PKS-0202\comm_gen.c	135;"	v	line:135
+comm_cmnd_macro_count_1	C:\My Projects\PKS\PKS-0202\comm_gen.c	136;"	v	line:136
+comm_cmnd_macro_count_2	C:\My Projects\PKS\PKS-0202\comm_gen.c	137;"	v	line:137
+comm_data	C:\My Projects\PKS\PKS-0202\comm_gen.c	131;"	v	line:131
+comm_data_2	C:\My Projects\PKS\PKS-0202\comm_gen.c	132;"	v	line:132
+comm_data_3	C:\My Projects\PKS\PKS-0202\comm_gen.c	133;"	v	line:133
+comm_data_get	C:\My Projects\PKS\PKS-0202\comm_gen.c	900;"	f	line:900	signature:(void)
+comm_data_get	C:\My Projects\PKS\PKS-0202\comm_gen.h	80;"	p	line:80	signature:(void)
+comm_flags1_B	C:\My Projects\PKS\PKS-0202\comm_gen.c	140;"	v	line:140
+comm_flags2_B	C:\My Projects\PKS\PKS-0202\comm_gen.c	141;"	v	line:141
+comm_gen	C:\My Projects\PKS\PKS-0202\comm_gen.c	539;"	f	line:539	signature:(void)
+comm_gen	C:\My Projects\PKS\PKS-0202\comm_gen.h	82;"	p	line:82	signature:(void)
+comm_i2cm_adc_bus	C:\My Projects\PKS\PKS-0202\comm_i2cm.c	231;"	f	line:231	signature:(void)
+comm_i2cm_adc_bus	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	69;"	p	line:69	signature:(void)
+comm_i2cm_init	C:\My Projects\PKS\PKS-0202\comm_i2cm.c	65;"	f	line:65	signature:(void)
+comm_i2cm_init	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	65;"	p	line:65	signature:(void)
+comm_i2cm_postproc	C:\My Projects\PKS\PKS-0202\comm_i2cm.c	148;"	f	line:148	signature:(void)
+comm_i2cm_postproc	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	68;"	p	line:68	signature:(void)
+comm_i2cm_reset	C:\My Projects\PKS\PKS-0202\comm_i2cm.c	129;"	f	line:129	signature:(void)
+comm_i2cm_reset	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	66;"	p	line:66	signature:(void)
+comm_i2cm_svc	C:\My Projects\PKS\PKS-0202\comm_i2cm.c	259;"	f	line:259	signature:(void)
+comm_i2cm_svc	C:\My Projects\PKS\PKS-0202\comm_i2cm.h	67;"	p	line:67	signature:(void)
+comm_i2cs_data_send	C:\My Projects\PKS\PKS-0202\comm_i2cs.c	481;"	f	line:481	signature:(void)
+comm_i2cs_data_send	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	193;"	p	line:193	signature:(void)
+comm_i2cs_dint	C:\My Projects\PKS\PKS-0202\comm_i2cs.c	832;"	f	line:832	signature:(void)
+comm_i2cs_dint	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	198;"	p	line:198	signature:(void)
+comm_i2cs_init	C:\My Projects\PKS\PKS-0202\comm_i2cs.c	65;"	f	line:65	signature:(void)
+comm_i2cs_init	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	188;"	p	line:188	signature:(void)
+comm_i2cs_isr	C:\My Projects\PKS\PKS-0202\comm_i2cs.c	256;"	f	line:256	signature:(void)
+comm_i2cs_isr	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	192;"	p	line:192	signature:(void)
+comm_i2cs_postproc	C:\My Projects\PKS\PKS-0202\comm_i2cs.c	496;"	f	line:496	signature:(void)
+comm_i2cs_postproc	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	191;"	p	line:191	signature:(void)
+comm_i2cs_pro_get	C:\My Projects\PKS\PKS-0202\comm_i2cs.c	220;"	f	line:220	signature:(void)
+comm_i2cs_pro_get	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	195;"	p	line:195	signature:(void)
+comm_i2cs_pro_get_init	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	194;"	p	line:194	signature:(void)
+comm_i2cs_pro_get_regdef	C:\My Projects\PKS\PKS-0202\comm_i2cs.c	157;"	f	line:157	signature:(void)
+comm_i2cs_pro_get_regdef	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	197;"	p	line:197	signature:(void)
+comm_i2cs_pro_get_slave	C:\My Projects\PKS\PKS-0202\comm_i2cs.c	196;"	f	line:196	signature:(void)
+comm_i2cs_pro_get_slave	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	196;"	p	line:196	signature:(void)
+comm_i2cs_reset	C:\My Projects\PKS\PKS-0202\comm_i2cs.c	77;"	f	line:77	signature:(void)
+comm_i2cs_reset	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	189;"	p	line:189	signature:(void)
+comm_i2cs_svc	C:\My Projects\PKS\PKS-0202\comm_i2cs.c	610;"	f	line:610	signature:(void)
+comm_i2cs_svc	C:\My Projects\PKS\PKS-0202\comm_i2cs.h	190;"	p	line:190	signature:(void)
+comm_init	C:\My Projects\PKS\PKS-0202\comm_gen.c	151;"	f	line:151	signature:(void)
+comm_init	C:\My Projects\PKS\PKS-0202\comm_gen.h	94;"	p	line:94	signature:(void)
+comm_init_mode	C:\My Projects\PKS\PKS-0202\comm_gen.c	205;"	f	line:205	signature:(TD_BYTE mode)
+comm_init_mode	C:\My Projects\PKS\PKS-0202\comm_gen.h	95;"	p	line:95	signature:(TD_BYTE mode)
+comm_led_busy_data	C:\My Projects\PKS\PKS-0202\comm_gen.c	982;"	f	line:982	signature:(void)
+comm_led_busy_data	C:\My Projects\PKS\PKS-0202\comm_gen.h	93;"	p	line:93	signature:(void)
+comm_lin_init	C:\My Projects\PKS\PKS-0202\comm_lin.c	62;"	f	line:62	signature:(void)
+comm_lin_init	C:\My Projects\PKS\PKS-0202\comm_lin.h	150;"	p	line:150	signature:(void)
+comm_lin_postproc	C:\My Projects\PKS\PKS-0202\comm_lin.c	510;"	f	line:510	signature:(void)
+comm_lin_postproc	C:\My Projects\PKS\PKS-0202\comm_lin.h	153;"	p	line:153	signature:(void)
+comm_lin_rcv_isr	C:\My Projects\PKS\PKS-0202\comm_lin.c	315;"	f	line:315	signature:(void)
+comm_lin_rcv_isr	C:\My Projects\PKS\PKS-0202\comm_lin.h	154;"	p	line:154	signature:(void)
+comm_lin_reset	C:\My Projects\PKS\PKS-0202\comm_lin.c	111;"	f	line:111	signature:(void)
+comm_lin_reset	C:\My Projects\PKS\PKS-0202\comm_lin.h	151;"	p	line:151	signature:(void)
+comm_lin_svc	C:\My Projects\PKS\PKS-0202\comm_lin.c	140;"	f	line:140	signature:(void)
+comm_lin_svc	C:\My Projects\PKS\PKS-0202\comm_lin.h	152;"	p	line:152	signature:(void)
+comm_macro_count_1_W	C:\My Projects\PKS\PKS-0202\comm_gen.c	138;"	v	line:138
+comm_macro_count_2_W	C:\My Projects\PKS\PKS-0202\comm_gen.c	139;"	v	line:139
+comm_post_cbuf2	C:\My Projects\PKS\PKS-0202\comm_gen.c	929;"	f	line:929	signature:(TD_BYTE data_byte)
+comm_post_cbuf2	C:\My Projects\PKS\PKS-0202\comm_gen.h	85;"	p	line:85	signature:(TD_BYTE data_byte)
+comm_post_cbuf2_time	C:\My Projects\PKS\PKS-0202\comm_gen.c	949;"	f	line:949	signature:(TD_BYTE data_byte)
+comm_post_cbuf2_time	C:\My Projects\PKS\PKS-0202\comm_gen.h	86;"	p	line:86	signature:(TD_BYTE data_byte)
+comm_post_cbuf3	C:\My Projects\PKS\PKS-0202\comm_gen.c	965;"	f	line:965	signature:(TD_BYTE data_byte)
+comm_post_cbuf3	C:\My Projects\PKS\PKS-0202\comm_gen.h	87;"	p	line:87	signature:(TD_BYTE data_byte)
+comm_post_data	C:\My Projects\PKS\PKS-0202\comm_gen.c	1085;"	f	line:1085	signature:(void)
+comm_post_data	C:\My Projects\PKS\PKS-0202\comm_gen.h	83;"	p	line:83	signature:(void)
+comm_post_event	C:\My Projects\PKS\PKS-0202\comm_gen.c	999;"	f	line:999	signature:(TD_BYTE b0)
+comm_post_event	C:\My Projects\PKS\PKS-0202\comm_gen.h	88;"	p	line:88	signature:(TD_BYTE b0)
+comm_post_event_1b	C:\My Projects\PKS\PKS-0202\comm_gen.c	1027;"	f	line:1027	signature:(TD_BYTE b0, TD_BYTE b1)
+comm_post_event_1b	C:\My Projects\PKS\PKS-0202\comm_gen.h	89;"	p	line:89	signature:(TD_BYTE b0, TD_BYTE b1)
+comm_post_event_2b	C:\My Projects\PKS\PKS-0202\comm_gen.c	1056;"	f	line:1056	signature:(TD_BYTE b0, TD_BYTE b1, TD_BYTE b2)
+comm_post_event_2b	C:\My Projects\PKS\PKS-0202\comm_gen.h	90;"	p	line:90	signature:(TD_BYTE b0, TD_BYTE b1, TD_BYTE b2)
+comm_post_event_macro_loop	C:\My Projects\PKS\PKS-0202\comm_gen.h	84;"	p	line:84	signature:(void)
+comm_post_event_time	C:\My Projects\PKS\PKS-0202\comm_gen.c	1111;"	f	line:1111	signature:(void)
+comm_post_event_time	C:\My Projects\PKS\PKS-0202\comm_gen.h	91;"	p	line:91	signature:(void)
+comm_post_event_time_get	C:\My Projects\PKS\PKS-0202\comm_gen.c	1136;"	f	line:1136	signature:(void)
+comm_post_event_time_get	C:\My Projects\PKS\PKS-0202\comm_gen.h	92;"	p	line:92	signature:(void)
+comm_reset	C:\My Projects\PKS\PKS-0202\comm_gen.c	270;"	f	line:270
+comm_reset	C:\My Projects\PKS\PKS-0202\comm_gen.h	96;"	p	line:96	signature:(void)
+comm_sb_clear	C:\My Projects\PKS\PKS-0202\comm_gen.c	329;"	f	line:329	signature:(void)
+comm_sb_clear	C:\My Projects\PKS\PKS-0202\comm_gen.h	97;"	p	line:97	signature:(void)
+comm_spi_init	C:\My Projects\PKS\PKS-0202\comm_spi.c	84;"	f	line:84	signature:(void)
+comm_spi_init	C:\My Projects\PKS\PKS-0202\comm_spi.h	77;"	p	line:77	signature:(void)
+comm_spi_postproc	C:\My Projects\PKS\PKS-0202\comm_spi.c	197;"	f	line:197	signature:(void)
+comm_spi_postproc	C:\My Projects\PKS\PKS-0202\comm_spi.h	80;"	p	line:80	signature:(void)
+comm_spi_reset	C:\My Projects\PKS\PKS-0202\comm_spi.c	158;"	f	line:158	signature:(void)
+comm_spi_reset	C:\My Projects\PKS\PKS-0202\comm_spi.h	78;"	p	line:78	signature:(void)
+comm_spi_svc	C:\My Projects\PKS\PKS-0202\comm_spi.c	266;"	f	line:266	signature:(void)
+comm_spi_svc	C:\My Projects\PKS\PKS-0202\comm_spi.h	79;"	p	line:79	signature:(void)
+comm_state	C:\My Projects\PKS\PKS-0202\comm_gen.c	130;"	v	line:130
+comm_svc	C:\My Projects\PKS\PKS-0202\comm_gen.c	343;"	f	line:343	signature:(void)
+comm_svc	C:\My Projects\PKS\PKS-0202\comm_gen.h	81;"	p	line:81	signature:(void)
+comm_temp	C:\My Projects\PKS\PKS-0202\comm_gen.c	145;"	v	line:145
+comm_usart_init	C:\My Projects\PKS\PKS-0202\comm_usart.c	82;"	f	line:82	signature:(void)
+comm_usart_init	C:\My Projects\PKS\PKS-0202\comm_usart.h	173;"	p	line:173	signature:(void)
+comm_usart_mode_set	C:\My Projects\PKS\PKS-0202\comm_usart.h	177;"	p	line:177	signature:(void)
+comm_usart_postproc	C:\My Projects\PKS\PKS-0202\comm_usart.c	636;"	f	line:636	signature:(void)
+comm_usart_postproc	C:\My Projects\PKS\PKS-0202\comm_usart.h	176;"	p	line:176	signature:(void)
+comm_usart_rcv_isr	C:\My Projects\PKS\PKS-0202\comm_usart.c	610;"	f	line:610	signature:(void)
+comm_usart_rcv_isr	C:\My Projects\PKS\PKS-0202\comm_usart.h	179;"	p	line:179	signature:(void)
+comm_usart_reset	C:\My Projects\PKS\PKS-0202\comm_usart.c	182;"	f	line:182	signature:(void)
+comm_usart_reset	C:\My Projects\PKS\PKS-0202\comm_usart.h	174;"	p	line:174	signature:(void)
+comm_usart_svc	C:\My Projects\PKS\PKS-0202\comm_usart.c	210;"	f	line:210	signature:(void)
+comm_usart_svc	C:\My Projects\PKS\PKS-0202\comm_usart.h	175;"	p	line:175	signature:(void)
+comm_varbs_B	C:\My Projects\PKS\PKS-0202\comm_gen.c	142;"	v	line:142
+comm_varbs_clear	C:\My Projects\PKS\PKS-0202\comm_gen.c	178;"	f	line:178	signature:(void)
+comm_varbs_clear	C:\My Projects\PKS\PKS-0202\comm_gen.h	98;"	p	line:98	signature:(void)
+configno	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	77;"	m	line:77	struct:_USB_DSC_DEV
+count	C:\My Projects\PKS\PKS-0202\usb.h	169;"	m	line:169	struct:_BDT::<anonymous>
+country	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	147;"	m	line:147	struct:_USB_DSC_HID
+debug_event_rst	C:\My Projects\PKS\PKS-0202\main.c	208;"	f	line:208	signature:(void)
+debug_event_rst	C:\My Projects\PKS\PKS-0202\project.h	79;"	p	line:79	signature:(void)
+debug_event_set	C:\My Projects\PKS\PKS-0202\main.c	203;"	f	line:203	signature:(void)
+debug_event_set	C:\My Projects\PKS\PKS-0202\project.h	78;"	p	line:78	signature:(void)
+debug_event_toggle	C:\My Projects\PKS\PKS-0202\main.c	195;"	f	line:195	signature:(void)
+debug_event_toggle	C:\My Projects\PKS\PKS-0202\project.h	77;"	p	line:77	signature:(void)
+device_bcd_w	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	73;"	m	line:73	struct:_USB_DSC_DEV
+device_init	C:\My Projects\PKS\PKS-0202\device.c	98;"	f	line:98
+dsc_type	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	65;"	m	line:65	struct:_USB_DSC_DEV
+dts	C:\My Projects\PKS\PKS-0202\usb.h	141;"	m	line:141	struct:_BD_STAT::<anonymous>
+dtsen	C:\My Projects\PKS\PKS-0202\usb.h	138;"	m	line:138	struct:_BD_STAT::<anonymous>
+dword	C:\My Projects\PKS\PKS-0202\typedefs.h	50;"	t	line:50
+ee_data_W	C:\My Projects\PKS\PKS-0202\ee_util.c	51;"	v	line:51
+ee_read	C:\My Projects\PKS\PKS-0202\ee_util.c	68;"	f	line:68	signature:(static TD_BYTE arg_addr)
+ee_read	C:\My Projects\PKS\PKS-0202\ee_util.h	53;"	p	line:53	signature:(static TD_BYTE arg_addr)
+ee_read16	C:\My Projects\PKS\PKS-0202\ee_util.c	58;"	f	line:58	signature:(static TD_BYTE arg_addr)
+ee_read16	C:\My Projects\PKS\PKS-0202\ee_util.h	56;"	p	line:56	signature:(static TD_BYTE arg_addr)
+ee_write	C:\My Projects\PKS\PKS-0202\ee_util.c	102;"	f	line:102	signature:(static TD_BYTE arg_addr, static TD_BYTE arg_data)
+ee_write	C:\My Projects\PKS\PKS-0202\ee_util.h	54;"	p	line:54	signature:(static TD_BYTE arg_addr, static TD_BYTE arg_data)
+ee_write_na	C:\My Projects\PKS\PKS-0202\ee_util.c	80;"	f	line:80	signature:(void)
+ee_write_na	C:\My Projects\PKS\PKS-0202\ee_util.h	55;"	p	line:55	signature:(void)
+ep01_in	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	132;"	v	line:132
+ep01_out	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	133;"	v	line:133
+ep_addr	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	118;"	m	line:118	struct:_USB_DSC_EP
+exec_cb_dflt	C:\My Projects\PKS\PKS-0202\exec.c	141;"	v	line:141
+exec_cb_dflt	C:\My Projects\PKS\PKS-0202\exec.c	148;"	v	line:148
+exec_cb_ee_read	C:\My Projects\PKS\PKS-0202\exec.c	454;"	f	line:454	signature:(void)
+exec_cb_ee_read	C:\My Projects\PKS\PKS-0202\exec.h	74;"	p	line:74	signature:(void)
+exec_cb_ee_write	C:\My Projects\PKS\PKS-0202\exec.c	432;"	f	line:432	signature:(void)
+exec_cb_ee_write	C:\My Projects\PKS\PKS-0202\exec.h	73;"	p	line:73	signature:(void)
+exec_cb_load	C:\My Projects\PKS\PKS-0202\exec.c	402;"	f	line:402	signature:(void)
+exec_cb_load	C:\My Projects\PKS\PKS-0202\exec.h	75;"	p	line:75	signature:(void)
+exec_cb_load_dflt	C:\My Projects\PKS\PKS-0202\exec.c	417;"	f	line:417	signature:(void)
+exec_cb_load_dflt	C:\My Projects\PKS\PKS-0202\exec.h	76;"	p	line:76	signature:(void)
+exec_cmnd_proc	C:\My Projects\PKS\PKS-0202\exec.c	356;"	f	line:356	signature:(TD_BYTE cmnd)
+exec_cmnd_proc	C:\My Projects\PKS\PKS-0202\exec.h	67;"	p	line:67	signature:(TD_BYTE cmnd)
+exec_control_B	C:\My Projects\PKS\PKS-0202\exec.c	130;"	v	line:130
+exec_count	C:\My Projects\PKS\PKS-0202\exec.c	128;"	v	line:128
+exec_data	C:\My Projects\PKS\PKS-0202\exec.c	129;"	v	line:129
+exec_data_count	C:\My Projects\PKS\PKS-0202\exec.c	128;"	v	line:128
+exec_data_get	C:\My Projects\PKS\PKS-0202\exec.c	782;"	f	line:782	signature:(void)
+exec_data_get	C:\My Projects\PKS\PKS-0202\exec.h	65;"	p	line:65	signature:(void)
+exec_data_p	C:\My Projects\PKS\PKS-0202\exec.c	127;"	v	line:127
+exec_data_put	C:\My Projects\PKS\PKS-0202\exec.c	797;"	f	line:797	signature:(TD_BYTE b0)
+exec_data_put	C:\My Projects\PKS\PKS-0202\exec.h	66;"	p	line:66	signature:(TD_BYTE b0)
+exec_dflush_time_set	C:\My Projects\PKS\PKS-0202\exec.c	343;"	f	line:343	signature:(void)
+exec_dflush_time_set	C:\My Projects\PKS\PKS-0202\exec.h	64;"	p	line:64	signature:(void)
+exec_flags	C:\My Projects\PKS\PKS-0202\exec.c	126;"	v	line:126
+exec_init	C:\My Projects\PKS\PKS-0202\exec.c	162;"	f	line:162	signature:(void)
+exec_init	C:\My Projects\PKS\PKS-0202\exec.h	63;"	p	line:63	signature:(void)
+exec_packet_cbuf2	C:\My Projects\PKS\PKS-0202\exec.c	729;"	f	line:729	signature:(void)
+exec_packet_cbuf2	C:\My Projects\PKS\PKS-0202\exec.h	72;"	p	line:72	signature:(void)
+exec_packet_finish	C:\My Projects\PKS\PKS-0202\exec.c	717;"	f	line:717	signature:(void)
+exec_packet_finish	C:\My Projects\PKS\PKS-0202\exec.h	71;"	p	line:71	signature:(void)
+exec_packet_prep	C:\My Projects\PKS\PKS-0202\exec.c	702;"	f	line:702	signature:(void)
+exec_packet_prep	C:\My Projects\PKS\PKS-0202\exec.h	69;"	p	line:69	signature:(void)
+exec_packet_proc	C:\My Projects\PKS\PKS-0202\exec.c	473;"	f	line:473	signature:(void)
+exec_packet_proc	C:\My Projects\PKS\PKS-0202\exec.h	68;"	p	line:68	signature:(void)
+exec_packet_status	C:\My Projects\PKS\PKS-0202\exec.c	747;"	f	line:747
+exec_packet_status	C:\My Projects\PKS\PKS-0202\exec.h	70;"	p	line:70	signature:(void)
+exec_status_B	C:\My Projects\PKS\PKS-0202\exec.c	131;"	v	line:131
+exec_status_save_1	C:\My Projects\PKS\PKS-0202\exec.c	132;"	v	line:132
+exec_status_save_2	C:\My Projects\PKS\PKS-0202\exec.c	133;"	v	line:133
+exec_status_save_3	C:\My Projects\PKS\PKS-0202\exec.c	134;"	v	line:134
+exec_svc	C:\My Projects\PKS\PKS-0202\exec.c	201;"	f	line:201	signature:(void)
+exec_svc	C:\My Projects\PKS\PKS-0202\exec.h	62;"	p	line:62	signature:(void)
+exec_tag	C:\My Projects\PKS\PKS-0202\exec.c	129;"	v	line:129
+filler0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	760;"	q	line:760
+filler0	C:\My Projects\PKS\PKS-0202\P18F2550.INC	765;"	q	line:765
+hi	C:\My Projects\PKS\PKS-0202\typedefs.h	106;"	m	line:106	struct:_WORD::<anonymous>
+hid	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	131;"	v	line:131
+i	C:\My Projects\PKS\PKS-0202\comm_lin.c	317;"	l	line:317
+i	C:\My Projects\PKS\PKS-0202\main.c	87;"	l	line:87
+icfg	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	90;"	m	line:90	struct:_USB_DSC_CFG
+incdis	C:\My Projects\PKS\PKS-0202\usb.h	139;"	m	line:139	struct:_BD_STAT::<anonymous>
+index_W	C:\My Projects\PKS\PKS-0202\usb.h	221;"	m	line:221	struct:_USB_BUF_CONTROL::<anonymous>
+index_w	C:\My Projects\PKS\PKS-0202\usb.h	213;"	m	line:213	struct:_USB_BUF_CONTROL::<anonymous>
+interval	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	121;"	m	line:121	struct:_USB_DSC_EP
+intf	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	108;"	m	line:108	struct:_USB_DSC_INTF
+intf	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	130;"	v	line:130
+intf_num	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	102;"	m	line:102	struct:_USB_DSC_INTF
+intf_num	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	88;"	m	line:88	struct:_USB_DSC_CFG
+isr_hi	C:\My Projects\PKS\PKS-0202\main.c	291;"	f	line:291	signature:(void)
+isr_hi	C:\My Projects\PKS\PKS-0202\main.c	71;"	p	line:71	file:	signature:(void)
+isr_lo	C:\My Projects\PKS\PKS-0202\main.c	298;"	f	line:298	signature:(void)
+isr_lo	C:\My Projects\PKS\PKS-0202\main.c	70;"	p	line:70	file:	signature:(void)
+ken	C:\My Projects\PKS\PKS-0202\usb.h	140;"	m	line:140	struct:_BD_STAT::<anonymous>
+led_1_conf_B	C:\My Projects\PKS\PKS-0202\led2.c	76;"	v	line:76
+led_1_config	C:\My Projects\PKS\PKS-0202\led2.c	96;"	f	line:96	signature:(TD_BYTE config)
+led_1_config	C:\My Projects\PKS\PKS-0202\led2.h	69;"	p	line:69	signature:(TD_BYTE config)
+led_1_oper_B	C:\My Projects\PKS\PKS-0202\led2.c	76;"	v	line:76
+led_2_conf_B	C:\My Projects\PKS\PKS-0202\led2.c	77;"	v	line:77
+led_2_config	C:\My Projects\PKS\PKS-0202\led2.c	112;"	f	line:112	signature:(TD_BYTE config)
+led_2_config	C:\My Projects\PKS\PKS-0202\led2.h	70;"	p	line:70	signature:(TD_BYTE config)
+led_2_oper_B	C:\My Projects\PKS\PKS-0202\led2.c	77;"	v	line:77
+led_3_config	C:\My Projects\PKS\PKS-0202\led2.h	71;"	p	line:71	signature:(TD_BYTE config)
+led_init	C:\My Projects\PKS\PKS-0202\led2.c	83;"	f	line:83	signature:(void)
+led_init	C:\My Projects\PKS\PKS-0202\led2.h	73;"	p	line:73	signature:(void)
+led_svc	C:\My Projects\PKS\PKS-0202\led2.c	146;"	f	line:146	signature:(void)
+led_svc	C:\My Projects\PKS\PKS-0202\led2.h	72;"	p	line:72	signature:(void)
+length	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	100;"	m	line:100	struct:_USB_DSC_INTF
+length	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	116;"	m	line:116	struct:_USB_DSC_EP
+length	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	144;"	m	line:144	struct:_USB_DSC_HID
+length	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	64;"	m	line:64	struct:_USB_DSC_DEV
+length	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	85;"	m	line:85	struct:_USB_DSC_CFG
+length_W	C:\My Projects\PKS\PKS-0202\usb.h	222;"	m	line:222	struct:_USB_BUF_CONTROL::<anonymous>
+length_w	C:\My Projects\PKS\PKS-0202\usb.h	214;"	m	line:214	struct:_USB_BUF_CONTROL::<anonymous>
+lin_flags_B	C:\My Projects\PKS\PKS-0202\comm_lin.c	56;"	v	line:56
+lo	C:\My Projects\PKS\PKS-0202\typedefs.h	105;"	m	line:105	struct:_WORD::<anonymous>
+main	C:\My Projects\PKS\PKS-0202\main.c	85;"	f	line:85	signature:(void)
+manuf	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	74;"	m	line:74	struct:_USB_DSC_DEV
+max_packet_size_w	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	120;"	m	line:120	struct:_USB_DSC_EP
+max_power	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	92;"	m	line:92	struct:_USB_DSC_CFG
+not::!	C:\My Projects\PKS\PKS-0202\typedefs.h	203;"	d	line:203
+num_eps	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	104;"	m	line:104	struct:_USB_DSC_INTF
+pFunc	C:\My Projects\PKS\PKS-0202\typedefs.h	178;"	t	line:178
+packet_size_0	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	70;"	m	line:70	struct:_USB_DSC_DEV
+pid	C:\My Projects\PKS\PKS-0202\usb.h	156;"	m	line:156	struct:_BD_STAT::<anonymous>
+pid0	C:\My Projects\PKS\PKS-0202\usb.h	147;"	m	line:147	struct:_BD_STAT::<anonymous>
+pid1	C:\My Projects\PKS\PKS-0202\usb.h	148;"	m	line:148	struct:_BD_STAT::<anonymous>
+pid2	C:\My Projects\PKS\PKS-0202\usb.h	149;"	m	line:149	struct:_BD_STAT::<anonymous>
+pid3	C:\My Projects\PKS\PKS-0202\usb.h	150;"	m	line:150	struct:_BD_STAT::<anonymous>
+product	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	75;"	m	line:75	struct:_USB_DSC_DEV
+product_id_w	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	72;"	m	line:72	struct:_USB_DSC_DEV
+protocol	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	107;"	m	line:107	struct:_USB_DSC_INTF
+protocol	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	69;"	m	line:69	struct:_USB_DSC_DEV
+ram_b	C:\My Projects\PKS\PKS-0202\typedefs.h	193;"	m	line:193	union:_POINTER
+ram_w	C:\My Projects\PKS\PKS-0202\typedefs.h	194;"	m	line:194	union:_POINTER
+read	C:\My Projects\PKS\PKS-0202\cbuf.h	53;"	m	line:53	struct:CBUF
+report_size_w	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	150;"	m	line:150	struct:_USB_DSC_HID
+request	C:\My Projects\PKS\PKS-0202\usb.h	211;"	m	line:211	struct:_USB_BUF_CONTROL::<anonymous>
+rom_b	C:\My Projects\PKS\PKS-0202\typedefs.h	195;"	m	line:195	union:_POINTER
+rom_w	C:\My Projects\PKS\PKS-0202\typedefs.h	196;"	m	line:196	union:_POINTER
+rq_type	C:\My Projects\PKS\PKS-0202\usb.h	210;"	m	line:210	struct:_USB_BUF_CONTROL::<anonymous>
+serialno	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	76;"	m	line:76	struct:_USB_DSC_DEV
+status	C:\My Projects\PKS\PKS-0202\usb.h	168;"	m	line:168	struct:_BDT::<anonymous>
+subclass	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	106;"	m	line:106	struct:_USB_DSC_INTF
+subclass	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	68;"	m	line:68	struct:_USB_DSC_DEV
+temp1	C:\My Projects\PKS\PKS-0202\comm_lin.c	512;"	l	line:512
+temp_1	C:\My Projects\PKS\PKS-0202\main.c	75;"	v	line:75
+temp_2	C:\My Projects\PKS\PKS-0202\main.c	75;"	v	line:75
+timer0_A0	C:\My Projects\PKS\PKS-0202\timer0.c	81;"	v	line:81
+timer0_A1	C:\My Projects\PKS\PKS-0202\timer0.c	82;"	v	line:82
+timer0_A2	C:\My Projects\PKS\PKS-0202\timer0.c	83;"	v	line:83
+timer0_A3	C:\My Projects\PKS\PKS-0202\timer0.c	84;"	v	line:84
+timer0_A4	C:\My Projects\PKS\PKS-0202\timer0.c	85;"	v	line:85
+timer0_AB	C:\My Projects\PKS\PKS-0202\timer0.c	99;"	v	line:99
+timer0_AB0_W	C:\My Projects\PKS\PKS-0202\timer0.c	93;"	v	line:93
+timer0_AB1_W	C:\My Projects\PKS\PKS-0202\timer0.c	94;"	v	line:94
+timer0_AB2_W	C:\My Projects\PKS\PKS-0202\timer0.c	95;"	v	line:95
+timer0_AB3_W	C:\My Projects\PKS\PKS-0202\timer0.c	96;"	v	line:96
+timer0_B0	C:\My Projects\PKS\PKS-0202\timer0.c	86;"	v	line:86
+timer0_B1	C:\My Projects\PKS\PKS-0202\timer0.c	87;"	v	line:87
+timer0_B2	C:\My Projects\PKS\PKS-0202\timer0.c	88;"	v	line:88
+timer0_B3	C:\My Projects\PKS\PKS-0202\timer0.c	89;"	v	line:89
+timer0_B4	C:\My Projects\PKS\PKS-0202\timer0.c	90;"	v	line:90
+timer0_BC	C:\My Projects\PKS\PKS-0202\timer0.c	100;"	v	line:100
+timer0_C0	C:\My Projects\PKS\PKS-0202\timer0.c	91;"	v	line:91
+timer0_C1	C:\My Projects\PKS\PKS-0202\timer0.c	92;"	v	line:92
+timer0_flags_B	C:\My Projects\PKS\PKS-0202\timer0.c	103;"	v	line:103
+timer0_init	C:\My Projects\PKS\PKS-0202\timer0.c	119;"	f	line:119	signature:(void)
+timer0_init	C:\My Projects\PKS\PKS-0202\timer0.h	70;"	p	line:70	signature:(void)
+timer0_reg	C:\My Projects\PKS\PKS-0202\timer0.c	105;"	v	line:105
+timer0_reg_clear	C:\My Projects\PKS\PKS-0202\timer0.c	222;"	f	line:222	signature:(void)
+timer0_reg_clear	C:\My Projects\PKS\PKS-0202\timer0.h	73;"	p	line:73	signature:(void)
+timer0_reg_read	C:\My Projects\PKS\PKS-0202\timer0.c	205;"	f	line:205	signature:(void)
+timer0_reg_read	C:\My Projects\PKS\PKS-0202\timer0.h	72;"	p	line:72	signature:(void)
+timer0_svc	C:\My Projects\PKS\PKS-0202\timer0.c	141;"	f	line:141	signature:(void)
+timer0_svc	C:\My Projects\PKS\PKS-0202\timer0.h	71;"	p	line:71	signature:(void)
+total_length_w	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	87;"	m	line:87	struct:_USB_DSC_CFG
+type	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	101;"	m	line:101	struct:_USB_DSC_INTF
+type	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	117;"	m	line:117	struct:_USB_DSC_EP
+type	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	145;"	m	line:145	struct:_USB_DSC_HID
+type	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	86;"	m	line:86	struct:_USB_DSC_CFG
+type_report	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	149;"	m	line:149	struct:_USB_DSC_HID
+unused	C:\My Projects\PKS\PKS-0202\cbuf.h	55;"	m	line:55	struct:CBUF
+uown	C:\My Projects\PKS\PKS-0202\usb.h	142;"	m	line:142	struct:_BD_STAT::<anonymous>
+uown	C:\My Projects\PKS\PKS-0202\usb.h	152;"	m	line:152	struct:_BD_STAT::<anonymous>
+usb_addr	C:\My Projects\PKS\PKS-0202\usb.c	59;"	v	line:59
+usb_bcd	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	66;"	m	line:66	struct:_USB_DSC_DEV
+usb_bdt_ep0_in	C:\My Projects\PKS\PKS-0202\usb.c	72;"	v	line:72
+usb_bdt_ep0_out	C:\My Projects\PKS\PKS-0202\usb.c	71;"	v	line:71
+usb_bdt_ep1_in	C:\My Projects\PKS\PKS-0202\usb.c	74;"	v	line:74
+usb_bdt_ep1_out	C:\My Projects\PKS\PKS-0202\usb.c	73;"	v	line:73
+usb_bdt_load	C:\My Projects\PKS\PKS-0202\usb.c	165;"	f	line:165	signature:(void)
+usb_bdt_load	C:\My Projects\PKS\PKS-0202\usb.h	311;"	p	line:311	signature:(void)
+usb_buf_ep0_in	C:\My Projects\PKS\PKS-0202\usb.c	79;"	v	line:79
+usb_buf_ep0_out	C:\My Projects\PKS\PKS-0202\usb.c	78;"	v	line:78
+usb_buf_ep1_in	C:\My Projects\PKS\PKS-0202\usb.c	81;"	v	line:81
+usb_buf_ep1_out	C:\My Projects\PKS\PKS-0202\usb.c	80;"	v	line:80
+usb_config	C:\My Projects\PKS\PKS-0202\usb.c	61;"	v	line:61
+usb_count	C:\My Projects\PKS\PKS-0202\usb.c	66;"	v	line:66
+usb_count_temp	C:\My Projects\PKS\PKS-0202\usb.c	67;"	v	line:67
+usb_detach_soft	C:\My Projects\PKS\PKS-0202\usb.c	99;"	f	line:99	signature:(void)
+usb_detach_soft	C:\My Projects\PKS\PKS-0202\usb.h	315;"	p	line:315	signature:(void)
+usb_dsc_cfg_01	C:\My Projects\PKS\PKS-0202\usb_data_constants.c	99;"	v	line:99
+usb_dsc_dev	C:\My Projects\PKS\PKS-0202\usb_data_constants.c	78;"	v	line:78
+usb_dsc_hid_rpt_01	C:\My Projects\PKS\PKS-0202\usb_data_constants.c	57;"	v	line:57
+usb_dsc_str_00	C:\My Projects\PKS\PKS-0202\usb_data_constants.c	163;"	v	line:163
+usb_dsc_str_01	C:\My Projects\PKS\PKS-0202\usb_data_constants.c	166;"	v	line:166
+usb_dsc_str_02	C:\My Projects\PKS\PKS-0202\usb_data_constants.c	170;"	v	line:170
+usb_dst_p	C:\My Projects\PKS\PKS-0202\usb.c	65;"	v	line:65
+usb_ep0_in_finish	C:\My Projects\PKS\PKS-0202\usb.c	694;"	f	line:694	signature:(void)
+usb_ep0_in_finish	C:\My Projects\PKS\PKS-0202\usb.h	337;"	p	line:337	signature:(void)
+usb_ep0_load_0len	C:\My Projects\PKS\PKS-0202\usb.c	681;"	f	line:681
+usb_ep0_load_0len	C:\My Projects\PKS\PKS-0202\usb.h	334;"	p	line:334	signature:(void)
+usb_ep0_load_flash	C:\My Projects\PKS\PKS-0202\usb.c	642;"	f	line:642	signature:(void)
+usb_ep0_load_flash	C:\My Projects\PKS\PKS-0202\usb.h	332;"	p	line:332	signature:(void)
+usb_ep0_load_flash_init	C:\My Projects\PKS\PKS-0202\usb.c	629;"	f	line:629
+usb_ep0_load_flash_init	C:\My Projects\PKS\PKS-0202\usb.h	331;"	p	line:331	signature:(void)
+usb_ep0_out_finish	C:\My Projects\PKS\PKS-0202\usb.c	710;"	f	line:710	signature:(void)
+usb_ep0_out_finish	C:\My Projects\PKS\PKS-0202\usb.h	336;"	p	line:336	signature:(void)
+usb_ep0_trn_unsupported	C:\My Projects\PKS\PKS-0202\usb.c	670;"	f	line:670	signature:(void)
+usb_ep0_trn_unsupported	C:\My Projects\PKS\PKS-0202\usb.h	335;"	p	line:335	signature:(void)
+usb_ep1_check	C:\My Projects\PKS\PKS-0202\usb.c	731;"	f	line:731	signature:(void)
+usb_ep1_check	C:\My Projects\PKS\PKS-0202\usb.h	339;"	p	line:339	signature:(void)
+usb_ep1_in_finish	C:\My Projects\PKS\PKS-0202\usb.c	752;"	f	line:752	signature:(void)
+usb_ep1_in_finish	C:\My Projects\PKS\PKS-0202\usb.h	340;"	p	line:340	signature:(void)
+usb_ep1_in_put	C:\My Projects\PKS\PKS-0202\usb.c	799;"	f	line:799	signature:(TD_BYTE *src_p)
+usb_ep1_in_put	C:\My Projects\PKS\PKS-0202\usb.h	343;"	p	line:343	signature:(TD_BYTE *src_p)
+usb_ep1_out_finish	C:\My Projects\PKS\PKS-0202\usb.c	767;"	f	line:767	signature:(void)
+usb_ep1_out_finish	C:\My Projects\PKS\PKS-0202\usb.h	341;"	p	line:341	signature:(void)
+usb_ep1_out_get	C:\My Projects\PKS\PKS-0202\usb.c	782;"	f	line:782	signature:(TD_BYTE *dst_p)
+usb_ep1_out_get	C:\My Projects\PKS\PKS-0202\usb.h	342;"	p	line:342	signature:(TD_BYTE *dst_p)
+usb_flags_B	C:\My Projects\PKS\PKS-0202\usb.c	60;"	v	line:60
+usb_init	C:\My Projects\PKS\PKS-0202\usb.c	124;"	f	line:124	signature:(void)
+usb_init	C:\My Projects\PKS\PKS-0202\usb.h	310;"	p	line:310	signature:(void)
+usb_isr	C:\My Projects\PKS\PKS-0202\usb.c	192;"	f	line:192	signature:(void)
+usb_isr	C:\My Projects\PKS\PKS-0202\usb.h	312;"	p	line:312	signature:(void)
+usb_module_disable	C:\My Projects\PKS\PKS-0202\usb.c	110;"	f	line:110	signature:(void)
+usb_module_disable	C:\My Projects\PKS\PKS-0202\usb.h	316;"	p	line:316	signature:(void)
+usb_reset	C:\My Projects\PKS\PKS-0202\usb.c	143;"	f	line:143	signature:(void)
+usb_src_p	C:\My Projects\PKS\PKS-0202\usb.c	64;"	v	line:64
+usb_state	C:\My Projects\PKS\PKS-0202\usb.c	58;"	v	line:58
+usb_svc	C:\My Projects\PKS\PKS-0202\usb.c	226;"	f	line:226	signature:(void)
+usb_svc	C:\My Projects\PKS\PKS-0202\usb.h	313;"	p	line:313	signature:(void)
+usb_trn	C:\My Projects\PKS\PKS-0202\usb.c	292;"	f	line:292	signature:(void)
+usb_trn	C:\My Projects\PKS\PKS-0202\usb.h	318;"	p	line:318	signature:(void)
+usb_trn_control_in	C:\My Projects\PKS\PKS-0202\usb.c	350;"	f	line:350	signature:(void)
+usb_trn_control_in	C:\My Projects\PKS\PKS-0202\usb.h	329;"	p	line:329	signature:(void)
+usb_trn_control_out	C:\My Projects\PKS\PKS-0202\usb.c	336;"	f	line:336	signature:(void)
+usb_trn_control_out	C:\My Projects\PKS\PKS-0202\usb.h	328;"	p	line:328	signature:(void)
+usb_trn_setup	C:\My Projects\PKS\PKS-0202\usb.c	381;"	f	line:381	signature:(void)
+usb_trn_setup	C:\My Projects\PKS\PKS-0202\usb.h	319;"	p	line:319	signature:(void)
+usb_trn_setup_class_intf	C:\My Projects\PKS\PKS-0202\usb.c	471;"	f	line:471	signature:(void)
+usb_trn_setup_class_intf	C:\My Projects\PKS\PKS-0202\usb.h	325;"	p	line:325	signature:(void)
+usb_trn_setup_class_intf_getreport	C:\My Projects\PKS\PKS-0202\usb.c	494;"	f	line:494	signature:(void)
+usb_trn_setup_class_intf_getreport	C:\My Projects\PKS\PKS-0202\usb.h	326;"	p	line:326	signature:(void)
+usb_trn_setup_std_dev	C:\My Projects\PKS\PKS-0202\usb.c	407;"	f	line:407	signature:(void)
+usb_trn_setup_std_dev	C:\My Projects\PKS\PKS-0202\usb.h	320;"	p	line:320	signature:(void)
+usb_trn_setup_std_dev_getdsc	C:\My Projects\PKS\PKS-0202\usb.c	517;"	f	line:517	signature:(void)
+usb_trn_setup_std_dev_getdsc	C:\My Projects\PKS\PKS-0202\usb.h	321;"	p	line:321	signature:(void)
+usb_trn_setup_std_dev_getstring	C:\My Projects\PKS\PKS-0202\usb.c	590;"	f	line:590	signature:(void)
+usb_trn_setup_std_dev_getstring	C:\My Projects\PKS\PKS-0202\usb.h	322;"	p	line:322	signature:(void)
+usb_trn_setup_std_intf	C:\My Projects\PKS\PKS-0202\usb.c	450;"	f	line:450	signature:(void)
+usb_trn_setup_std_intf	C:\My Projects\PKS\PKS-0202\usb.h	323;"	p	line:323	signature:(void)
+usb_trn_setup_std_intf_getdsc	C:\My Projects\PKS\PKS-0202\usb.c	566;"	f	line:566	signature:(void)
+usb_trn_setup_std_intf_getdsc	C:\My Projects\PKS\PKS-0202\usb.h	324;"	p	line:324	signature:(void)
+used	C:\My Projects\PKS\PKS-0202\cbuf.h	54;"	m	line:54	struct:CBUF
+value_W	C:\My Projects\PKS\PKS-0202\usb.h	220;"	m	line:220	struct:_USB_BUF_CONTROL::<anonymous>
+value_w	C:\My Projects\PKS\PKS-0202\usb.h	212;"	m	line:212	struct:_USB_BUF_CONTROL::<anonymous>
+vector_isr_hi	C:\My Projects\PKS\PKS-0202\main.c	262;"	f	line:262	signature:(void)
+vector_isr_lo	C:\My Projects\PKS\PKS-0202\main.c	274;"	f	line:274	signature:(void)
+vendor_id_w	C:\My Projects\PKS\PKS-0202\usb_data_constants.h	71;"	m	line:71	struct:_USB_DSC_DEV
+vsrc_fault_count	C:\My Projects\PKS\PKS-0202\vsrc.c	47;"	v	line:47
+vsrc_flags_B	C:\My Projects\PKS\PKS-0202\vsrc.c	46;"	v	line:46
+vsrc_init	C:\My Projects\PKS\PKS-0202\vsrc.c	53;"	f	line:53	signature:(void)
+vsrc_init	C:\My Projects\PKS\PKS-0202\vsrc.h	62;"	p	line:62	signature:(void)
+vsrc_pwm_off	C:\My Projects\PKS\PKS-0202\vsrc.c	180;"	f	line:180	signature:(void)
+vsrc_pwm_off	C:\My Projects\PKS\PKS-0202\vsrc.h	65;"	p	line:65	signature:(void)
+vsrc_read	C:\My Projects\PKS\PKS-0202\vsrc.c	78;"	f	line:78	signature:(TD_BYTE fault_level)
+vsrc_read	C:\My Projects\PKS\PKS-0202\vsrc.h	67;"	p	line:67	signature:(TD_BYTE fault_level)
+vsrc_set_off	C:\My Projects\PKS\PKS-0202\vsrc.c	131;"	f	line:131	signature:(void)
+vsrc_set_off	C:\My Projects\PKS\PKS-0202\vsrc.h	64;"	p	line:64	signature:(void)
+vsrc_set_on	C:\My Projects\PKS\PKS-0202\vsrc.c	116;"	f	line:116	signature:(void)
+vsrc_set_on	C:\My Projects\PKS\PKS-0202\vsrc.h	63;"	p	line:63	signature:(void)
+vsrc_set_var	C:\My Projects\PKS\PKS-0202\vsrc.c	143;"	f	line:143	signature:(TD_BYTE setpoint)
+vsrc_set_var	C:\My Projects\PKS\PKS-0202\vsrc.h	66;"	p	line:66	signature:(TD_BYTE setpoint)
+word	C:\My Projects\PKS\PKS-0202\typedefs.h	49;"	t	line:49
+word0	C:\My Projects\PKS\PKS-0202\typedefs.h	129;"	m	line:129	struct:_DWORD::<anonymous>
+word0_W	C:\My Projects\PKS\PKS-0202\typedefs.h	134;"	m	line:134	struct:_DWORD::<anonymous>
+word1	C:\My Projects\PKS\PKS-0202\typedefs.h	130;"	m	line:130	struct:_DWORD::<anonymous>
+word1_W	C:\My Projects\PKS\PKS-0202\typedefs.h	135;"	m	line:135	struct:_DWORD::<anonymous>
+word_W	C:\My Projects\PKS\PKS-0202\typedefs.h	192;"	m	line:192	union:_POINTER
+word_w	C:\My Projects\PKS\PKS-0202\typedefs.h	186;"	m	line:186	union:_POINTER
+write	C:\My Projects\PKS\PKS-0202\cbuf.h	52;"	m	line:52	struct:CBUF

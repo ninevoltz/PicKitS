@@ -1,0 +1,1896 @@
+MPLINK 4.13, Linker
+Linker Map File - Created Fri Jul 17 16:14:52 2009
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+               _entry_scn       code   0x000000    program   0x000006
+            _vector_reset       code   0x002000    program   0x000006
+           _vector_isr_hi       code   0x002008    program   0x000008
+           _vector_isr_lo       code   0x002018    program   0x000006
+         .code_comm_gen.o       code   0x00202a    program   0x00092c
+         .code_comm_lin.o       code   0x002956    program   0x0008e2
+             .code_exec.o       code   0x003238    program   0x0006e8
+        .code_comm_i2cs.o       code   0x003920    program   0x000640
+        .code_comm_i2cm.o       code   0x003f60    program   0x000510
+       .code_comm_usart.o       code   0x004470    program   0x000448
+         .code_comm_spi.o       code   0x0048b8    program   0x00041e
+                 _usb_ep0       code   0x004cd6    program   0x0003d8
+             .code_led2.o       code   0x0050ae    program   0x0000f6
+           .code_timer0.o       code   0x0051a4    program   0x0000e6
+             .code_vsrc.o       code   0x00528a    program   0x0000e4
+.romdata_usb_data_constants.o    romdata   0x00536e    program   0x0000be
+               _cinit_scn       code   0x00542c    program   0x00009e
+           .code_timer3.o       code   0x0054ca    program   0x000090
+               cbuf3_code       code   0x00555a    program   0x00008a
+               cbuf2_code       code   0x0055e4    program   0x00008a
+               cbuf1_code       code   0x00566e    program   0x00008a
+                     PROG       code   0x0056f8    program   0x00003c
+           exec_constants    romdata   0x005734    program   0x000018
+                    .code       code   0x00574c    program   0x00000e
+        _boot_marker_addr    romdata   0x007cfe    program   0x000002
+                   .cinit    romdata   0x007d00    program   0x000002
+             .code_main.o       code   0x007d02    program   0x00016c
+                 _usb_ep1       code   0x007e6e    program   0x00010e
+          .code_ee_util.o       code   0x007f7c    program   0x000054
+             _startup_scn       code   0x007fd0    program   0x00001c
+           .code_device.o       code   0x007fec    program   0x00000e
+           .code___init.o       code   0x007ffa    program   0x000002
+        .idata_timer3.o_i    romdata   0x007ffc    program   0x000000
+          .romdata_led2.o    romdata   0x007ffc    program   0x000000
+          .idata_cbuf.o_i    romdata   0x007ffc    program   0x000000
+     .romdata_comm_i2cs.o    romdata   0x007ffc    program   0x000000
+          .romdata_cbuf.o    romdata   0x007ffc    program   0x000000
+        .romdata___init.o    romdata   0x007ffc    program   0x000000
+             .code_cbuf.o       code   0x007ffc    program   0x000000
+        .romdata_timer3.o    romdata   0x007ffc    program   0x000000
+     .idata_comm_i2cs.o_i    romdata   0x007ffc    program   0x000000
+        .idata_device.o_i    romdata   0x007ffc    program   0x000000
+      .romdata_comm_lin.o    romdata   0x007ffc    program   0x000000
+      .idata_comm_lin.o_i    romdata   0x007ffc    program   0x000000
+        .idata___init.o_i    romdata   0x007ffc    program   0x000000
+        .romdata_device.o    romdata   0x007ffc    program   0x000000
+         .idata_c018i.o_i    romdata   0x007ffc    program   0x000000
+         .romdata_c018i.o    romdata   0x007ffc    program   0x000000
+            .code_c018i.o       code   0x007ffc    program   0x000000
+      .idata_comm_gen.o_i    romdata   0x007ffc    program   0x000000
+      .romdata_comm_gen.o    romdata   0x007ffc    program   0x000000
+     .idata_comm_i2cm.o_i    romdata   0x007ffc    program   0x000000
+     .romdata_comm_i2cm.o    romdata   0x007ffc    program   0x000000
+      .idata_comm_spi.o_i    romdata   0x007ffc    program   0x000000
+      .romdata_comm_spi.o    romdata   0x007ffc    program   0x000000
+    .idata_comm_usart.o_i    romdata   0x007ffc    program   0x000000
+    .romdata_comm_usart.o    romdata   0x007ffc    program   0x000000
+       .idata_ee_util.o_i    romdata   0x007ffc    program   0x000000
+       .romdata_ee_util.o    romdata   0x007ffc    program   0x000000
+          .idata_exec.o_i    romdata   0x007ffc    program   0x000000
+          .romdata_exec.o    romdata   0x007ffc    program   0x000000
+          .idata_led2.o_i    romdata   0x007ffc    program   0x000000
+          .romdata_vsrc.o    romdata   0x007ffc    program   0x000000
+          .idata_vsrc.o_i    romdata   0x007ffc    program   0x000000
+.code_usb_data_constants.o       code   0x007ffc    program   0x000000
+.idata_usb_data_constants.o_i    romdata   0x007ffc    program   0x000000
+              .code_usb.o       code   0x007ffc    program   0x000000
+           .romdata_usb.o    romdata   0x007ffc    program   0x000000
+           .idata_usb.o_i    romdata   0x007ffc    program   0x000000
+        .romdata_timer0.o    romdata   0x007ffc    program   0x000000
+        .idata_timer0.o_i    romdata   0x007ffc    program   0x000000
+          .romdata_main.o    romdata   0x007ffc    program   0x000000
+          .idata_main.o_i    romdata   0x007ffc    program   0x000000
+  .config_300000_device.o    romdata   0x300000    program   0x000001
+  .config_300001_device.o    romdata   0x300001    program   0x000001
+  .config_300002_device.o    romdata   0x300002    program   0x000001
+  .config_300003_device.o    romdata   0x300003    program   0x000001
+  .config_300005_device.o    romdata   0x300005    program   0x000001
+  .config_300006_device.o    romdata   0x300006    program   0x000001
+  .config_300008_device.o    romdata   0x300008    program   0x000001
+  .config_300009_device.o    romdata   0x300009    program   0x000001
+  .config_30000a_device.o    romdata   0x30000a    program   0x000001
+  .config_30000b_device.o    romdata   0x30000b    program   0x000001
+  .config_30000c_device.o    romdata   0x30000c    program   0x000001
+  .config_30000d_device.o    romdata   0x30000d    program   0x000001
+                MATH_DATA      udata   0x000000       data   0x000014
+                 .tmpdata      udata   0x000014       data   0x000006
+            .udata_exec.o      udata   0x000060       data   0x00003a
+        .udata_comm_gen.o      udata   0x00009a       data   0x000020
+          .udata_timer0.o      udata   0x0000ba       data   0x00001a
+             .udata_usb.o      udata   0x0000d4       data   0x00000c
+           .udata_c018i.o      udata   0x0000e0       data   0x00000a
+         .udata_ee_util.o      udata   0x0000ea       data   0x000006
+                      led      udata   0x0000f0       data   0x000004
+                cbuf3_def      udata   0x0000f4       data   0x000004
+                cbuf2_def      udata   0x0000f8       data   0x000004
+                cbuf1_def      udata   0x0000fc       data   0x000004
+                cbuf3_buf      udata   0x000100       data   0x0000ff
+            .idata_cbuf.o      idata   0x0001ff       data   0x000000
+            .udata_cbuf.o      udata   0x0001ff       data   0x000000
+            .idata_led2.o      idata   0x0001ff       data   0x000000
+            .udata_led2.o      udata   0x0001ff       data   0x000000
+          .udata_device.o      udata   0x0001ff       data   0x000000
+          .idata_device.o      idata   0x0001ff       data   0x000000
+        .udata_comm_lin.o      udata   0x0001ff       data   0x000000
+        .idata_comm_lin.o      idata   0x0001ff       data   0x000000
+       .udata_comm_i2cs.o      udata   0x0001ff       data   0x000000
+       .idata_comm_i2cs.o      idata   0x0001ff       data   0x000000
+          .udata_timer3.o      udata   0x0001ff       data   0x000000
+          .idata_timer3.o      idata   0x0001ff       data   0x000000
+          .udata___init.o      udata   0x0001ff       data   0x000000
+          .idata___init.o      idata   0x0001ff       data   0x000000
+           .idata_c018i.o      idata   0x0001ff       data   0x000000
+        .idata_comm_gen.o      idata   0x0001ff       data   0x000000
+       .udata_comm_i2cm.o      udata   0x0001ff       data   0x000000
+       .idata_comm_i2cm.o      idata   0x0001ff       data   0x000000
+        .udata_comm_spi.o      udata   0x0001ff       data   0x000000
+        .idata_comm_spi.o      idata   0x0001ff       data   0x000000
+      .udata_comm_usart.o      udata   0x0001ff       data   0x000000
+      .idata_comm_usart.o      idata   0x0001ff       data   0x000000
+         .idata_ee_util.o      idata   0x0001ff       data   0x000000
+            .idata_exec.o      idata   0x0001ff       data   0x000000
+            .idata_main.o      idata   0x0001ff       data   0x000000
+          .idata_timer0.o      idata   0x0001ff       data   0x000000
+             .idata_usb.o      idata   0x0001ff       data   0x000000
+.udata_usb_data_constants.o      udata   0x0001ff       data   0x000000
+.idata_usb_data_constants.o      idata   0x0001ff       data   0x000000
+            .idata_vsrc.o      idata   0x0001ff       data   0x000000
+                cbuf2_buf      udata   0x000200       data   0x0000ff
+                   .stack      udata   0x000300       data   0x000100
+                  usb4ram      udata   0x000400       data   0x000010
+                  usb5ram      udata   0x000500       data   0x000100
+                cbuf1_buf      udata   0x000600       data   0x0000ff
+            .udata_vsrc.o      udata   0x000700       data   0x000002
+            .udata_main.o      udata   0x000702       data   0x000002
+            SFR_UNBANKED0      udata   0x000f66       data   0x00009a
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000005      
+                            0x002000    0x002005      
+                            0x002008    0x00200f      
+                            0x002018    0x00201d      
+                            0x00202a    0x005759      
+                            0x007cfe    0x007ffb      
+                            0x300000    0x300003      
+                            0x300005    0x300006      
+                            0x300008    0x30000d      
+            14932 out of 33048 program addresses used, program memory utilization is 45%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                 FXM1616U   0x0056f8    program     extern C:\MCC18\SRC\TRADIT~1\MATH\fxm1616u.asm
+       ___case_0_lbl00019   0x002162    program     static                          
+       ___case_0_lbl00033   0x0033d2    program     static                          
+       ___case_0_lbl00060   0x003584    program     static                          
+       ___case_0_lbl00069   0x002c60    program     static                          
+      ___case_10_lbl00033   0x00219e    program     static                          
+      ___case_10_lbl00058   0x00227e    program     static                          
+      ___case_10_lbl00078   0x00231a    program     static                          
+      ___case_10_lbl00102   0x0036d4    program     static                          
+      ___case_11_lbl00022   0x002172    program     static                          
+      ___case_11_lbl00052   0x00226c    program     static                          
+      ___case_11_lbl00072   0x002308    program     static                          
+      ___case_11_lbl00109   0x003712    program     static                          
+     ___case_128_lbl00018   0x002a56    program     static                          
+     ___case_129_lbl00032   0x002aba    program     static                          
+      ___case_12_lbl00110   0x003728    program     static                          
+     ___case_130_lbl00024   0x002a5a    program     static                          
+     ___case_131_lbl00023   0x002a5a    program     static                          
+     ___case_131_lbl00059   0x004bb4    program     static                          
+     ___case_132_lbl00022   0x002a5a    program     static                          
+     ___case_132_lbl00035   0x004acc    program     static                          
+     ___case_133_lbl00034   0x004aba    program     static                          
+     ___case_133_lbl00047   0x002b2a    program     static                          
+     ___case_134_lbl00036   0x004ade    program     static                          
+     ___case_134_lbl00051   0x002b64    program     static                          
+     ___case_135_lbl00060   0x004bf2    program     static                          
+     ___case_135_lbl00068   0x002bf2    program     static                          
+     ___case_136_lbl00061   0x004bfe    program     static                          
+     ___case_137_lbl00033   0x004ab2    program     static                          
+     ___case_139_lbl00066   0x004c0a    program     static                          
+     ___case_140_lbl00071   0x004c32    program     static                          
+     ___case_144_lbl00073   0x004c5a    program     static                          
+     ___case_145_lbl00075   0x004c6a    program     static                          
+     ___case_146_lbl00077   0x004c7a    program     static                          
+     ___case_147_lbl00079   0x004c8a    program     static                          
+     ___case_148_lbl00082   0x004c9a    program     static                          
+     ___case_149_lbl00085   0x004cb4    program     static                          
+       ___case_1_lbl00021   0x002164    program     static                          
+       ___case_1_lbl00034   0x0033d6    program     static                          
+       ___case_1_lbl00051   0x002266    program     static                          
+       ___case_1_lbl00063   0x00358a    program     static                          
+       ___case_1_lbl00071   0x002302    program     static                          
+     ___case_255_lbl00054   0x004af0    program     static                          
+       ___case_2_lbl00024   0x002172    program     static                          
+       ___case_2_lbl00035   0x0033e2    program     static                          
+       ___case_2_lbl00053   0x00226c    program     static                          
+       ___case_2_lbl00064   0x0035a0    program     static                          
+       ___case_2_lbl00073   0x002308    program     static                          
+       ___case_3_lbl00023   0x002172    program     static                          
+       ___case_3_lbl00036   0x0033e8    program     static                          
+       ___case_3_lbl00075   0x0035dc    program     static                          
+       ___case_4_lbl00029   0x002182    program     static                          
+       ___case_4_lbl00037   0x0033ec    program     static                          
+       ___case_4_lbl00056   0x002272    program     static                          
+       ___case_4_lbl00076   0x00230e    program     static                          
+       ___case_4_lbl00084   0x003610    program     static                          
+       ___case_5_lbl00028   0x002182    program     static                          
+       ___case_5_lbl00038   0x0033f0    program     static                          
+       ___case_5_lbl00055   0x002272    program     static                          
+       ___case_5_lbl00075   0x00230e    program     static                          
+       ___case_5_lbl00093   0x003654    program     static                          
+      ___case_66_lbl00104   0x0036da    program     static                          
+       ___case_6_lbl00027   0x002182    program     static                          
+       ___case_6_lbl00039   0x0033f6    program     static                          
+       ___case_6_lbl00054   0x002272    program     static                          
+       ___case_6_lbl00074   0x00230e    program     static                          
+       ___case_6_lbl00096   0x003698    program     static                          
+       ___case_7_lbl00031   0x002190    program     static                          
+       ___case_7_lbl00040   0x0033fc    program     static                          
+       ___case_7_lbl00057   0x002278    program     static                          
+       ___case_7_lbl00077   0x002314    program     static                          
+       ___case_7_lbl00099   0x0036b0    program     static                          
+       ___case_8_lbl00100   0x0036c8    program     static                          
+      ___case_98_lbl00103   0x0036da    program     static                          
+       ___case_9_lbl00041   0x003402    program     static                          
+       ___case_9_lbl00101   0x0036ce    program     static                          
+      ___default_lbl00034   0x0021ac    program     static                          
+      ___default_lbl00059   0x002284    program     static                          
+      ___default_lbl00070   0x002c62    program     static                          
+      ___default_lbl00079   0x002320    program     static                          
+      ___default_lbl00086   0x004cce    program     static                          
+      ___default_lbl00111   0x003730    program     static                          
+           ___do_lbl00048   0x002288    program     static                          
+           ___do_lbl00049   0x00228e    program     static                          
+           ___do_lbl00062   0x002230    program     static                          
+         ___else_lbl00016   0x002a22    program     static                          
+         ___else_lbl00030   0x002ad6    program     static                          
+         ___else_lbl00034   0x002af6    program     static                          
+         ___else_lbl00038   0x0021e8    program     static                          
+         ___else_lbl00038   0x004b18    program     static                          
+         ___else_lbl00039   0x002b12    program     static                          
+         ___else_lbl00040   0x0021ee    program     static                          
+         ___else_lbl00041   0x002afa    program     static                          
+         ___else_lbl00043   0x002218    program     static                          
+         ___else_lbl00044   0x004b56    program     static                          
+         ___else_lbl00046   0x002b4a    program     static                          
+         ___else_lbl00046   0x002226    program     static                          
+         ___else_lbl00049   0x004bac    program     static                          
+         ___else_lbl00051   0x004b68    program     static                          
+         ___else_lbl00053   0x004b1c    program     static                          
+         ___else_lbl00058   0x004bd0    program     static                          
+         ___else_lbl00059   0x002bec    program     static                          
+         ___else_lbl00061   0x002286    program     static                          
+         ___else_lbl00061   0x002bb8    program     static                          
+         ___else_lbl00062   0x00359a    program     static                          
+         ___else_lbl00063   0x004c1a    program     static                          
+         ___else_lbl00065   0x004c28    program     static                          
+         ___else_lbl00066   0x002c4e    program     static                          
+         ___else_lbl00068   0x004c42    program     static                          
+         ___else_lbl00068   0x0035ce    program     static                          
+         ___else_lbl00070   0x004c50    program     static                          
+         ___else_lbl00072   0x003602    program     static                          
+         ___else_lbl00074   0x00360a    program     static                          
+         ___else_lbl00079   0x00363c    program     static                          
+         ___else_lbl00081   0x003646    program     static                          
+         ___else_lbl00083   0x00364e    program     static                          
+         ___else_lbl00088   0x003680    program     static                          
+         ___else_lbl00090   0x00368a    program     static                          
+         ___else_lbl00092   0x003692    program     static                          
+         ___else_lbl00095   0x0036aa    program     static                          
+         ___else_lbl00098   0x0036c2    program     static                          
+         ___else_lbl00101   0x002e90    program     static                          
+         ___else_lbl00105   0x002ef6    program     static                          
+         ___else_lbl00108   0x003722    program     static                          
+         ___else_lbl00111   0x002f54    program     static                          
+         ___else_lbl00120   0x00302a    program     static                          
+         ___else_lbl00126   0x0030a0    program     static                          
+         ___else_lbl00129   0x00308c    program     static                          
+         ___else_lbl00133   0x003030    program     static                          
+         ___else_lbl00135   0x002f8c    program     static                          
+         ___else_lbl00137   0x002f76    program     static                          
+           ___if_lbl00009   0x007dd8    program     static                          
+           ___if_lbl00011   0x007df4    program     static                          
+           ___if_lbl00012   0x007e00    program     static                          
+           ___if_lbl00013   0x007e00    program     static                          
+           ___if_lbl00014   0x002a18    program     static                          
+           ___if_lbl00015   0x002a24    program     static                          
+           ___if_lbl00015   0x007e18    program     static                          
+           ___if_lbl00016   0x007e18    program     static                          
+           ___if_lbl00019   0x002a64    program     static                          
+           ___if_lbl00020   0x002170    program     static                          
+           ___if_lbl00020   0x002a8a    program     static                          
+           ___if_lbl00021   0x002a8c    program     static                          
+           ___if_lbl00025   0x002180    program     static                          
+           ___if_lbl00025   0x002aa6    program     static                          
+           ___if_lbl00026   0x00218e    program     static                          
+           ___if_lbl00026   0x002aa8    program     static                          
+           ___if_lbl00027   0x002ab4    program     static                          
+           ___if_lbl00028   0x002ac4    program     static                          
+           ___if_lbl00029   0x002ad8    program     static                          
+           ___if_lbl00030   0x00219c    program     static                          
+           ___if_lbl00031   0x002ad8    program     static                          
+           ___if_lbl00032   0x0021aa    program     static                          
+           ___if_lbl00033   0x002af8    program     static                          
+           ___if_lbl00035   0x0021be    program     static                          
+           ___if_lbl00035   0x002b0e    program     static                          
+           ___if_lbl00036   0x002b28    program     static                          
+           ___if_lbl00037   0x002b28    program     static                          
+           ___if_lbl00037   0x004b1a    program     static                          
+           ___if_lbl00037   0x0021ec    program     static                          
+           ___if_lbl00038   0x002b28    program     static                          
+           ___if_lbl00039   0x004b1a    program     static                          
+           ___if_lbl00039   0x0021f2    program     static                          
+           ___if_lbl00040   0x004b1a    program     static                          
+           ___if_lbl00040   0x002b28    program     static                          
+           ___if_lbl00041   0x004b34    program     static                          
+           ___if_lbl00041   0x0021f2    program     static                          
+           ___if_lbl00042   0x004b54    program     static                          
+           ___if_lbl00042   0x002b28    program     static                          
+           ___if_lbl00042   0x00221c    program     static                          
+           ___if_lbl00043   0x004b5e    program     static                          
+           ___if_lbl00043   0x002b48    program     static                          
+           ___if_lbl00044   0x00221c    program     static                          
+           ___if_lbl00044   0x002b62    program     static                          
+           ___if_lbl00045   0x002228    program     static                          
+           ___if_lbl00045   0x002b62    program     static                          
+           ___if_lbl00045   0x004b6c    program     static                          
+           ___if_lbl00046   0x004b90    program     static                          
+           ___if_lbl00047   0x004b98    program     static                          
+           ___if_lbl00047   0x002230    program     static                          
+           ___if_lbl00048   0x002b8a    program     static                          
+           ___if_lbl00048   0x004bb2    program     static                          
+           ___if_lbl00049   0x002b8a    program     static                          
+           ___if_lbl00050   0x002b8a    program     static                          
+           ___if_lbl00050   0x004bb2    program     static                          
+           ___if_lbl00052   0x004bb2    program     static                          
+           ___if_lbl00052   0x002ba0    program     static                          
+           ___if_lbl00053   0x002ba0    program     static                          
+           ___if_lbl00055   0x004bce    program     static                          
+           ___if_lbl00056   0x004bf0    program     static                          
+           ___if_lbl00056   0x002bea    program     static                          
+           ___if_lbl00057   0x004bf0    program     static                          
+           ___if_lbl00057   0x002bea    program     static                          
+           ___if_lbl00058   0x003530    program     static                          
+           ___if_lbl00058   0x002bee    program     static                          
+           ___if_lbl00060   0x002288    program     static                          
+           ___if_lbl00060   0x002bee    program     static                          
+           ___if_lbl00061   0x00359e    program     static                          
+           ___if_lbl00062   0x002bf0    program     static                          
+           ___if_lbl00062   0x004c1c    program     static                          
+           ___if_lbl00063   0x002294    program     static                          
+           ___if_lbl00064   0x0022b4    program     static                          
+           ___if_lbl00064   0x004c30    program     static                          
+           ___if_lbl00065   0x0022b8    program     static                          
+           ___if_lbl00065   0x002c56    program     static                          
+           ___if_lbl00066   0x0022b8    program     static                          
+           ___if_lbl00067   0x002c5e    program     static                          
+           ___if_lbl00067   0x004c44    program     static                          
+           ___if_lbl00067   0x0035d8    program     static                          
+           ___if_lbl00067   0x0022d8    program     static                          
+           ___if_lbl00068   0x0022dc    program     static                          
+           ___if_lbl00069   0x0022dc    program     static                          
+           ___if_lbl00069   0x004c58    program     static                          
+           ___if_lbl00071   0x002c6e    program     static                          
+           ___if_lbl00071   0x003606    program     static                          
+           ___if_lbl00072   0x004c60    program     static                          
+           ___if_lbl00073   0x00360e    program     static                          
+           ___if_lbl00073   0x002c8c    program     static                          
+           ___if_lbl00074   0x004c70    program     static                          
+           ___if_lbl00075   0x002cac    program     static                          
+           ___if_lbl00076   0x004c80    program     static                          
+           ___if_lbl00076   0x002cba    program     static                          
+           ___if_lbl00077   0x002cd4    program     static                          
+           ___if_lbl00078   0x004c90    program     static                          
+           ___if_lbl00078   0x002cdc    program     static                          
+           ___if_lbl00078   0x003644    program     static                          
+           ___if_lbl00079   0x002cea    program     static                          
+           ___if_lbl00080   0x00364a    program     static                          
+           ___if_lbl00080   0x00232e    program     static                          
+           ___if_lbl00081   0x004cb2    program     static                          
+           ___if_lbl00082   0x003652    program     static                          
+           ___if_lbl00084   0x004ccc    program     static                          
+           ___if_lbl00087   0x003688    program     static                          
+           ___if_lbl00087   0x002db2    program     static                          
+           ___if_lbl00088   0x002dba    program     static                          
+           ___if_lbl00089   0x00368e    program     static                          
+           ___if_lbl00090   0x002dec    program     static                          
+           ___if_lbl00091   0x003696    program     static                          
+           ___if_lbl00094   0x002e3e    program     static                          
+           ___if_lbl00094   0x0036ae    program     static                          
+           ___if_lbl00097   0x0036c6    program     static                          
+           ___if_lbl00097   0x002e8a    program     static                          
+           ___if_lbl00098   0x002e8e    program     static                          
+           ___if_lbl00099   0x002e9c    program     static                          
+           ___if_lbl00100   0x002e9c    program     static                          
+           ___if_lbl00102   0x002ea8    program     static                          
+           ___if_lbl00103   0x002eb4    program     static                          
+           ___if_lbl00104   0x002f0e    program     static                          
+           ___if_lbl00106   0x002f36    program     static                          
+           ___if_lbl00107   0x003726    program     static                          
+           ___if_lbl00107   0x002f3a    program     static                          
+           ___if_lbl00108   0x002f3a    program     static                          
+           ___if_lbl00109   0x002f52    program     static                          
+           ___if_lbl00110   0x002f58    program     static                          
+           ___if_lbl00112   0x002f74    program     static                          
+           ___if_lbl00113   0x002f74    program     static                          
+           ___if_lbl00114   0x002fb2    program     static                          
+           ___if_lbl00115   0x002fee    program     static                          
+           ___if_lbl00116   0x002fee    program     static                          
+           ___if_lbl00118   0x00301c    program     static                          
+           ___if_lbl00119   0x00302e    program     static                          
+           ___if_lbl00121   0x00302e    program     static                          
+           ___if_lbl00122   0x00302e    program     static                          
+           ___if_lbl00123   0x003070    program     static                          
+           ___if_lbl00124   0x0030b6    program     static                          
+           ___if_lbl00125   0x0030b6    program     static                          
+           ___if_lbl00127   0x0030b6    program     static                          
+           ___if_lbl00128   0x0030ba    program     static                          
+           ___if_lbl00130   0x0030ba    program     static                          
+           ___if_lbl00131   0x0030ba    program     static                          
+           ___if_lbl00132   0x0030ba    program     static                          
+           ___if_lbl00134   0x0030ba    program     static                          
+           ___if_lbl00136   0x0030ba    program     static                          
+       ___return_lbl00000   0x007d54    program     static                          
+       ___return_lbl00000   0x000004    program     static                          
+       ___return_lbl00001   0x007fea    program     static                          
+       ___return_lbl00002   0x0054c8    program     static                          
+       ___return_lbl00003   0x002004    program     static                          
+       ___return_lbl00004   0x00200e    program     static                          
+       ___return_lbl00005   0x00201c    program     static                          
+       ___return_lbl00007   0x007e18    program     static                          
+       ___return_lbl00011   0x002c6e    program     static                          
+       ___return_lbl00017   0x0021be    program     static                          
+       ___return_lbl00031   0x004cd4    program     static                          
+       ___return_lbl00031   0x003410    program     static                          
+       ___return_lbl00036   0x00232e    program     static                          
+       ___return_lbl00054   0x003738    program     static                          
+       ___return_lbl00072   0x002cea    program     static                          
+       ___return_lbl00086   0x0030ba    program     static                          
+   ___switchexit_lbl00017   0x002c68    program     static                          
+   ___switchexit_lbl00018   0x0021b2    program     static                          
+   ___switchexit_lbl00032   0x004cd4    program     static                          
+   ___switchexit_lbl00032   0x003410    program     static                          
+   ___switchexit_lbl00050   0x002284    program     static                          
+   ___switchexit_lbl00059   0x003736    program     static                          
+   ___switchexit_lbl00070   0x002320    program     static                          
+        ___while_lbl00001   0x007d3e    program     static                          
+        ___while_lbl00002   0x007d54    program     static                          
+        ___while_lbl00012   0x002a0c    program     static                          
+        ___while_lbl00013   0x002a14    program     static                          
+        ___while_lbl00054   0x002ba6    program     static                          
+        ___while_lbl00055   0x002bf0    program     static                          
+        ___while_lbl00055   0x00350c    program     static                          
+        ___while_lbl00056   0x003738    program     static                          
+        ___while_lbl00063   0x002c24    program     static                          
+        ___while_lbl00064   0x002c4c    program     static                          
+        ___while_lbl00065   0x0035a8    program     static                          
+        ___while_lbl00066   0x0035da    program     static                          
+        ___while_lbl00069   0x0035ee    program     static                          
+        ___while_lbl00070   0x003608    program     static                          
+        ___while_lbl00076   0x00361a    program     static                          
+        ___while_lbl00077   0x00364c    program     static                          
+        ___while_lbl00085   0x00365e    program     static                          
+        ___while_lbl00086   0x003690    program     static                          
+        ___while_lbl00092   0x002e30    program     static                          
+        ___while_lbl00093   0x002e40    program     static                          
+        ___while_lbl00095   0x002e66    program     static                          
+        ___while_lbl00096   0x002e9e    program     static                          
+        ___while_lbl00105   0x003702    program     static                          
+        ___while_lbl00106   0x00370e    program     static                          
+               __config_0   0x300000    program     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\device.c
+               __config_1   0x300001    program     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\device.c
+              __config_10   0x30000c    program     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\device.c
+              __config_11   0x30000d    program     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\device.c
+               __config_2   0x300002    program     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\device.c
+               __config_3   0x300003    program     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\device.c
+               __config_4   0x300005    program     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\device.c
+               __config_5   0x300006    program     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\device.c
+               __config_6   0x300008    program     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\device.c
+               __config_7   0x300009    program     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\device.c
+               __config_8   0x30000a    program     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\device.c
+               __config_9   0x30000b    program     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\device.c
+                   __init   0x007ffa    program     extern C:\MCC18\src\TRADIT~1\stdclib\__init.c
+               __tmplbl_0   0x002ca0    program     static                          
+               __tmplbl_0   0x007dd2    program     static                          
+               __tmplbl_1   0x002c9a    program     static                          
+               __tmplbl_1   0x007dcc    program     static                          
+               __tmplbl_2   0x002dd4    program     static                          
+               __tmplbl_2   0x003524    program     static                          
+               __tmplbl_2   0x007de8    program     static                          
+               __tmplbl_3   0x007de2    program     static                          
+               __tmplbl_3   0x002dc8    program     static                          
+               __tmplbl_3   0x003518    program     static                          
+               __tmplbl_4   0x002e1c    program     static                          
+               __tmplbl_4   0x007e0c    program     static                          
+               __tmplbl_5   0x002e10    program     static                          
+               __tmplbl_5   0x004caa    program     static                          
+               __tmplbl_5   0x007e06    program     static                          
+               __tmplbl_6   0x004ca0    program     static                          
+               __tmplbl_6   0x003012    program     static                          
+               __tmplbl_7   0x004cc4    program     static                          
+               __tmplbl_7   0x00300a    program     static                          
+               __tmplbl_8   0x004cba    program     static                          
+            __zero_memory   0x00574c    program     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+             _boot_marker   0x007cfe    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\main.c
+                _do_cinit   0x00542c    program     extern C:\MCC18\src\traditional\startup\c018i.c
+                   _entry   0x000000    program     extern C:\MCC18\src\traditional\startup\c018i.c
+                 _startup   0x007fd0    program     extern C:\MCC18\src\traditional\startup\c018i.c
+            _vector_reset   0x002000    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\main.c
+                cbuf1_get   0x00567a    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\cbuf.c
+               cbuf1_init   0x00566e    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\cbuf.c
+                cbuf1_put   0x0056aa    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\cbuf.c
+                cbuf2_get   0x0055f0    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\cbuf.c
+               cbuf2_init   0x0055e4    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\cbuf.c
+                cbuf2_put   0x005620    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\cbuf.c
+                cbuf3_get   0x005566    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\cbuf.c
+               cbuf3_init   0x00555a    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\cbuf.c
+                cbuf3_put   0x005596    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\cbuf.c
+               clear_loop   0x005752    program     static C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+               comm_clear   0x002060    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+            comm_data_get   0x0026cc    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+                 comm_gen   0x002330    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+          comm_gen_config   0x002056    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+           comm_gen_reset   0x002038    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+        comm_i2cm_adc_bus   0x00406c    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_i2cm.c
+           comm_i2cm_init   0x003f60    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_i2cm.c
+       comm_i2cm_postproc   0x003fda    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_i2cm.c
+          comm_i2cm_reset   0x003fc0    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_i2cm.c
+            comm_i2cm_svc   0x004090    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_i2cm.c
+      comm_i2cs_data_send   0x003c80    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_i2cs.c
+           comm_i2cs_dint   0x003f0e    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_i2cs.c
+           comm_i2cs_init   0x003920    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_i2cs.c
+            comm_i2cs_isr   0x003a66    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_i2cs.c
+       comm_i2cs_postproc   0x003c9e    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_i2cs.c
+        comm_i2cs_pro_get   0x0039dc    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_i2cs.c
+ comm_i2cs_pro_get_regdef   0x00395c    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_i2cs.c
+  comm_i2cs_pro_get_slave   0x0039ae    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_i2cs.c
+          comm_i2cs_reset   0x00392c    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_i2cs.c
+            comm_i2cs_svc   0x003d4c    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_i2cs.c
+                comm_init   0x00202a    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+           comm_init_mode   0x002120    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+       comm_led_busy_data   0x0027c0    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+           comm_lin_clear   0x002994    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_lin.c
+          comm_lin_config   0x00297e    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_lin.c
+            comm_lin_init   0x002956    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_lin.c
+          comm_lin_parity   0x003198    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_lin.c
+        comm_lin_postproc   0x002c70    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_lin.c
+           comm_lin_reset   0x00296a    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_lin.c
+          comm_lin_rx_isr   0x002d98    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_lin.c
+   comm_lin_sp_iddef_next   0x002d34    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_lin.c
+ comm_lin_sp_iddef_search   0x002cf8    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_lin.c
+             comm_lin_svc   0x002a04    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_lin.c
+          comm_lin_svc_tx   0x003150    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_lin.c
+              comm_lin_tx   0x00315e    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_lin.c
+          comm_lin_tx_isr   0x0030c8    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_lin.c
+          comm_post_cbuf2   0x00272c    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+     comm_post_cbuf2_time   0x002760    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+          comm_post_cbuf3   0x00278c    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+           comm_post_data   0x0028c2    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+          comm_post_event   0x0027d2    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+       comm_post_event_1b   0x002818    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+       comm_post_event_2b   0x002868    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+     comm_post_event_time   0x0028ee    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+ comm_post_event_time_get   0x002924    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+           comm_spi_clear   0x004986    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_spi.c
+          comm_spi_config   0x0048c4    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_spi.c
+            comm_spi_init   0x0048b8    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_spi.c
+        comm_spi_postproc   0x0049ec    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_spi.c
+           comm_spi_reset   0x0049d2    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_spi.c
+             comm_spi_svc   0x004a56    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_spi.c
+                 comm_svc   0x0021ca    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+         comm_usart_clear   0x004518    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_usart.c
+        comm_usart_config   0x00447a    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_usart.c
+          comm_usart_init   0x004470    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_usart.c
+      comm_usart_postproc   0x004842    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_usart.c
+       comm_usart_rcv_isr   0x00481a    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_usart.c
+         comm_usart_reset   0x004508    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_usart.c
+           comm_usart_svc   0x00453a    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_usart.c
+         comm_varbs_clear   0x0020fc    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+                copy_loop   0x00549e    program     static                          
+            copy_one_byte   0x0054a4    program     static                          
+              device_init   0x007fec    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\device.c
+                     done   0x0054c8    program     static                          
+             done_copying   0x0054b2    program     static                          
+                  ee_read   0x007f92    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\ee_util.c
+                ee_read16   0x007f7c    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\ee_util.c
+                 ee_write   0x007fc4    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\ee_util.c
+              ee_write_na   0x007fa4    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\ee_util.c
+             exec_cb_dflt   0x005734    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+          exec_cb_ee_read   0x0034be    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+         exec_cb_ee_write   0x003486    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+             exec_cb_load   0x00341c    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+        exec_cb_load_dflt   0x003430    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+           exec_cbuf1_put   0x0038ec    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+           exec_cmnd_proc   0x003398    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+            exec_data_get   0x003894    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+            exec_data_put   0x0038ba    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+     exec_dflush_time_set   0x00338a    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+                exec_init   0x003238    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+        exec_packet_cbuf2   0x00375c    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+       exec_packet_finish   0x003748    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+         exec_packet_prep   0x00373a    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+         exec_packet_proc   0x003504    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+       exec_packet_status   0x0037a0    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+                 exec_svc   0x003278    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+                   isr_hi   0x007d6c    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\main.c
+                   isr_lo   0x007d72    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\main.c
+             led_1_config   0x0050c0    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\led2.c
+             led_2_config   0x0050f8    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\led2.c
+                 led_init   0x0050ae    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\led2.c
+                  led_svc   0x005130    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\led2.c
+                     loop   0x007fe0    program     static                          
+                     main   0x007d02    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\main.c
+                     test   0x005446    program     static                          
+              timer0_init   0x0051a4    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+         timer0_reg_clear   0x00527a    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+          timer0_reg_read   0x00525e    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+               timer0_svc   0x0051c2    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+              timer3_init   0x0054ca    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer3.c
+               timer3_set   0x0054d0    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer3.c
+              timer3_wait   0x005528    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer3.c
+             usb_bdt_load   0x004d12    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+          usb_detach_soft   0x004cd6    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+           usb_dsc_cfg_01   0x00539d    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb_data_constants.c
+              usb_dsc_dev   0x00538b    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb_data_constants.c
+       usb_dsc_hid_rpt_01   0x00536e    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb_data_constants.c
+           usb_dsc_str_00   0x0053c6    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb_data_constants.c
+           usb_dsc_str_01   0x0053ca    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb_data_constants.c
+           usb_dsc_str_02   0x0053fe    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb_data_constants.c
+        usb_ep0_in_finish   0x005090    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+        usb_ep0_load_0len   0x005084    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+       usb_ep0_load_flash   0x005016    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+  usb_ep0_load_flash_init   0x005008    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+       usb_ep0_out_finish   0x0050a0    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+  usb_ep0_trn_unsupported   0x005080    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+            usb_ep1_check   0x007e6e    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+        usb_ep1_in_finish   0x007e9c    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+           usb_ep1_in_put   0x007f1c    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+       usb_ep1_out_finish   0x007eac    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+          usb_ep1_out_get   0x007ebc    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+                 usb_init   0x004ce4    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+                  usb_isr   0x004d52    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+       usb_module_disable   0x004cda    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+                usb_reset   0x004cfe    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+                  usb_svc   0x004dc0    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+                  usb_trn   0x004dec    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+       usb_trn_control_in   0x004e16    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+      usb_trn_control_out   0x004e14    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+            usb_trn_setup   0x004e40    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+ usb_trn_setup_class_intf   0x004ed8    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+usb_trn_setup_class_intf_getreport   0x004ef2    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+    usb_trn_setup_std_dev   0x004e68    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+usb_trn_setup_std_dev_getdsc   0x004f1a    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+usb_trn_setup_std_dev_getstring   0x004fb0    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+   usb_trn_setup_std_intf   0x004ec6    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+usb_trn_setup_std_intf_getdsc   0x004f8c    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+            vector_isr_hi   0x002008    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\main.c
+            vector_isr_lo   0x002018    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\main.c
+                vsrc_init   0x00528a    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\vsrc.c
+             vsrc_pwm_off   0x005360    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\vsrc.c
+                vsrc_read   0x0052a4    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\vsrc.c
+             vsrc_set_off   0x005300    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\vsrc.c
+              vsrc_set_on   0x0052f2    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\vsrc.c
+             vsrc_set_var   0x00530a    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\vsrc.c
+                   ADCON0   0x000fc2       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+               ADCON0bits   0x000fc2       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   ADCON1   0x000fc1       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+               ADCON1bits   0x000fc1       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   ADCON2   0x000fc0       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+               ADCON2bits   0x000fc0       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    ADRES   0x000fc3       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   ADRESH   0x000fc4       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   ADRESL   0x000fc3       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  BAUDCON   0x000fb8       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+              BAUDCONbits   0x000fb8       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                      BSR   0x000fe0       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   CCP1AS   0x000fb6       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+               CCP1ASbits   0x000fb6       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  CCP1CON   0x000fbd       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+              CCP1CONbits   0x000fbd       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  CCP1DEL   0x000fb7       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+              CCP1DELbits   0x000fb7       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  CCP2CON   0x000fba       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+              CCP2CONbits   0x000fba       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    CCPR1   0x000fbe       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   CCPR1H   0x000fbf       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   CCPR1L   0x000fbe       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    CCPR2   0x000fbb       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   CCPR2H   0x000fbc       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   CCPR2L   0x000fbb       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    CMCON   0x000fb4       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                CMCONbits   0x000fb4       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   CVRCON   0x000fb5       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+               CVRCONbits   0x000fb5       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     DDRA   0x000f92       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 DDRAbits   0x000f92       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     DDRB   0x000f93       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 DDRBbits   0x000f93       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     DDRC   0x000f94       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 DDRCbits   0x000f94       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  ECCP1AS   0x000fb6       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+              ECCP1ASbits   0x000fb6       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 ECCP1DEL   0x000fb7       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+             ECCP1DELbits   0x000fb7       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    EEADR   0x000fa9       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   EECON1   0x000fa6       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+               EECON1bits   0x000fa6       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   EECON2   0x000fa7       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   EEDATA   0x000fa8       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     FSR0   0x000fe9       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    FSR0H   0x000fea       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    FSR0L   0x000fe9       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     FSR1   0x000fe1       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    FSR1H   0x000fe2       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    FSR1L   0x000fe1       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     FSR2   0x000fd9       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    FSR2H   0x000fda       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    FSR2L   0x000fd9       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  HLVDCON   0x000fd2       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+              HLVDCONbits   0x000fd2       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    INDF0   0x000fef       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    INDF1   0x000fe7       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    INDF2   0x000fdf       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   INTCON   0x000ff2       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  INTCON2   0x000ff1       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+              INTCON2bits   0x000ff1       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  INTCON3   0x000ff0       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+              INTCON3bits   0x000ff0       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+               INTCONbits   0x000ff2       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     IPR1   0x000f9f       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 IPR1bits   0x000f9f       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     IPR2   0x000fa2       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 IPR2bits   0x000fa2       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     LATA   0x000f89       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 LATAbits   0x000f89       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     LATB   0x000f8a       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 LATBbits   0x000f8a       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     LATC   0x000f8b       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 LATCbits   0x000f8b       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   LVDCON   0x000fd2       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+               LVDCONbits   0x000fd2       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   OSCCON   0x000fd3       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+               OSCCONbits   0x000fd3       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  OSCTUNE   0x000f9b       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+              OSCTUNEbits   0x000f9b       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                       PC   0x000ff9       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                      PCL   0x000ff9       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   PCLATH   0x000ffa       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   PCLATU   0x000ffb       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     PIE1   0x000f9d       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 PIE1bits   0x000f9d       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     PIE2   0x000fa0       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 PIE2bits   0x000fa0       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     PIR1   0x000f9e       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 PIR1bits   0x000f9e       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     PIR2   0x000fa1       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 PIR2bits   0x000fa1       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   PLUSW0   0x000feb       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   PLUSW1   0x000fe3       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   PLUSW2   0x000fdb       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    PORTA   0x000f80       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                PORTAbits   0x000f80       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    PORTB   0x000f81       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                PORTBbits   0x000f81       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    PORTC   0x000f82       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                PORTCbits   0x000f82       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    PORTE   0x000f84       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                PORTEbits   0x000f84       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 POSTDEC0   0x000fed       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 POSTDEC1   0x000fe5       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 POSTDEC2   0x000fdd       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 POSTINC0   0x000fee       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 POSTINC1   0x000fe6       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 POSTINC2   0x000fde       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                      PR2   0x000fcb       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  PREINC0   0x000fec       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  PREINC1   0x000fe4       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  PREINC2   0x000fdc       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     PROD   0x000ff3       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    PRODH   0x000ff4       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    PRODL   0x000ff3       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     RCON   0x000fd0       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 RCONbits   0x000fd0       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    RCREG   0x000fae       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    RCSTA   0x000fab       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                RCSTAbits   0x000fab       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     SIGN   0x000000       data     extern C:\MCC18\SRC\TRADIT~1\MATH\cmath18.asm
+                    SPBRG   0x000faf       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   SPBRGH   0x000fb0       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   SSPADD   0x000fc8       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   SSPBUF   0x000fc9       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  SSPCON1   0x000fc6       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+              SSPCON1bits   0x000fc6       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  SSPCON2   0x000fc5       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+              SSPCON2bits   0x000fc5       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  SSPSTAT   0x000fc7       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+              SSPSTATbits   0x000fc7       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   STATUS   0x000fd8       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+               STATUSbits   0x000fd8       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   STKPTR   0x000ffc       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+               STKPTRbits   0x000ffc       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    T0CON   0x000fd5       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                T0CONbits   0x000fd5       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    T1CON   0x000fcd       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                T1CONbits   0x000fcd       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    T2CON   0x000fca       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                T2CONbits   0x000fca       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    T3CON   0x000fb1       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                T3CONbits   0x000fb1       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   TABLAT   0x000ff5       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   TBLPTR   0x000ff6       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  TBLPTRH   0x000ff7       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  TBLPTRL   0x000ff6       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  TBLPTRU   0x000ff8       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    TMR0H   0x000fd7       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    TMR0L   0x000fd6       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    TMR1H   0x000fcf       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    TMR1L   0x000fce       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     TMR2   0x000fcc       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    TMR3H   0x000fb3       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    TMR3L   0x000fb2       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                      TOS   0x000ffd       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     TOSH   0x000ffe       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     TOSL   0x000ffd       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     TOSU   0x000fff       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    TRISA   0x000f92       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                TRISAbits   0x000f92       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    TRISB   0x000f93       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                TRISBbits   0x000f93       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    TRISC   0x000f94       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                TRISCbits   0x000f94       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    TXREG   0x000fad       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    TXSTA   0x000fac       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                TXSTAbits   0x000fac       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    UADDR   0x000f6e       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                UADDRbits   0x000f6e       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     UCFG   0x000f6f       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 UCFGbits   0x000f6f       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     UCON   0x000f6d       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 UCONbits   0x000f6d       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     UEIE   0x000f6b       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 UEIEbits   0x000f6b       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     UEIR   0x000f6a       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 UEIRbits   0x000f6a       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     UEP0   0x000f70       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 UEP0bits   0x000f70       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     UEP1   0x000f71       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    UEP10   0x000f7a       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                UEP10bits   0x000f7a       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    UEP11   0x000f7b       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                UEP11bits   0x000f7b       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    UEP12   0x000f7c       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                UEP12bits   0x000f7c       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    UEP13   0x000f7d       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                UEP13bits   0x000f7d       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    UEP14   0x000f7e       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                UEP14bits   0x000f7e       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    UEP15   0x000f7f       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                UEP15bits   0x000f7f       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 UEP1bits   0x000f71       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     UEP2   0x000f72       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 UEP2bits   0x000f72       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     UEP3   0x000f73       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 UEP3bits   0x000f73       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     UEP4   0x000f74       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 UEP4bits   0x000f74       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     UEP5   0x000f75       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 UEP5bits   0x000f75       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     UEP6   0x000f76       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 UEP6bits   0x000f76       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     UEP7   0x000f77       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 UEP7bits   0x000f77       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     UEP8   0x000f78       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 UEP8bits   0x000f78       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     UEP9   0x000f79       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 UEP9bits   0x000f79       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     UFRM   0x000f66       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    UFRMH   0x000f67       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                UFRMHbits   0x000f67       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    UFRML   0x000f66       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                UFRMLbits   0x000f66       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                      UIE   0x000f69       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  UIEbits   0x000f69       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                      UIR   0x000f68       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  UIRbits   0x000f68       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    USTAT   0x000f6c       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                USTATbits   0x000f6c       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   WDTCON   0x000fd1       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+               WDTCONbits   0x000fd1       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     WREG   0x000fe8       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 __AARGB0   0x000009       data     extern C:\MCC18\SRC\TRADIT~1\MATH\aarg.asm
+                 __AARGB1   0x000008       data     extern C:\MCC18\SRC\TRADIT~1\MATH\aarg.asm
+                 __AARGB2   0x000007       data     extern C:\MCC18\SRC\TRADIT~1\MATH\aarg.asm
+                 __AARGB3   0x000006       data     extern C:\MCC18\SRC\TRADIT~1\MATH\aarg.asm
+                 __AARGB4   0x000005       data     extern C:\MCC18\SRC\TRADIT~1\MATH\aarg.asm
+                 __AARGB5   0x000004       data     extern C:\MCC18\SRC\TRADIT~1\MATH\aarg.asm
+                 __AARGB6   0x000003       data     extern C:\MCC18\SRC\TRADIT~1\MATH\aarg.asm
+                 __AARGB7   0x000002       data     extern C:\MCC18\SRC\TRADIT~1\MATH\aarg.asm
+                   __AEXP   0x00000a       data     extern C:\MCC18\SRC\TRADIT~1\MATH\aarg.asm
+                 __BARGB0   0x00000e       data     extern C:\MCC18\SRC\TRADIT~1\MATH\barg.asm
+                 __BARGB1   0x00000d       data     extern C:\MCC18\SRC\TRADIT~1\MATH\barg.asm
+                 __BARGB2   0x00000c       data     extern C:\MCC18\SRC\TRADIT~1\MATH\barg.asm
+                 __BARGB3   0x00000b       data     extern C:\MCC18\SRC\TRADIT~1\MATH\barg.asm
+                   __BEXP   0x00000f       data     extern C:\MCC18\SRC\TRADIT~1\MATH\barg.asm
+                __FPFLAGS   0x000001       data     extern C:\MCC18\SRC\TRADIT~1\MATH\cmath18.asm
+            __FPFLAGSbits   0x000001       data     extern C:\MCC18\SRC\TRADIT~1\MATH\cmath18.asm
+                  __REMB0   0x000005       data     extern C:\MCC18\SRC\TRADIT~1\MATH\aarg.asm
+                  __REMB1   0x000004       data     extern C:\MCC18\SRC\TRADIT~1\MATH\aarg.asm
+                  __REMB2   0x000003       data     extern C:\MCC18\SRC\TRADIT~1\MATH\aarg.asm
+                  __REMB3   0x000002       data     extern C:\MCC18\SRC\TRADIT~1\MATH\aarg.asm
+                   __TEMP   0x000013       data     extern C:\MCC18\SRC\TRADIT~1\MATH\temparg.asm
+                 __TEMPB0   0x000013       data     extern C:\MCC18\SRC\TRADIT~1\MATH\temparg.asm
+                 __TEMPB1   0x000012       data     extern C:\MCC18\SRC\TRADIT~1\MATH\temparg.asm
+                 __TEMPB2   0x000011       data     extern C:\MCC18\SRC\TRADIT~1\MATH\temparg.asm
+                 __TEMPB3   0x000010       data     extern C:\MCC18\SRC\TRADIT~1\MATH\temparg.asm
+            __ee_read16:0   0x0000ec       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\ee_util.c
+              __ee_read:0   0x0000ed       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\ee_util.c
+             __ee_write:0   0x0000ee       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\ee_util.c
+             __ee_write:1   0x0000ef       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\ee_util.c
+                  __tmp_0   0x000014       data     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+                  __tmp_0   0x000014       data     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_i2cs.c
+                  __tmp_0   0x000014       data     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_lin.c
+                  __tmp_0   0x000014       data     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\cbuf.c
+                 arg_addr   0x0000ec       data     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\ee_util.c
+                 arg_addr   0x0000ee       data     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\ee_util.c
+                 arg_addr   0x0000ed       data     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\ee_util.c
+                 arg_data   0x0000ef       data     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\ee_util.c
+                    cbuf1   0x0000fc       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\cbuf.c
+               cbuf1_data   0x000600       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\cbuf.c
+                    cbuf2   0x0000f8       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\cbuf.c
+               cbuf2_data   0x000200       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\cbuf.c
+                    cbuf3   0x0000f4       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\cbuf.c
+               cbuf3_data   0x000100       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\cbuf.c
+        comm_cmnd_count_1   0x00009e       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+        comm_cmnd_count_2   0x00009f       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+  comm_cmnd_macro_count_1   0x0000a0       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+  comm_cmnd_macro_count_2   0x0000a1       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+                comm_data   0x00009b       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+              comm_data_2   0x00009c       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+              comm_data_3   0x00009d       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+            comm_data_sim   0x0000b8       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+            comm_flags1_B   0x0000a6       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+            comm_flags2_B   0x0000a7       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+     comm_macro_count_1_W   0x0000a2       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+     comm_macro_count_2_W   0x0000a4       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+               comm_state   0x00009a       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+                comm_temp   0x0000b9       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+             comm_varbs_B   0x0000a8       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+                curr_byte   0x0000e3       data     static C:\MCC18\src\traditional\startup\c018i.c
+               curr_entry   0x0000e5       data     static C:\MCC18\src\traditional\startup\c018i.c
+                 data_ptr   0x0000e7       data     static C:\MCC18\src\traditional\startup\c018i.c
+                ee_data_W   0x0000ea       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\ee_util.c
+           exec_control_B   0x000067       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+               exec_count   0x000064       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+                exec_data   0x000066       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+          exec_data_count   0x000063       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+              exec_data_p   0x000061       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+             exec_debug_1   0x000096       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+             exec_debug_2   0x000097       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+             exec_debug_3   0x000098       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+               exec_flags   0x000060       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+            exec_status_B   0x00007f       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+           exec_status_id   0x000099       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+       exec_status_save_1   0x000093       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+       exec_status_save_2   0x000094       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+       exec_status_save_3   0x000095       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+                 exec_tag   0x000065       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+             led_1_conf_B   0x0000f0       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\led2.c
+             led_1_oper_B   0x0000f1       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\led2.c
+             led_2_conf_B   0x0000f2       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\led2.c
+             led_2_oper_B   0x0000f3       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\led2.c
+                     prom   0x0000e0       data     static C:\MCC18\src\traditional\startup\c018i.c
+                   temp_1   0x000702       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\main.c
+                   temp_2   0x000703       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\main.c
+                timer0_A0   0x0000ba       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+                timer0_A1   0x0000bb       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+                timer0_A2   0x0000bc       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+                timer0_A3   0x0000bd       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+                timer0_A4   0x0000be       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+                timer0_AB   0x0000ce       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+             timer0_AB0_W   0x0000c6       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+             timer0_AB1_W   0x0000c8       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+             timer0_AB2_W   0x0000ca       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+             timer0_AB3_W   0x0000cc       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+                timer0_B0   0x0000bf       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+                timer0_B1   0x0000c0       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+                timer0_B2   0x0000c1       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+                timer0_B3   0x0000c2       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+                timer0_B4   0x0000c3       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+                timer0_BC   0x0000cf       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+                timer0_C0   0x0000c4       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+                timer0_C1   0x0000c5       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+           timer0_flags_B   0x0000d0       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+               timer0_reg   0x0000d1       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+                 usb_addr   0x0000d5       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+           usb_bdt_ep0_in   0x000404       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+          usb_bdt_ep0_out   0x000400       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+           usb_bdt_ep1_in   0x00040c       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+          usb_bdt_ep1_out   0x000408       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+           usb_buf_ep0_in   0x000540       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+          usb_buf_ep0_out   0x000500       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+           usb_buf_ep1_in   0x0005c0       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+          usb_buf_ep1_out   0x000580       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+               usb_config   0x0000d7       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+                usb_count   0x0000de       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+           usb_count_temp   0x0000df       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+                usb_dst_p   0x0000db       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+              usb_flags_B   0x0000d6       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+                usb_src_p   0x0000d8       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+                usb_state   0x0000d4       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+         vsrc_fault_count   0x000701       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\vsrc.c
+             vsrc_flags_B   0x000700       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\vsrc.c
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   _entry   0x000000    program     extern C:\MCC18\src\traditional\startup\c018i.c
+       ___return_lbl00000   0x000004    program     static                          
+            _vector_reset   0x002000    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\main.c
+       ___return_lbl00003   0x002004    program     static                          
+            vector_isr_hi   0x002008    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\main.c
+       ___return_lbl00004   0x00200e    program     static                          
+            vector_isr_lo   0x002018    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\main.c
+       ___return_lbl00005   0x00201c    program     static                          
+                comm_init   0x00202a    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+           comm_gen_reset   0x002038    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+          comm_gen_config   0x002056    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+               comm_clear   0x002060    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+         comm_varbs_clear   0x0020fc    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+           comm_init_mode   0x002120    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+       ___case_0_lbl00019   0x002162    program     static                          
+       ___case_1_lbl00021   0x002164    program     static                          
+           ___if_lbl00020   0x002170    program     static                          
+       ___case_3_lbl00023   0x002172    program     static                          
+      ___case_11_lbl00022   0x002172    program     static                          
+       ___case_2_lbl00024   0x002172    program     static                          
+           ___if_lbl00025   0x002180    program     static                          
+       ___case_4_lbl00029   0x002182    program     static                          
+       ___case_6_lbl00027   0x002182    program     static                          
+       ___case_5_lbl00028   0x002182    program     static                          
+           ___if_lbl00026   0x00218e    program     static                          
+       ___case_7_lbl00031   0x002190    program     static                          
+           ___if_lbl00030   0x00219c    program     static                          
+      ___case_10_lbl00033   0x00219e    program     static                          
+           ___if_lbl00032   0x0021aa    program     static                          
+      ___default_lbl00034   0x0021ac    program     static                          
+   ___switchexit_lbl00018   0x0021b2    program     static                          
+       ___return_lbl00017   0x0021be    program     static                          
+           ___if_lbl00035   0x0021be    program     static                          
+                 comm_svc   0x0021ca    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+         ___else_lbl00038   0x0021e8    program     static                          
+           ___if_lbl00037   0x0021ec    program     static                          
+         ___else_lbl00040   0x0021ee    program     static                          
+           ___if_lbl00041   0x0021f2    program     static                          
+           ___if_lbl00039   0x0021f2    program     static                          
+         ___else_lbl00043   0x002218    program     static                          
+           ___if_lbl00044   0x00221c    program     static                          
+           ___if_lbl00042   0x00221c    program     static                          
+         ___else_lbl00046   0x002226    program     static                          
+           ___if_lbl00045   0x002228    program     static                          
+           ___if_lbl00047   0x002230    program     static                          
+           ___do_lbl00062   0x002230    program     static                          
+       ___case_1_lbl00051   0x002266    program     static                          
+       ___case_2_lbl00053   0x00226c    program     static                          
+      ___case_11_lbl00052   0x00226c    program     static                          
+       ___case_5_lbl00055   0x002272    program     static                          
+       ___case_6_lbl00054   0x002272    program     static                          
+       ___case_4_lbl00056   0x002272    program     static                          
+       ___case_7_lbl00057   0x002278    program     static                          
+      ___case_10_lbl00058   0x00227e    program     static                          
+      ___default_lbl00059   0x002284    program     static                          
+   ___switchexit_lbl00050   0x002284    program     static                          
+         ___else_lbl00061   0x002286    program     static                          
+           ___do_lbl00048   0x002288    program     static                          
+           ___if_lbl00060   0x002288    program     static                          
+           ___do_lbl00049   0x00228e    program     static                          
+           ___if_lbl00063   0x002294    program     static                          
+           ___if_lbl00064   0x0022b4    program     static                          
+           ___if_lbl00065   0x0022b8    program     static                          
+           ___if_lbl00066   0x0022b8    program     static                          
+           ___if_lbl00067   0x0022d8    program     static                          
+           ___if_lbl00068   0x0022dc    program     static                          
+           ___if_lbl00069   0x0022dc    program     static                          
+       ___case_1_lbl00071   0x002302    program     static                          
+      ___case_11_lbl00072   0x002308    program     static                          
+       ___case_2_lbl00073   0x002308    program     static                          
+       ___case_6_lbl00074   0x00230e    program     static                          
+       ___case_4_lbl00076   0x00230e    program     static                          
+       ___case_5_lbl00075   0x00230e    program     static                          
+       ___case_7_lbl00077   0x002314    program     static                          
+      ___case_10_lbl00078   0x00231a    program     static                          
+      ___default_lbl00079   0x002320    program     static                          
+   ___switchexit_lbl00070   0x002320    program     static                          
+       ___return_lbl00036   0x00232e    program     static                          
+           ___if_lbl00080   0x00232e    program     static                          
+                 comm_gen   0x002330    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+            comm_data_get   0x0026cc    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+          comm_post_cbuf2   0x00272c    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+     comm_post_cbuf2_time   0x002760    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+          comm_post_cbuf3   0x00278c    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+       comm_led_busy_data   0x0027c0    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+          comm_post_event   0x0027d2    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+       comm_post_event_1b   0x002818    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+       comm_post_event_2b   0x002868    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+           comm_post_data   0x0028c2    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+     comm_post_event_time   0x0028ee    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+ comm_post_event_time_get   0x002924    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+            comm_lin_init   0x002956    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_lin.c
+           comm_lin_reset   0x00296a    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_lin.c
+          comm_lin_config   0x00297e    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_lin.c
+           comm_lin_clear   0x002994    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_lin.c
+             comm_lin_svc   0x002a04    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_lin.c
+        ___while_lbl00012   0x002a0c    program     static                          
+        ___while_lbl00013   0x002a14    program     static                          
+           ___if_lbl00014   0x002a18    program     static                          
+         ___else_lbl00016   0x002a22    program     static                          
+           ___if_lbl00015   0x002a24    program     static                          
+     ___case_128_lbl00018   0x002a56    program     static                          
+     ___case_130_lbl00024   0x002a5a    program     static                          
+     ___case_131_lbl00023   0x002a5a    program     static                          
+     ___case_132_lbl00022   0x002a5a    program     static                          
+           ___if_lbl00019   0x002a64    program     static                          
+           ___if_lbl00020   0x002a8a    program     static                          
+           ___if_lbl00021   0x002a8c    program     static                          
+           ___if_lbl00025   0x002aa6    program     static                          
+           ___if_lbl00026   0x002aa8    program     static                          
+           ___if_lbl00027   0x002ab4    program     static                          
+     ___case_129_lbl00032   0x002aba    program     static                          
+           ___if_lbl00028   0x002ac4    program     static                          
+         ___else_lbl00030   0x002ad6    program     static                          
+           ___if_lbl00029   0x002ad8    program     static                          
+           ___if_lbl00031   0x002ad8    program     static                          
+         ___else_lbl00034   0x002af6    program     static                          
+           ___if_lbl00033   0x002af8    program     static                          
+         ___else_lbl00041   0x002afa    program     static                          
+           ___if_lbl00035   0x002b0e    program     static                          
+         ___else_lbl00039   0x002b12    program     static                          
+           ___if_lbl00036   0x002b28    program     static                          
+           ___if_lbl00037   0x002b28    program     static                          
+           ___if_lbl00038   0x002b28    program     static                          
+           ___if_lbl00042   0x002b28    program     static                          
+           ___if_lbl00040   0x002b28    program     static                          
+     ___case_133_lbl00047   0x002b2a    program     static                          
+           ___if_lbl00043   0x002b48    program     static                          
+         ___else_lbl00046   0x002b4a    program     static                          
+           ___if_lbl00045   0x002b62    program     static                          
+           ___if_lbl00044   0x002b62    program     static                          
+     ___case_134_lbl00051   0x002b64    program     static                          
+           ___if_lbl00050   0x002b8a    program     static                          
+           ___if_lbl00049   0x002b8a    program     static                          
+           ___if_lbl00048   0x002b8a    program     static                          
+           ___if_lbl00053   0x002ba0    program     static                          
+           ___if_lbl00052   0x002ba0    program     static                          
+        ___while_lbl00054   0x002ba6    program     static                          
+         ___else_lbl00061   0x002bb8    program     static                          
+           ___if_lbl00056   0x002bea    program     static                          
+           ___if_lbl00057   0x002bea    program     static                          
+         ___else_lbl00059   0x002bec    program     static                          
+           ___if_lbl00060   0x002bee    program     static                          
+           ___if_lbl00058   0x002bee    program     static                          
+        ___while_lbl00055   0x002bf0    program     static                          
+           ___if_lbl00062   0x002bf0    program     static                          
+     ___case_135_lbl00068   0x002bf2    program     static                          
+        ___while_lbl00063   0x002c24    program     static                          
+        ___while_lbl00064   0x002c4c    program     static                          
+         ___else_lbl00066   0x002c4e    program     static                          
+           ___if_lbl00065   0x002c56    program     static                          
+           ___if_lbl00067   0x002c5e    program     static                          
+       ___case_0_lbl00069   0x002c60    program     static                          
+      ___default_lbl00070   0x002c62    program     static                          
+   ___switchexit_lbl00017   0x002c68    program     static                          
+           ___if_lbl00071   0x002c6e    program     static                          
+       ___return_lbl00011   0x002c6e    program     static                          
+        comm_lin_postproc   0x002c70    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_lin.c
+           ___if_lbl00073   0x002c8c    program     static                          
+               __tmplbl_1   0x002c9a    program     static                          
+               __tmplbl_0   0x002ca0    program     static                          
+           ___if_lbl00075   0x002cac    program     static                          
+           ___if_lbl00076   0x002cba    program     static                          
+           ___if_lbl00077   0x002cd4    program     static                          
+           ___if_lbl00078   0x002cdc    program     static                          
+       ___return_lbl00072   0x002cea    program     static                          
+           ___if_lbl00079   0x002cea    program     static                          
+ comm_lin_sp_iddef_search   0x002cf8    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_lin.c
+   comm_lin_sp_iddef_next   0x002d34    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_lin.c
+          comm_lin_rx_isr   0x002d98    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_lin.c
+           ___if_lbl00087   0x002db2    program     static                          
+           ___if_lbl00088   0x002dba    program     static                          
+               __tmplbl_3   0x002dc8    program     static                          
+               __tmplbl_2   0x002dd4    program     static                          
+           ___if_lbl00090   0x002dec    program     static                          
+               __tmplbl_5   0x002e10    program     static                          
+               __tmplbl_4   0x002e1c    program     static                          
+        ___while_lbl00092   0x002e30    program     static                          
+           ___if_lbl00094   0x002e3e    program     static                          
+        ___while_lbl00093   0x002e40    program     static                          
+        ___while_lbl00095   0x002e66    program     static                          
+           ___if_lbl00097   0x002e8a    program     static                          
+           ___if_lbl00098   0x002e8e    program     static                          
+         ___else_lbl00101   0x002e90    program     static                          
+           ___if_lbl00099   0x002e9c    program     static                          
+           ___if_lbl00100   0x002e9c    program     static                          
+        ___while_lbl00096   0x002e9e    program     static                          
+           ___if_lbl00102   0x002ea8    program     static                          
+           ___if_lbl00103   0x002eb4    program     static                          
+         ___else_lbl00105   0x002ef6    program     static                          
+           ___if_lbl00104   0x002f0e    program     static                          
+           ___if_lbl00106   0x002f36    program     static                          
+           ___if_lbl00107   0x002f3a    program     static                          
+           ___if_lbl00108   0x002f3a    program     static                          
+           ___if_lbl00109   0x002f52    program     static                          
+         ___else_lbl00111   0x002f54    program     static                          
+           ___if_lbl00110   0x002f58    program     static                          
+           ___if_lbl00113   0x002f74    program     static                          
+           ___if_lbl00112   0x002f74    program     static                          
+         ___else_lbl00137   0x002f76    program     static                          
+         ___else_lbl00135   0x002f8c    program     static                          
+           ___if_lbl00114   0x002fb2    program     static                          
+           ___if_lbl00115   0x002fee    program     static                          
+           ___if_lbl00116   0x002fee    program     static                          
+               __tmplbl_7   0x00300a    program     static                          
+               __tmplbl_6   0x003012    program     static                          
+           ___if_lbl00118   0x00301c    program     static                          
+         ___else_lbl00120   0x00302a    program     static                          
+           ___if_lbl00121   0x00302e    program     static                          
+           ___if_lbl00119   0x00302e    program     static                          
+           ___if_lbl00122   0x00302e    program     static                          
+         ___else_lbl00133   0x003030    program     static                          
+           ___if_lbl00123   0x003070    program     static                          
+         ___else_lbl00129   0x00308c    program     static                          
+         ___else_lbl00126   0x0030a0    program     static                          
+           ___if_lbl00127   0x0030b6    program     static                          
+           ___if_lbl00125   0x0030b6    program     static                          
+           ___if_lbl00124   0x0030b6    program     static                          
+           ___if_lbl00128   0x0030ba    program     static                          
+           ___if_lbl00130   0x0030ba    program     static                          
+       ___return_lbl00086   0x0030ba    program     static                          
+           ___if_lbl00131   0x0030ba    program     static                          
+           ___if_lbl00132   0x0030ba    program     static                          
+           ___if_lbl00136   0x0030ba    program     static                          
+           ___if_lbl00134   0x0030ba    program     static                          
+          comm_lin_tx_isr   0x0030c8    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_lin.c
+          comm_lin_svc_tx   0x003150    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_lin.c
+              comm_lin_tx   0x00315e    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_lin.c
+          comm_lin_parity   0x003198    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_lin.c
+                exec_init   0x003238    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+                 exec_svc   0x003278    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+     exec_dflush_time_set   0x00338a    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+           exec_cmnd_proc   0x003398    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+       ___case_0_lbl00033   0x0033d2    program     static                          
+       ___case_1_lbl00034   0x0033d6    program     static                          
+       ___case_2_lbl00035   0x0033e2    program     static                          
+       ___case_3_lbl00036   0x0033e8    program     static                          
+       ___case_4_lbl00037   0x0033ec    program     static                          
+       ___case_5_lbl00038   0x0033f0    program     static                          
+       ___case_6_lbl00039   0x0033f6    program     static                          
+       ___case_7_lbl00040   0x0033fc    program     static                          
+       ___case_9_lbl00041   0x003402    program     static                          
+   ___switchexit_lbl00032   0x003410    program     static                          
+       ___return_lbl00031   0x003410    program     static                          
+             exec_cb_load   0x00341c    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+        exec_cb_load_dflt   0x003430    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+         exec_cb_ee_write   0x003486    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+          exec_cb_ee_read   0x0034be    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+         exec_packet_proc   0x003504    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+        ___while_lbl00055   0x00350c    program     static                          
+               __tmplbl_3   0x003518    program     static                          
+               __tmplbl_2   0x003524    program     static                          
+           ___if_lbl00058   0x003530    program     static                          
+       ___case_0_lbl00060   0x003584    program     static                          
+       ___case_1_lbl00063   0x00358a    program     static                          
+         ___else_lbl00062   0x00359a    program     static                          
+           ___if_lbl00061   0x00359e    program     static                          
+       ___case_2_lbl00064   0x0035a0    program     static                          
+        ___while_lbl00065   0x0035a8    program     static                          
+         ___else_lbl00068   0x0035ce    program     static                          
+           ___if_lbl00067   0x0035d8    program     static                          
+        ___while_lbl00066   0x0035da    program     static                          
+       ___case_3_lbl00075   0x0035dc    program     static                          
+        ___while_lbl00069   0x0035ee    program     static                          
+         ___else_lbl00072   0x003602    program     static                          
+           ___if_lbl00071   0x003606    program     static                          
+        ___while_lbl00070   0x003608    program     static                          
+         ___else_lbl00074   0x00360a    program     static                          
+           ___if_lbl00073   0x00360e    program     static                          
+       ___case_4_lbl00084   0x003610    program     static                          
+        ___while_lbl00076   0x00361a    program     static                          
+         ___else_lbl00079   0x00363c    program     static                          
+           ___if_lbl00078   0x003644    program     static                          
+         ___else_lbl00081   0x003646    program     static                          
+           ___if_lbl00080   0x00364a    program     static                          
+        ___while_lbl00077   0x00364c    program     static                          
+         ___else_lbl00083   0x00364e    program     static                          
+           ___if_lbl00082   0x003652    program     static                          
+       ___case_5_lbl00093   0x003654    program     static                          
+        ___while_lbl00085   0x00365e    program     static                          
+         ___else_lbl00088   0x003680    program     static                          
+           ___if_lbl00087   0x003688    program     static                          
+         ___else_lbl00090   0x00368a    program     static                          
+           ___if_lbl00089   0x00368e    program     static                          
+        ___while_lbl00086   0x003690    program     static                          
+         ___else_lbl00092   0x003692    program     static                          
+           ___if_lbl00091   0x003696    program     static                          
+       ___case_6_lbl00096   0x003698    program     static                          
+         ___else_lbl00095   0x0036aa    program     static                          
+           ___if_lbl00094   0x0036ae    program     static                          
+       ___case_7_lbl00099   0x0036b0    program     static                          
+         ___else_lbl00098   0x0036c2    program     static                          
+           ___if_lbl00097   0x0036c6    program     static                          
+       ___case_8_lbl00100   0x0036c8    program     static                          
+       ___case_9_lbl00101   0x0036ce    program     static                          
+      ___case_10_lbl00102   0x0036d4    program     static                          
+      ___case_98_lbl00103   0x0036da    program     static                          
+      ___case_66_lbl00104   0x0036da    program     static                          
+        ___while_lbl00105   0x003702    program     static                          
+        ___while_lbl00106   0x00370e    program     static                          
+      ___case_11_lbl00109   0x003712    program     static                          
+         ___else_lbl00108   0x003722    program     static                          
+           ___if_lbl00107   0x003726    program     static                          
+      ___case_12_lbl00110   0x003728    program     static                          
+      ___default_lbl00111   0x003730    program     static                          
+   ___switchexit_lbl00059   0x003736    program     static                          
+        ___while_lbl00056   0x003738    program     static                          
+       ___return_lbl00054   0x003738    program     static                          
+         exec_packet_prep   0x00373a    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+       exec_packet_finish   0x003748    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+        exec_packet_cbuf2   0x00375c    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+       exec_packet_status   0x0037a0    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+            exec_data_get   0x003894    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+            exec_data_put   0x0038ba    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+           exec_cbuf1_put   0x0038ec    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+           comm_i2cs_init   0x003920    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_i2cs.c
+          comm_i2cs_reset   0x00392c    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_i2cs.c
+ comm_i2cs_pro_get_regdef   0x00395c    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_i2cs.c
+  comm_i2cs_pro_get_slave   0x0039ae    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_i2cs.c
+        comm_i2cs_pro_get   0x0039dc    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_i2cs.c
+            comm_i2cs_isr   0x003a66    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_i2cs.c
+      comm_i2cs_data_send   0x003c80    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_i2cs.c
+       comm_i2cs_postproc   0x003c9e    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_i2cs.c
+            comm_i2cs_svc   0x003d4c    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_i2cs.c
+           comm_i2cs_dint   0x003f0e    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_i2cs.c
+           comm_i2cm_init   0x003f60    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_i2cm.c
+          comm_i2cm_reset   0x003fc0    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_i2cm.c
+       comm_i2cm_postproc   0x003fda    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_i2cm.c
+        comm_i2cm_adc_bus   0x00406c    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_i2cm.c
+            comm_i2cm_svc   0x004090    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_i2cm.c
+          comm_usart_init   0x004470    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_usart.c
+        comm_usart_config   0x00447a    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_usart.c
+         comm_usart_reset   0x004508    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_usart.c
+         comm_usart_clear   0x004518    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_usart.c
+           comm_usart_svc   0x00453a    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_usart.c
+       comm_usart_rcv_isr   0x00481a    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_usart.c
+      comm_usart_postproc   0x004842    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_usart.c
+            comm_spi_init   0x0048b8    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_spi.c
+          comm_spi_config   0x0048c4    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_spi.c
+           comm_spi_clear   0x004986    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_spi.c
+           comm_spi_reset   0x0049d2    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_spi.c
+        comm_spi_postproc   0x0049ec    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_spi.c
+             comm_spi_svc   0x004a56    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_spi.c
+     ___case_137_lbl00033   0x004ab2    program     static                          
+     ___case_133_lbl00034   0x004aba    program     static                          
+     ___case_132_lbl00035   0x004acc    program     static                          
+     ___case_134_lbl00036   0x004ade    program     static                          
+     ___case_255_lbl00054   0x004af0    program     static                          
+         ___else_lbl00038   0x004b18    program     static                          
+           ___if_lbl00039   0x004b1a    program     static                          
+           ___if_lbl00037   0x004b1a    program     static                          
+           ___if_lbl00040   0x004b1a    program     static                          
+         ___else_lbl00053   0x004b1c    program     static                          
+           ___if_lbl00041   0x004b34    program     static                          
+           ___if_lbl00042   0x004b54    program     static                          
+         ___else_lbl00044   0x004b56    program     static                          
+           ___if_lbl00043   0x004b5e    program     static                          
+         ___else_lbl00051   0x004b68    program     static                          
+           ___if_lbl00045   0x004b6c    program     static                          
+           ___if_lbl00046   0x004b90    program     static                          
+           ___if_lbl00047   0x004b98    program     static                          
+         ___else_lbl00049   0x004bac    program     static                          
+           ___if_lbl00048   0x004bb2    program     static                          
+           ___if_lbl00050   0x004bb2    program     static                          
+           ___if_lbl00052   0x004bb2    program     static                          
+     ___case_131_lbl00059   0x004bb4    program     static                          
+           ___if_lbl00055   0x004bce    program     static                          
+         ___else_lbl00058   0x004bd0    program     static                          
+           ___if_lbl00056   0x004bf0    program     static                          
+           ___if_lbl00057   0x004bf0    program     static                          
+     ___case_135_lbl00060   0x004bf2    program     static                          
+     ___case_136_lbl00061   0x004bfe    program     static                          
+     ___case_139_lbl00066   0x004c0a    program     static                          
+         ___else_lbl00063   0x004c1a    program     static                          
+           ___if_lbl00062   0x004c1c    program     static                          
+         ___else_lbl00065   0x004c28    program     static                          
+           ___if_lbl00064   0x004c30    program     static                          
+     ___case_140_lbl00071   0x004c32    program     static                          
+         ___else_lbl00068   0x004c42    program     static                          
+           ___if_lbl00067   0x004c44    program     static                          
+         ___else_lbl00070   0x004c50    program     static                          
+           ___if_lbl00069   0x004c58    program     static                          
+     ___case_144_lbl00073   0x004c5a    program     static                          
+           ___if_lbl00072   0x004c60    program     static                          
+     ___case_145_lbl00075   0x004c6a    program     static                          
+           ___if_lbl00074   0x004c70    program     static                          
+     ___case_146_lbl00077   0x004c7a    program     static                          
+           ___if_lbl00076   0x004c80    program     static                          
+     ___case_147_lbl00079   0x004c8a    program     static                          
+           ___if_lbl00078   0x004c90    program     static                          
+     ___case_148_lbl00082   0x004c9a    program     static                          
+               __tmplbl_6   0x004ca0    program     static                          
+               __tmplbl_5   0x004caa    program     static                          
+           ___if_lbl00081   0x004cb2    program     static                          
+     ___case_149_lbl00085   0x004cb4    program     static                          
+               __tmplbl_8   0x004cba    program     static                          
+               __tmplbl_7   0x004cc4    program     static                          
+           ___if_lbl00084   0x004ccc    program     static                          
+      ___default_lbl00086   0x004cce    program     static                          
+       ___return_lbl00031   0x004cd4    program     static                          
+   ___switchexit_lbl00032   0x004cd4    program     static                          
+          usb_detach_soft   0x004cd6    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+       usb_module_disable   0x004cda    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+                 usb_init   0x004ce4    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+                usb_reset   0x004cfe    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+             usb_bdt_load   0x004d12    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+                  usb_isr   0x004d52    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+                  usb_svc   0x004dc0    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+                  usb_trn   0x004dec    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+      usb_trn_control_out   0x004e14    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+       usb_trn_control_in   0x004e16    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+            usb_trn_setup   0x004e40    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+    usb_trn_setup_std_dev   0x004e68    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+   usb_trn_setup_std_intf   0x004ec6    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+ usb_trn_setup_class_intf   0x004ed8    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+usb_trn_setup_class_intf_getreport   0x004ef2    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+usb_trn_setup_std_dev_getdsc   0x004f1a    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+usb_trn_setup_std_intf_getdsc   0x004f8c    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+usb_trn_setup_std_dev_getstring   0x004fb0    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+  usb_ep0_load_flash_init   0x005008    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+       usb_ep0_load_flash   0x005016    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+  usb_ep0_trn_unsupported   0x005080    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+        usb_ep0_load_0len   0x005084    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+        usb_ep0_in_finish   0x005090    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+       usb_ep0_out_finish   0x0050a0    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+                 led_init   0x0050ae    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\led2.c
+             led_1_config   0x0050c0    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\led2.c
+             led_2_config   0x0050f8    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\led2.c
+                  led_svc   0x005130    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\led2.c
+              timer0_init   0x0051a4    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+               timer0_svc   0x0051c2    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+          timer0_reg_read   0x00525e    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+         timer0_reg_clear   0x00527a    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+                vsrc_init   0x00528a    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\vsrc.c
+                vsrc_read   0x0052a4    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\vsrc.c
+              vsrc_set_on   0x0052f2    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\vsrc.c
+             vsrc_set_off   0x005300    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\vsrc.c
+             vsrc_set_var   0x00530a    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\vsrc.c
+             vsrc_pwm_off   0x005360    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\vsrc.c
+       usb_dsc_hid_rpt_01   0x00536e    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb_data_constants.c
+              usb_dsc_dev   0x00538b    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb_data_constants.c
+           usb_dsc_cfg_01   0x00539d    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb_data_constants.c
+           usb_dsc_str_00   0x0053c6    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb_data_constants.c
+           usb_dsc_str_01   0x0053ca    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb_data_constants.c
+           usb_dsc_str_02   0x0053fe    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb_data_constants.c
+                _do_cinit   0x00542c    program     extern C:\MCC18\src\traditional\startup\c018i.c
+                     test   0x005446    program     static                          
+                copy_loop   0x00549e    program     static                          
+            copy_one_byte   0x0054a4    program     static                          
+             done_copying   0x0054b2    program     static                          
+                     done   0x0054c8    program     static                          
+       ___return_lbl00002   0x0054c8    program     static                          
+              timer3_init   0x0054ca    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer3.c
+               timer3_set   0x0054d0    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer3.c
+              timer3_wait   0x005528    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer3.c
+               cbuf3_init   0x00555a    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\cbuf.c
+                cbuf3_get   0x005566    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\cbuf.c
+                cbuf3_put   0x005596    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\cbuf.c
+               cbuf2_init   0x0055e4    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\cbuf.c
+                cbuf2_get   0x0055f0    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\cbuf.c
+                cbuf2_put   0x005620    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\cbuf.c
+               cbuf1_init   0x00566e    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\cbuf.c
+                cbuf1_get   0x00567a    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\cbuf.c
+                cbuf1_put   0x0056aa    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\cbuf.c
+                 FXM1616U   0x0056f8    program     extern C:\MCC18\SRC\TRADIT~1\MATH\fxm1616u.asm
+             exec_cb_dflt   0x005734    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+            __zero_memory   0x00574c    program     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+               clear_loop   0x005752    program     static C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+             _boot_marker   0x007cfe    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\main.c
+                     main   0x007d02    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\main.c
+        ___while_lbl00001   0x007d3e    program     static                          
+        ___while_lbl00002   0x007d54    program     static                          
+       ___return_lbl00000   0x007d54    program     static                          
+                   isr_hi   0x007d6c    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\main.c
+                   isr_lo   0x007d72    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\main.c
+               __tmplbl_1   0x007dcc    program     static                          
+               __tmplbl_0   0x007dd2    program     static                          
+           ___if_lbl00009   0x007dd8    program     static                          
+               __tmplbl_3   0x007de2    program     static                          
+               __tmplbl_2   0x007de8    program     static                          
+           ___if_lbl00011   0x007df4    program     static                          
+           ___if_lbl00012   0x007e00    program     static                          
+           ___if_lbl00013   0x007e00    program     static                          
+               __tmplbl_5   0x007e06    program     static                          
+               __tmplbl_4   0x007e0c    program     static                          
+       ___return_lbl00007   0x007e18    program     static                          
+           ___if_lbl00016   0x007e18    program     static                          
+           ___if_lbl00015   0x007e18    program     static                          
+            usb_ep1_check   0x007e6e    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+        usb_ep1_in_finish   0x007e9c    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+       usb_ep1_out_finish   0x007eac    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+          usb_ep1_out_get   0x007ebc    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+           usb_ep1_in_put   0x007f1c    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+                ee_read16   0x007f7c    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\ee_util.c
+                  ee_read   0x007f92    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\ee_util.c
+              ee_write_na   0x007fa4    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\ee_util.c
+                 ee_write   0x007fc4    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\ee_util.c
+                 _startup   0x007fd0    program     extern C:\MCC18\src\traditional\startup\c018i.c
+                     loop   0x007fe0    program     static                          
+       ___return_lbl00001   0x007fea    program     static                          
+              device_init   0x007fec    program     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\device.c
+                   __init   0x007ffa    program     extern C:\MCC18\src\TRADIT~1\stdclib\__init.c
+               __config_0   0x300000    program     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\device.c
+               __config_1   0x300001    program     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\device.c
+               __config_2   0x300002    program     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\device.c
+               __config_3   0x300003    program     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\device.c
+               __config_4   0x300005    program     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\device.c
+               __config_5   0x300006    program     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\device.c
+               __config_6   0x300008    program     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\device.c
+               __config_7   0x300009    program     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\device.c
+               __config_8   0x30000a    program     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\device.c
+               __config_9   0x30000b    program     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\device.c
+              __config_10   0x30000c    program     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\device.c
+              __config_11   0x30000d    program     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\device.c
+                     SIGN   0x000000       data     extern C:\MCC18\SRC\TRADIT~1\MATH\cmath18.asm
+                __FPFLAGS   0x000001       data     extern C:\MCC18\SRC\TRADIT~1\MATH\cmath18.asm
+            __FPFLAGSbits   0x000001       data     extern C:\MCC18\SRC\TRADIT~1\MATH\cmath18.asm
+                 __AARGB7   0x000002       data     extern C:\MCC18\SRC\TRADIT~1\MATH\aarg.asm
+                  __REMB3   0x000002       data     extern C:\MCC18\SRC\TRADIT~1\MATH\aarg.asm
+                 __AARGB6   0x000003       data     extern C:\MCC18\SRC\TRADIT~1\MATH\aarg.asm
+                  __REMB2   0x000003       data     extern C:\MCC18\SRC\TRADIT~1\MATH\aarg.asm
+                 __AARGB5   0x000004       data     extern C:\MCC18\SRC\TRADIT~1\MATH\aarg.asm
+                  __REMB1   0x000004       data     extern C:\MCC18\SRC\TRADIT~1\MATH\aarg.asm
+                 __AARGB4   0x000005       data     extern C:\MCC18\SRC\TRADIT~1\MATH\aarg.asm
+                  __REMB0   0x000005       data     extern C:\MCC18\SRC\TRADIT~1\MATH\aarg.asm
+                 __AARGB3   0x000006       data     extern C:\MCC18\SRC\TRADIT~1\MATH\aarg.asm
+                 __AARGB2   0x000007       data     extern C:\MCC18\SRC\TRADIT~1\MATH\aarg.asm
+                 __AARGB1   0x000008       data     extern C:\MCC18\SRC\TRADIT~1\MATH\aarg.asm
+                 __AARGB0   0x000009       data     extern C:\MCC18\SRC\TRADIT~1\MATH\aarg.asm
+                   __AEXP   0x00000a       data     extern C:\MCC18\SRC\TRADIT~1\MATH\aarg.asm
+                 __BARGB3   0x00000b       data     extern C:\MCC18\SRC\TRADIT~1\MATH\barg.asm
+                 __BARGB2   0x00000c       data     extern C:\MCC18\SRC\TRADIT~1\MATH\barg.asm
+                 __BARGB1   0x00000d       data     extern C:\MCC18\SRC\TRADIT~1\MATH\barg.asm
+                 __BARGB0   0x00000e       data     extern C:\MCC18\SRC\TRADIT~1\MATH\barg.asm
+                   __BEXP   0x00000f       data     extern C:\MCC18\SRC\TRADIT~1\MATH\barg.asm
+                 __TEMPB3   0x000010       data     extern C:\MCC18\SRC\TRADIT~1\MATH\temparg.asm
+                 __TEMPB2   0x000011       data     extern C:\MCC18\SRC\TRADIT~1\MATH\temparg.asm
+                 __TEMPB1   0x000012       data     extern C:\MCC18\SRC\TRADIT~1\MATH\temparg.asm
+                 __TEMPB0   0x000013       data     extern C:\MCC18\SRC\TRADIT~1\MATH\temparg.asm
+                   __TEMP   0x000013       data     extern C:\MCC18\SRC\TRADIT~1\MATH\temparg.asm
+                  __tmp_0   0x000014       data     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+                  __tmp_0   0x000014       data     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_i2cs.c
+                  __tmp_0   0x000014       data     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_lin.c
+                  __tmp_0   0x000014       data     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\cbuf.c
+               exec_flags   0x000060       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+              exec_data_p   0x000061       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+          exec_data_count   0x000063       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+               exec_count   0x000064       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+                 exec_tag   0x000065       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+                exec_data   0x000066       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+           exec_control_B   0x000067       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+            exec_status_B   0x00007f       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+       exec_status_save_1   0x000093       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+       exec_status_save_2   0x000094       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+       exec_status_save_3   0x000095       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+             exec_debug_1   0x000096       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+             exec_debug_2   0x000097       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+             exec_debug_3   0x000098       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+           exec_status_id   0x000099       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\exec.c
+               comm_state   0x00009a       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+                comm_data   0x00009b       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+              comm_data_2   0x00009c       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+              comm_data_3   0x00009d       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+        comm_cmnd_count_1   0x00009e       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+        comm_cmnd_count_2   0x00009f       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+  comm_cmnd_macro_count_1   0x0000a0       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+  comm_cmnd_macro_count_2   0x0000a1       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+     comm_macro_count_1_W   0x0000a2       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+     comm_macro_count_2_W   0x0000a4       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+            comm_flags1_B   0x0000a6       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+            comm_flags2_B   0x0000a7       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+             comm_varbs_B   0x0000a8       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+            comm_data_sim   0x0000b8       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+                comm_temp   0x0000b9       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\comm_gen.c
+                timer0_A0   0x0000ba       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+                timer0_A1   0x0000bb       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+                timer0_A2   0x0000bc       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+                timer0_A3   0x0000bd       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+                timer0_A4   0x0000be       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+                timer0_B0   0x0000bf       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+                timer0_B1   0x0000c0       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+                timer0_B2   0x0000c1       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+                timer0_B3   0x0000c2       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+                timer0_B4   0x0000c3       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+                timer0_C0   0x0000c4       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+                timer0_C1   0x0000c5       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+             timer0_AB0_W   0x0000c6       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+             timer0_AB1_W   0x0000c8       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+             timer0_AB2_W   0x0000ca       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+             timer0_AB3_W   0x0000cc       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+                timer0_AB   0x0000ce       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+                timer0_BC   0x0000cf       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+           timer0_flags_B   0x0000d0       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+               timer0_reg   0x0000d1       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\timer0.c
+                usb_state   0x0000d4       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+                 usb_addr   0x0000d5       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+              usb_flags_B   0x0000d6       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+               usb_config   0x0000d7       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+                usb_src_p   0x0000d8       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+                usb_dst_p   0x0000db       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+                usb_count   0x0000de       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+           usb_count_temp   0x0000df       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+                     prom   0x0000e0       data     static C:\MCC18\src\traditional\startup\c018i.c
+                curr_byte   0x0000e3       data     static C:\MCC18\src\traditional\startup\c018i.c
+               curr_entry   0x0000e5       data     static C:\MCC18\src\traditional\startup\c018i.c
+                 data_ptr   0x0000e7       data     static C:\MCC18\src\traditional\startup\c018i.c
+                ee_data_W   0x0000ea       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\ee_util.c
+                 arg_addr   0x0000ec       data     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\ee_util.c
+            __ee_read16:0   0x0000ec       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\ee_util.c
+              __ee_read:0   0x0000ed       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\ee_util.c
+                 arg_addr   0x0000ed       data     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\ee_util.c
+             __ee_write:0   0x0000ee       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\ee_util.c
+                 arg_addr   0x0000ee       data     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\ee_util.c
+             __ee_write:1   0x0000ef       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\ee_util.c
+                 arg_data   0x0000ef       data     static C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\ee_util.c
+             led_1_conf_B   0x0000f0       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\led2.c
+             led_1_oper_B   0x0000f1       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\led2.c
+             led_2_conf_B   0x0000f2       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\led2.c
+             led_2_oper_B   0x0000f3       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\led2.c
+                    cbuf3   0x0000f4       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\cbuf.c
+                    cbuf2   0x0000f8       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\cbuf.c
+                    cbuf1   0x0000fc       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\cbuf.c
+               cbuf3_data   0x000100       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\cbuf.c
+               cbuf2_data   0x000200       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\cbuf.c
+          usb_bdt_ep0_out   0x000400       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+           usb_bdt_ep0_in   0x000404       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+          usb_bdt_ep1_out   0x000408       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+           usb_bdt_ep1_in   0x00040c       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+          usb_buf_ep0_out   0x000500       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+           usb_buf_ep0_in   0x000540       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+          usb_buf_ep1_out   0x000580       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+           usb_buf_ep1_in   0x0005c0       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\usb.c
+               cbuf1_data   0x000600       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\cbuf.c
+             vsrc_flags_B   0x000700       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\vsrc.c
+         vsrc_fault_count   0x000701       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\vsrc.c
+                   temp_1   0x000702       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\main.c
+                   temp_2   0x000703       data     extern C:\PROJECTS\PKS\PKS-0305-WIP\PKS-0305-09\main.c
+                     UFRM   0x000f66       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    UFRML   0x000f66       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                UFRMLbits   0x000f66       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                UFRMHbits   0x000f67       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    UFRMH   0x000f67       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                      UIR   0x000f68       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  UIRbits   0x000f68       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  UIEbits   0x000f69       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                      UIE   0x000f69       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 UEIRbits   0x000f6a       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     UEIR   0x000f6a       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 UEIEbits   0x000f6b       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     UEIE   0x000f6b       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    USTAT   0x000f6c       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                USTATbits   0x000f6c       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 UCONbits   0x000f6d       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     UCON   0x000f6d       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    UADDR   0x000f6e       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                UADDRbits   0x000f6e       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     UCFG   0x000f6f       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 UCFGbits   0x000f6f       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     UEP0   0x000f70       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 UEP0bits   0x000f70       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     UEP1   0x000f71       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 UEP1bits   0x000f71       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     UEP2   0x000f72       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 UEP2bits   0x000f72       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     UEP3   0x000f73       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 UEP3bits   0x000f73       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     UEP4   0x000f74       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 UEP4bits   0x000f74       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     UEP5   0x000f75       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 UEP5bits   0x000f75       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     UEP6   0x000f76       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 UEP6bits   0x000f76       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 UEP7bits   0x000f77       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     UEP7   0x000f77       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     UEP8   0x000f78       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 UEP8bits   0x000f78       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     UEP9   0x000f79       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 UEP9bits   0x000f79       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    UEP10   0x000f7a       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                UEP10bits   0x000f7a       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    UEP11   0x000f7b       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                UEP11bits   0x000f7b       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    UEP12   0x000f7c       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                UEP12bits   0x000f7c       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    UEP13   0x000f7d       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                UEP13bits   0x000f7d       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    UEP14   0x000f7e       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                UEP14bits   0x000f7e       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    UEP15   0x000f7f       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                UEP15bits   0x000f7f       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                PORTAbits   0x000f80       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    PORTA   0x000f80       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                PORTBbits   0x000f81       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    PORTB   0x000f81       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    PORTC   0x000f82       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                PORTCbits   0x000f82       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                PORTEbits   0x000f84       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    PORTE   0x000f84       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 LATAbits   0x000f89       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     LATA   0x000f89       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 LATBbits   0x000f8a       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     LATB   0x000f8a       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 LATCbits   0x000f8b       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     LATC   0x000f8b       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                TRISAbits   0x000f92       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    TRISA   0x000f92       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 DDRAbits   0x000f92       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     DDRA   0x000f92       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     DDRB   0x000f93       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                TRISBbits   0x000f93       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    TRISB   0x000f93       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 DDRBbits   0x000f93       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                TRISCbits   0x000f94       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    TRISC   0x000f94       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     DDRC   0x000f94       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 DDRCbits   0x000f94       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  OSCTUNE   0x000f9b       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+              OSCTUNEbits   0x000f9b       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 PIE1bits   0x000f9d       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     PIE1   0x000f9d       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     PIR1   0x000f9e       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 PIR1bits   0x000f9e       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     IPR1   0x000f9f       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 IPR1bits   0x000f9f       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     PIE2   0x000fa0       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 PIE2bits   0x000fa0       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     PIR2   0x000fa1       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 PIR2bits   0x000fa1       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     IPR2   0x000fa2       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 IPR2bits   0x000fa2       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+               EECON1bits   0x000fa6       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   EECON1   0x000fa6       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   EECON2   0x000fa7       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   EEDATA   0x000fa8       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    EEADR   0x000fa9       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    RCSTA   0x000fab       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                RCSTAbits   0x000fab       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                TXSTAbits   0x000fac       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    TXSTA   0x000fac       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    TXREG   0x000fad       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    RCREG   0x000fae       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    SPBRG   0x000faf       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   SPBRGH   0x000fb0       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                T3CONbits   0x000fb1       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    T3CON   0x000fb1       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    TMR3L   0x000fb2       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    TMR3H   0x000fb3       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    CMCON   0x000fb4       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                CMCONbits   0x000fb4       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   CVRCON   0x000fb5       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+               CVRCONbits   0x000fb5       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+              ECCP1ASbits   0x000fb6       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  ECCP1AS   0x000fb6       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+               CCP1ASbits   0x000fb6       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   CCP1AS   0x000fb6       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+             ECCP1DELbits   0x000fb7       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 ECCP1DEL   0x000fb7       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+              CCP1DELbits   0x000fb7       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  CCP1DEL   0x000fb7       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  BAUDCON   0x000fb8       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+              BAUDCONbits   0x000fb8       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+              CCP2CONbits   0x000fba       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  CCP2CON   0x000fba       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    CCPR2   0x000fbb       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   CCPR2L   0x000fbb       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   CCPR2H   0x000fbc       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  CCP1CON   0x000fbd       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+              CCP1CONbits   0x000fbd       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    CCPR1   0x000fbe       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   CCPR1L   0x000fbe       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   CCPR1H   0x000fbf       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+               ADCON2bits   0x000fc0       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   ADCON2   0x000fc0       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+               ADCON1bits   0x000fc1       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   ADCON1   0x000fc1       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+               ADCON0bits   0x000fc2       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   ADCON0   0x000fc2       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    ADRES   0x000fc3       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   ADRESL   0x000fc3       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   ADRESH   0x000fc4       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+              SSPCON2bits   0x000fc5       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  SSPCON2   0x000fc5       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+              SSPCON1bits   0x000fc6       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  SSPCON1   0x000fc6       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+              SSPSTATbits   0x000fc7       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  SSPSTAT   0x000fc7       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   SSPADD   0x000fc8       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   SSPBUF   0x000fc9       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    T2CON   0x000fca       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                T2CONbits   0x000fca       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                      PR2   0x000fcb       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     TMR2   0x000fcc       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    T1CON   0x000fcd       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                T1CONbits   0x000fcd       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    TMR1L   0x000fce       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    TMR1H   0x000fcf       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     RCON   0x000fd0       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 RCONbits   0x000fd0       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+               WDTCONbits   0x000fd1       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   WDTCON   0x000fd1       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  HLVDCON   0x000fd2       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+              HLVDCONbits   0x000fd2       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   LVDCON   0x000fd2       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+               LVDCONbits   0x000fd2       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   OSCCON   0x000fd3       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+               OSCCONbits   0x000fd3       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    T0CON   0x000fd5       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                T0CONbits   0x000fd5       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    TMR0L   0x000fd6       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    TMR0H   0x000fd7       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   STATUS   0x000fd8       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+               STATUSbits   0x000fd8       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    FSR2L   0x000fd9       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     FSR2   0x000fd9       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    FSR2H   0x000fda       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   PLUSW2   0x000fdb       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  PREINC2   0x000fdc       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 POSTDEC2   0x000fdd       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 POSTINC2   0x000fde       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    INDF2   0x000fdf       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                      BSR   0x000fe0       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     FSR1   0x000fe1       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    FSR1L   0x000fe1       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    FSR1H   0x000fe2       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   PLUSW1   0x000fe3       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  PREINC1   0x000fe4       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 POSTDEC1   0x000fe5       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 POSTINC1   0x000fe6       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    INDF1   0x000fe7       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     WREG   0x000fe8       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     FSR0   0x000fe9       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    FSR0L   0x000fe9       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    FSR0H   0x000fea       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   PLUSW0   0x000feb       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  PREINC0   0x000fec       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 POSTDEC0   0x000fed       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                 POSTINC0   0x000fee       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    INDF0   0x000fef       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  INTCON3   0x000ff0       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+              INTCON3bits   0x000ff0       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+              INTCON2bits   0x000ff1       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  INTCON2   0x000ff1       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   INTCON   0x000ff2       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+               INTCONbits   0x000ff2       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     PROD   0x000ff3       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    PRODL   0x000ff3       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                    PRODH   0x000ff4       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   TABLAT   0x000ff5       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  TBLPTRL   0x000ff6       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   TBLPTR   0x000ff6       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  TBLPTRH   0x000ff7       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                  TBLPTRU   0x000ff8       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                       PC   0x000ff9       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                      PCL   0x000ff9       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   PCLATH   0x000ffa       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   PCLATU   0x000ffb       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+               STKPTRbits   0x000ffc       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                   STKPTR   0x000ffc       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                      TOS   0x000ffd       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     TOSL   0x000ffd       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     TOSH   0x000ffe       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+                     TOSU   0x000fff       data     extern C:\MCC18\SRC\TRADIT~1\PROC\p18f2550.asm
+
+
